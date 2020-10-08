@@ -1,0 +1,532 @@
+Brand,Name,Flight Rating
+Innova,Ape,13/4.9/0/4.1
+Innova,Archon,11/4.9/-1.9/2
+Innova,Beast,10/5/-2/2
+Innova,Boss,13/5/-0.6/3
+Innova,Colossus,13.9/4.9/-1.9/2.9
+Innova,Corvette,13.9/5.9/-1/2
+Innova,Daedalus,13/5.9/-3.5/1.9
+Innova,Destroyer,12/5/-1/3
+Innova,Dominator,12.9/4.8/-0.8/2.2
+Innova,Firestorm,13.7/4/-0.3/2.8
+Innova,Groove,12.7/5.6/-1.5/2.4
+Innova,Invictus,10.8/4/0/3
+Innova,Katana,13/5/-2.7/2.9
+Innova,Krait,11/5/-0.9/2
+Innova,Mamba,11/6/-4.8/1
+Innova,Max,11/3/0/5
+Innova,Monarch,10/5/-3.6/1.1
+Innova,Monster,10.1/2.9/0.1/4.9
+Innova,Mystere,11/6/-2.2/1.9
+Innova,Orc,10/4.1/-1/3
+Innova,Shryke,12.9/6/-2/2
+Innova,SL,10/5/-1/2
+Innova,Starfire,10/4.4/-0.4/2.6
+Innova,TeeDevil,12/4.9/-1.2/2.1
+Innova,TeeRex,11/4/-0.2/3.7
+Innova,Tern,12/6/-2.1/2
+Innova,Vulcan,13/5/-3.6/2
+Innova,Wahoo,12/6/-2.1/2
+Innova,Wraith,11/5/-1.1/2.9
+Innova,X-Caliber,12/4.8/-0.1/3.8
+Innova,Archangel,8/6/-4/1.3
+Innova,Banshee,7.1/3.1/0/3
+Innova,Cheetah,6/4/-2/2
+Innova,Dragon,7.9/4.9/-2.3/1.8
+Innova,Eagle,7/4/-0.9/3
+Innova,Firebird,9/3.1/0/4
+Innova,FL,9/3.2/0/2
+Innova,Gargoyle,6/3/-1/2
+Innova,Gazelle,6/4/-0.2/1.9
+Innova,Leopard,6/5/-1.9/1
+Innova,Leopard3,7/5.1/-1.8/1.1
+Innova,Pegasus,7/3.9/-0.8/3
+Innova,Python,7/3/-1/2
+Innova,Ram,6.3/4/1/4
+Innova,Raven,6/4/-2/2
+Innova,Roadrunner,9/5.1/-3.8/1.1
+Innova,Savant,8.9/5/-0.9/2.1
+Innova,Sidewinder,9/5/-2.8/1.1
+Innova,TeeBird,7/5/-0.1/2
+Innova,TeeBird +,7/5/0/2
+Innova,TeeBird3,8/4.1/0/2.1
+Innova,Thunderbird,9/5/-0.1/2.1
+Innova,TL,7/5.1/-0.2/1
+Innova,TL3,8/4.1/-0.5/1
+Innova,Valkyrie,8.9/4.1/-2/2
+Innova,Viking,9/4/-1/2
+Innova,Viper,6.1/4.1/1/5
+Innova,Whippet,6/3.1/0.9/4.9
+Innova,Atlas,5/4.8/-0.1/1
+Innova,Avatar,5/4.1/0/2
+Innova,Barracuda,5/4/-2/3
+Innova,Bulldog,4/3/0/2
+Innova,Caiman,5/2.4/0/3.6
+Innova,Cobra,4/5/-2/1.9
+Innova,Commander,5.2/3.2/0/3.8
+Innova,Condor,3/4.2/-0.1/1.8
+Innova,Coyote,4/4.5/-0.7/1.3
+Innova,Cro,4.9/3/0/2
+Innova,Croc,5.3/2.1/0.1/4.8
+Innova,Foxbat,5/5.9/-1/0
+Innova,Gator,5/2.1/0/3.1
+Innova,Gator3,4.9/2.1/0/3
+Innova,Griffin,5/3/1/3
+Innova,Jaguar,5.5/6/-3/2
+Innova,King Cobra,4.1/5/0/1.9
+Innova,Kite,5/6/-2.9/1
+Innova,Lion,5/3.9/0/1.9
+Innova,Lycan,4/5/0/1
+Innova,Makani,2/7/-2/0
+Innova,Mako,4/5/-0.1/0
+Innova,Mako3,5/4.2/-0.1/0.1
+Innova,Manta,5/5/-2.7/1.1
+Innova,Panther,5/4/-1.9/1
+Innova,Rancho Roc,4/4/0/2.9
+Innova,Rat,4/2.4/0/2.6
+Innova,Roc,4/4.1/-0.1/2.6
+Innova,Roc +,4/5/0/2
+Innova,Roc3,5/4.1/-0.1/2.7
+Innova,RocX3,5/4/0/3.3
+Innova,Scorpion,5/5/-1/2
+Innova,Shark,4/4/-0.2/1.8
+Innova,Shark3,5/4.1/-0.1/1.9
+Innova,Skeeter,4.9/5/-0.9/0.9
+Innova,Spider,5/3.1/0/1.1
+Innova,Stingray,4/4.9/-2.8/1
+Innova,Super Stingray,4/5/-1/1
+Innova,VCobra,5/5.1/-1/1.9
+Innova,VRoc,4/3.9/0/1.7
+Innova,Wedge,4/3.1/-3.1/1
+Innova,Wolf,4/3.1/-3.9/0.9
+Innova,Wombat,5/6/-1.2/0.8
+Innova,Wombat3,5/5.8/-1.2/0.1
+Innova,Ace,2/3/-2.1/1
+Innova,Aero,3/6/-0.3/0
+Innova,Aviar,2/3/0/1
+Innova,Aviar Classic,2/3/0/0
+Innova,Aviar Driver,2/3/0/1.9
+Innova,Aviar Yeti,2/2.9/0/1
+Innova,Aviar-X (JK),2/3/0/1.9
+Innova,Aviar3,3/2.1/0/1.9
+Innova,AviarX3,3/2.1/0/3
+Innova,Birdie,1/2/0/0
+Innova,Bullfrog,3/1.2/0/1
+Innova,Classic Roc,3/3/0/2
+Innova,Colt,3.1/3.3/-0.9/1
+Innova,Coupe,2/3/-1/1
+Innova,Croc,5.3/2.1/0.1/4.8
+Innova,Dart,3.1/4.1/0/0.1
+Innova,Firefly,2/3/0/0.9
+Innova,Hammer,2.2/2/-1/1.8
+Innova,Hawg,2/1/0/3.3
+Innova,Hydra,3/3/0/2.1
+Innova,Invader,3/2.1/0/1
+Innova,KC Aviar,2/3/0/2
+Innova,Mirage,3.1/4.1/-3/0.1
+Innova,Nova,2/3/0/0
+Innova,Pig,3/1/0/3
+Innova,Polecat,1/3/0/0
+Innova,Rhyno,2/1.2/0/2.8
+Innova,RhynoX,2/1/0/4
+Innova,Sonic,1/2.1/-3.9/0.1
+Innova,Stud,3/3/0/2
+Innova,Warhog,3/3/0/1
+Innova,Wedge,4/3.1/-3.1/1
+Innova,Whale,2/3.1/0/1
+Innova,XD,3/4/-1/1
+Innova,XD +,3/4/-0.9/0.9
+Innova,Zephyr,1.9/3.2/-0.1/0
+Discmania,CD,10/4.8/-0.9/2
+Discmania,CD3,10.9/5/-1/2.1
+Discmania,DD,11.1/4.9/0/2.1
+Discmania,DD2,12.9/4.9/-2/2
+Discmania,DD3,12/5/-1/3
+Discmania,DDx,12/5.8/-1.1/2
+Discmania,Enigma,12.1/5.1/-1/2.1
+Discmania,Mentor,11/5/-1.7/2.1
+Discmania,PD,9.9/4.1/0/3
+Discmania,PD2,12/4.1/0/3.9
+Discmania,PD3,11/3/-0.1/5
+Discmania,PDx,10.9/4/-0.1/3
+Discmania,TD,10/5.8/-1.8/1.1
+Discmania,TD2 Fever,10/5.1/-3.6/1.1
+Discmania,TDx,9/5/-2.8/1.1
+Discmania,CD2,9.1/5/-1/2
+Discmania,Essence,8/6/-2/1
+Discmania,FD,7/5.9/-1/1.1
+Discmania,FD2,7/4.1/0/2.1
+Discmania,FD3,9/4.1/0/3
+Discmania,Genius,7.2/5/-4/1
+Discmania,Instinct,7.2/5.2/-0.1/2
+Discmania,Magician,6/4/0/2
+Discmania,Gremlin GM,5.1/4/0/2
+Discmania,Maestro,4/2.9/-0.1/1.9
+Discmania,MD,4/5/-0.1/0.1
+Discmania,MD1,4/4/0/2
+Discmania,MD2,4/5/-0.2/1.9
+Discmania,MD3,5/5/-0.1/2.4
+Discmania,MD4,5/4.1/-0.1/2.9
+Discmania,MD5,5/3.1/0/4
+Discmania,Method,5/5/0/2.9
+Discmania,Origin,5/5.1/-1.1/1
+Discmania,Link,2/3.1/0/1
+Discmania,P1,2.1/3.1/-0.1/0.1
+Discmania,P1X,2.1/3/-0.1/0.5
+Discmania,P2,2/3.1/0/1.2
+Discmania,P3,3/4.3/0/2.7
+Discmania,P3x,3/2.2/0/2.6
+Discmania,Sensei,2.8/3/0/1.1
+Discmania,Tactic,4/2.1/0/3
+Discraft,Avenger,9.9/4.8/0/2.9
+Discraft,Avenger SS,9.8/4.9/-2.9/1
+Discraft,Crank,12.3/5/-1.4/2
+Discraft,Crank SS,12.6/4.7/-2.8/1.8
+Discraft,Crush,11.1/5/-0.1/3.8
+Discraft,Flash,10/5/-1.9/2.9
+Discraft,Flick,10/3.5/0.9/4.3
+Discraft,Force,12/4.9/0/3.2
+Discraft,Hades,12/6/-3/1.9
+Discraft,Machete,10.6/3.7/0.1/3.9
+Discraft,Nuke,13/4.9/-1/3
+Discraft,Nuke OS,13/4/0/4.1
+Discraft,Nuke SS,13/5/-3/2.9
+Discraft,Pulse,10.9/3.9/0/3
+Discraft,Punisher,11.9/4.9/-0.3/2.9
+Discraft,Spectra,11.8/4.9/-2/2
+Discraft,Surge,11/5/-1/2.9
+Discraft,Surge SS,11/4.9/-1.1/2
+Discraft,Thrasher,11.9/5.1/-2.8/1.9
+Discraft,Wildcat,11/5/-2/3
+Discraft,Zeus,12/5/-0.9/3
+Discraft,Anax,10/5.8/-0.1/2.9
+Discraft,Cyclone,7/4.2/-1/2.8
+Discraft,Eclipse,6.8/5/-2/1.9
+Discraft,Heat,9/5.7/-2.9/1
+Discraft,Mantis,8/4.5/-1.5/1.9
+Discraft,Predator,9/4/-0.1/4
+Discraft,Raptor,9/4/0/3
+Discraft,Reaper,8/3.2/-0.1/3.7
+Discraft,Stalker,7.3/4.9/-1/1.6
+Discraft,Sting,6.8/4.9/-2.2/0.9
+Discraft,Talon,8/3/1/3
+Discraft,Tracker,7.9/4.4/-0.5/3.3
+Discraft,Undertaker,8.9/5/-1/2.2
+Discraft,Vulture,9.7/4.8/-0.1/2
+Discraft,XL,7.9/5/-1/1.9
+Discraft,Xpress,7.9/4.9/-3.1/0.9
+Discraft,XS,8/4.9/-2/3
+Discraft,Xtreme,6/3/1/4
+Discraft,Zombee,6/4.9/-1/0.9
+Discraft,Archer,6/5/-3/1
+Discraft,Buzzz,5/4.3/-0.6/1.1
+Discraft,Buzzz GT,5/4.9/0/1.3
+Discraft,Buzzz OS,5/3.9/0/3
+Discraft,Buzzz SS,5/4.1/-1.9/1
+Discraft,Comet,4.1/5.2/-1.8/0.9
+Discraft,Drone,5/3.4/0.5/3.9
+Discraft,Glide,5.9/5/-3/1.8
+Discraft,Hawk,4/5/-1.8/1.9
+Discraft,Hornet,5/5/-0.1/3.8
+Discraft,Impact,5.1/5/-1.9/1.9
+Discraft,Malta,5/4.1/0.5/2.9
+Discraft,Meteor,4.2/4.9/-2.8/1
+Discraft,Nebula,5/4/-0.5/2
+Discraft,Sol,4/4.8/-2.8/0.4
+Discraft,Stratus,5/4.9/-3/1
+Discraft,Wasp,5/4.2/0/2.5
+Discraft,APX,2/3/-1/0.9
+Discraft,Banger GT,2/3/-0.1/1
+Discraft,Challenger,2/3/0/1.9
+Discraft,Challenger OS,2.9/4.8/0/2.6
+Discraft,Challenger SS,2/3.9/-0.7/1.7
+Discraft,Fierce,3/4/-2/0
+Discraft,Focus,2/3/-1/1.8
+Discraft,Luna,3/3.1/-0.1/2.2
+Discraft,Magnet,2/3/-1/1.9
+Discraft,Putt'r,2/3.1/-2/0.9
+Discraft,Rattler,2/3.1/-1/1
+Discraft,Ringer,3/3.8/0/1.9
+Discraft,Ringer GT,3/3/0/2.8
+Discraft,Roach,2.1/3.9/-0.3/1
+Discraft,Soft Magnet,2/3.1/-1/1.8
+Discraft,Zone,3.8/3/0/3
+Dynamic Discs,Captain,12.7/4.9/-2.1/2.1
+Dynamic Discs,Criminal,10/3.1/1/4.1
+Dynamic Discs,Defender,13/4.9/0/3.1
+Dynamic Discs,Enforcer,12/4.1/0.3/3.9
+Dynamic Discs,Freedom,13.8/5/-2.8/2.6
+Dynamic Discs,Raider,12.9/5/-0.6/3
+Dynamic Discs,Renegade,11/5/-2.1/2.6
+Dynamic Discs,Sergeant,11/4/0/2.6
+Dynamic Discs,Sheriff,12.9/5.1/-1/2
+Dynamic Discs,Trespass,11.9/5/-1.1/2.8
+Dynamic Discs,Breakout,8/5.1/-1.2/1.5
+Dynamic Discs,Convict,9/4.1/-0.6/2.8
+Dynamic Discs,Escape,9/5.2/-0.9/1.9
+Dynamic Discs,Felon,9/3.6/0.2/3.9
+Dynamic Discs,Getaway,9/5.1/-0.5/2.8
+Dynamic Discs,Maverick,7.1/4.3/-1.6/1.8
+Dynamic Discs,Thief,8/5/-1.4/1.7
+Dynamic Discs,Vandal,9/5/-1.3/2
+Dynamic Discs,Witness,8/6/-3/1
+Dynamic Discs,EMac Truth,5/5/-0.2/1.9
+Dynamic Discs,Evidence,5/5.1/-1/0.3
+Dynamic Discs,Fugitive,5/5/-0.2/1
+Dynamic Discs,Justice,5/2.1/0.5/4.1
+Dynamic Discs,Patrol,5/5/-3/0.6
+Dynamic Discs,Proof,5/5/-3.1/0.9
+Dynamic Discs,Suspect,4/3.1/-0.1/2.8
+Dynamic Discs,Truth,5/5.1/-0.7/1.4
+Dynamic Discs,Verdict,5.1/4.1/-0.1/3.3
+Dynamic Discs,Warrant,5/5/-1.9/0.1
+Dynamic Discs,Deputy,3/4/-1.4/0
+Dynamic Discs,Gavel,3/5/-1.8/0.4
+Dynamic Discs,Guard,2/5/0/0.5
+Dynamic Discs,Judge,2.1/4/0/0.8
+Dynamic Discs,Marshal,3/3.6/-0.1/1.2
+Dynamic Discs,Slammer,2.6/2.1/0/3
+Dynamic Discs,Warden,2/3.5/0/0.5
+Gateway,Apache,9/4/-1/2
+Gateway,Apex,12/6/-1/1.9
+Gateway,Diablo,10.7/5.1/-0.9/2
+Gateway,Illusion,11/4.9/-0.9/3.1
+Gateway,Journey,12.2/6/-1.5/1.1
+Gateway,Ninja,10.6/4.9/-0.1/2.1
+Gateway,Rage,10/5/-0.5/3.5
+Gateway,Samurai,13/5.8/-2.2/1.1
+Gateway,Siren,12.8/4.9/-1.9/1.2
+Gateway,Slayer,12.9/4.9/-1.2/2.2
+Gateway,Speed Demon,12/3/0/4
+Gateway,Spirit,11.7/3.9/0.3/4.4
+Gateway,Apache,9/4/-1/2
+Gateway,Assassin,8.9/6/-1.6/1.1
+Gateway,Blade,9/4.7/-0.1/3.1
+Gateway,Blaze,7/4.8/0/2.8
+Gateway,Hybrid,7/4/-0.5/3
+Gateway,Sabre,8/5/-1/1
+Gateway,Spear,9/6/-1.9/1.1
+Gateway,Blaze,7/4.8/0/2.8
+Gateway,Demon,5.9/3/0.1/4.1
+Gateway,Element,5/5/-1.3/1
+Gateway,Karma,6.2/4.8/-0.8/2.1
+Gateway,Mystic,5/4.9/-2.1/0.1
+Gateway,Prophecy,5/5.1/0/2.1
+Gateway,Scout,6/5/-1/1.9
+Gateway,Warrior,5/4/-0.1/3
+Gateway,Chief,3/3.1/-0.1/1.2
+Gateway,Chief OS,3/3/0/2.4
+Gateway,Devil Hawk,3/2.9/0.1/2.1
+Gateway,Magic,2.3/3.7/-1/0
+Gateway,Shaman,3.1/3.2/-0.6/1.2
+Gateway,Training Wizard,3/5/0/2
+Gateway,Voodoo,2.6/3.7/0/0.8
+Gateway,Warlock,2.4/3.7/-0.2/1.3
+Gateway,Warspear,2.1/2.6/0/2.4
+Gateway,Wizard,2.5/3.9/0/1.9
+Infinite Discs,Aztec,10/5/-1.2/1.9
+Infinite Discs,Emperor,12/5.1/-1.1/2.5
+Infinite Discs,Maya,11.9/5.1/-2.9/1
+Infinite Discs,Pharaoh,12.9/5.8/-1.2/2
+Infinite Discs,Slab,11.9/3/0/4
+Infinite Discs,Centurion,6.9/5.1/-1.1/1.4
+Infinite Discs,Exodus,7.1/4.9/-0.5/2
+Infinite Discs,Scepter,9/3.7/0/3.9
+Infinite Discs,Sphinx,9/6/-2.8/1
+Infinite Discs,Anubis,5/5/-0.2/0.3
+Infinite Discs,Chariot,5/5/0/1.1
+Infinite Discs,Inca,5/4.9/0/2.7
+Infinite Discs,Ra,5/4.1/-0.1/2.5
+Infinite Discs,Cohort,3.5/4/0/0.9
+Infinite Discs,Myth,2/3/0/1.9
+Infinite Discs,Ruin,3/3/0/2.9
+Infinite Discs,Scarab,2/4/-0.1/1
+Infinite Discs,Tomb,3.1/3.9/0/1.1
+Latitude 64,Ballista,13.9/4.8/-0.9/2.9
+Latitude 64,Ballista Pro,13.9/4.4/-0.3/2.9
+Latitude 64,Blitz,11.9/3.3/0/3.8
+Latitude 64,Bolt,13/6/-2.3/2.6
+Latitude 64,Cutlass,12.9/4.9/0/3.3
+Latitude 64,Flow,11/5.9/-0.7/2.1
+Latitude 64,Gladiator,13/5/0/3.3
+Latitude 64,Halo,12.9/5/-0.6/2.8
+Latitude 64,Havoc,12.9/5.1/-1.3/2.6
+Latitude 64,Knight,14/4.2/-1.6/3.6
+Latitude 64,Missilen,14.9/3.2/-0.4/4
+Latitude 64,Musket,10/5/-0.7/2.3
+Latitude 64,Raketen,14.5/3.6/-2.1/2.7
+Latitude 64,Recoil,12/4.1/0/3
+Latitude 64,Riot,11/4/-0.9/2.1
+Latitude 64,Sapphire,10/6/-1.8/1.6
+Latitude 64,Scythe,12/3.2/0/4
+Latitude 64,Stiletto,13/2.7/0.8/5.3
+Latitude 64,Villain,12/4/-0.2/3.7
+Latitude 64,Bryce,9/6/-1.8/1.9
+Latitude 64,Culverin,9/5/-0.3/2.9
+Latitude 64,Diamond,8/6/-3.1/1
+Latitude 64,Explorer,7/5/-0.1/2
+Latitude 64,Falchion,8.5/5.6/-1.1/2
+Latitude 64,Fury,8.9/6.5/-2.1/1.3
+Latitude 64,Jade,9/5/-2/1.4
+Latitude 64,Maul,7/6.9/-2.2/1
+Latitude 64,Pioneer,9/3/0/3.9
+Latitude 64,Primitus,9/5/0/2
+Latitude 64,River,7/6.9/-1.1/1.1
+Latitude 64,River Pro,6.4/5/-0.2/2.1
+Latitude 64,Saint,9/6.8/-1.4/1.9
+Latitude 64,Saint Pro,8.4/6/-0.4/2.6
+Latitude 64,Spark,7.1/4.1/-0.2/2.6
+Latitude 64,Striker,8.2/5/-0.1/1.9
+Latitude 64,Trident,5.8/3.2/-0.2/3.9
+Latitude 64,Vision,8/6.1/-1.4/1.9
+Latitude 64,XXX,7.2/2.8/0/4.4
+Latitude 64,Zion,9/3.8/-0.6/3
+Latitude 64,Anchor,5/4/0/2.8
+Latitude 64,Claymore,5/5/-0.7/1
+Latitude 64,Compass,4.9/4.9/0/1
+Latitude 64,Core,5.4/5/-0.8/1
+Latitude 64,Fuji,4.1/4.1/-0.1/1.9
+Latitude 64,Fuse,5/6.2/-1.3/0.3
+Latitude 64,Gobi,5.7/5.2/-0.5/1.1
+Latitude 64,Mace,5/5/0/1.9
+Latitude 64,Medius,5/5/-1/2
+Latitude 64,Pain,4.1/4/-0.1/3.1
+Latitude 64,Pearl,4.1/6/-4.1/0.2
+Latitude 64,Trident,5.8/3.2/-0.2/3.9
+Latitude 64,Beetle,1/6.9/-1.1/0
+Latitude 64,Caltrop,2/2.1/0/2
+Latitude 64,Dagger,2/4.7/0/1.3
+Latitude 64,Gauntlet,2.1/4.2/0/1
+Latitude 64,Keystone,2.1/5/-1/0.9
+Latitude 64,Macana,2/5/0/1
+Latitude 64,Mercy,2.1/4/0/1
+Latitude 64,Pure,3/3.2/-0.5/0.6
+Latitude 64,Ruby,3/4.8/-3/0.9
+Latitude 64,Sarek,2.1/4.2/-0.1/1.4
+Latitude 64,Sinus,2.1/1.9/0/2.4
+Latitude 64,Spike,3.9/2.7/-1/0.9
+MVP,Catalyst,13/5.5/-2/1.6
+MVP,Dimension,14/4.9/0/3.1
+MVP,Energy,13.1/4.1/0.2/3.8
+MVP,Impulse,10/4.9/-2.9/1.1
+MVP,Inertia,10.3/4.9/-1.9/2
+MVP,Limit,14/4/0.3/4.3
+MVP,Motion,9.9/4/0.1/4
+MVP,Nitro,13/4.4/-0.3/2.6
+MVP,Octane,13/4.9/-0.9/2.1
+MVP,Orbital,11.5/5/-4.4/0.9
+MVP,Phase,11.3/3.5/0.1/4.1
+MVP,Photon,11.5/4.9/-1/2.7
+MVP,Relativity,13.9/5.1/-2.5/1.6
+MVP,Teleport,14/5.1/-1.2/2.2
+MVP,Tesla,10.1/4.7/-0.6/2.3
+MVP,Wave,11.4/5/-1.9/1.8
+MVP,Amp,8.1/5/-1.3/1.2
+MVP,Relay,6.1/5/-2.4/1.1
+MVP,Resistor,6.6/3.8/0/3.3
+MVP,Servo,6.6/4.9/-0.9/2
+MVP,Shock,8/5/-0.1/2.5
+MVP,Signal,6/5/-3/1
+MVP,Switch,6.7/5/-1.5/1.1
+MVP,Volt,8.1/4.9/-0.7/2.1
+MVP,Axis,5/4.9/-0.9/1
+MVP,Deflector,5/3.5/0.2/4.1
+MVP,Matrix,5/4.1/-0.6/2
+MVP,Reactor,5/4.9/-0.5/1.5
+MVP,Tangent,4.5/4.1/-0.9/1
+MVP,Tensor,4.4/4.3/-0.1/2.5
+MVP,Vector,5/4/0/2.3
+MVP,Vertex,4.2/4/-2.3/0.6
+MVP,Anode,3/3.1/0/0.4
+MVP,Atom,2.6/3.1/-0.3/0.8
+MVP,Entropy,3.9/2.9/0/3
+MVP,Ion,3/3.6/0/1.2
+MVP,Ohm,2/5/0/1
+MVP,Particle,3/3/-0.1/2.2
+MVP,Spin,3/4/-1.6/0
+Prodigy,D Model OS,13/5/0/3.9
+Prodigy,D Model S,13/6/-0.1/2.1
+Prodigy,D Model US,13/6/-2.8/1.2
+Prodigy,D1,12.3/5.1/-0.2/2.9
+Prodigy,D1 Max,12/5/-0.2/2.9
+Prodigy,D2,12.2/5.9/-0.9/2.9
+Prodigy,D2 Max,11.9/5.8/-1/2.9
+Prodigy,D3,12.4/5.9/-1.9/2.1
+Prodigy,D3 Max,12/5.8/-2.5/1.6
+Prodigy,D4,12.2/5.9/-2.9/2.1
+Prodigy,D5,12.3/5.9/-3.6/2.1
+Prodigy,D6,12.2/6/-4/1
+Prodigy,X1,12.9/3/0/4.9
+Prodigy,X2,12.8/4.3/-0.1/3.8
+Prodigy,X3,11.8/4.9/-1/2.1
+Prodigy,X4,12.7/5.1/-2.3/2
+Prodigy,X5,13/5/-3.8/1.2
+Prodigy,F Model OS,10/5/2/4
+Prodigy,F Model S,10/5/0.3/2.9
+Prodigy,F Model US,10/5/-1.7/1.3
+Prodigy,F1,7/4.1/-0.2/2.8
+Prodigy,F2,7.1/4.9/-1/2.9
+Prodigy,F3,7/5/-1/2
+Prodigy,F5,7/5/-1.8/1.1
+Prodigy,F7,7/5/-3/0.9
+Prodigy,FX-2,9.1/4.1/-0.6/3.1
+Prodigy,H1,9.9/3.1/0.1/3.8
+Prodigy,H1 V2,10.8/4/0/3
+Prodigy,H2,9/4.7/0/2.3
+Prodigy,H2 V2,10.9/4.9/-0.2/2.4
+Prodigy,H3,9/3.9/0.1/2.2
+Prodigy,H3 V2,10.8/5/-0.9/2.1
+Prodigy,H4,9/4.7/-1.9/1.6
+Prodigy,H4 V2,11.1/5.1/-2/1.5
+Prodigy,H5,9/5/-2.9/1
+Prodigy,M Model OS,6/4.1/-0.9/2.8
+Prodigy,M Model S,5.9/4.1/0/2.8
+Prodigy,M Model US,4/5/-1/0.9
+Prodigy,M1,5/4/0/2.8
+Prodigy,M2,5/4/-0.1/2
+Prodigy,M3,5/5/-0.9/2
+Prodigy,M4,5/4.9/-1.1/1
+Prodigy,M5,5/5/-3/0.9
+Prodigy,MX-3,5/4.1/-0.1/1.8
+Prodigy,A1,3.2/2.9/0.1/3.2
+Prodigy,A2,4/3.6/0.1/3.2
+Prodigy,A3,4/3.8/0/3.1
+Prodigy,A4,3.9/3.9/-0.8/2
+Prodigy,P Model S,3/4.9/0/1.9
+Prodigy,P Model US,3/4.8/-1/1
+Prodigy,PA-1,3/3/0/2
+Prodigy,PA-2,3/3/0/1.2
+Prodigy,PA-3,3/4/0/1.1
+Prodigy,PA-4,3/3.1/-0.9/0.9
+Westside,Boatman,10.8/5.1/-0.1/2.1
+Westside,Catapult,13.8/4.6/-0.5/3
+Westside,Destiny,13.7/6/-2.2/2.7
+Westside,Fortress,10/4/0/3
+Westside,Giant,12.8/4.5/0.1/3.4
+Westside,King,13.6/5.1/-2.1/2.8
+Westside,Northman,10/5/-1.1/1.8
+Westside,Queen,13.7/5.1/-2.8/1.9
+Westside,Sampo,9.9/4.6/-0.6/2.1
+Westside,Sorcerer,12.9/5.4/-0.7/2.4
+Westside,Sword,11.9/5.1/-0.8/2
+Westside,War Horse,12.9/4/0/4
+Westside,World,14/4/-0.3/3.3
+Westside,Ahti,9/3/0.1/4
+Westside,Hatchet,9/5.9/-2.2/1.3
+Westside,Longbowman,8.7/4/0/2.9
+Westside,Seer,7/5.1/-1.9/1.2
+Westside,Stag,8/5.9/-1/2
+Westside,Underworld,7.1/6/-2.8/1
+Westside,Anvil,4.1/2.3/0/4
+Westside,Bard,5/3.9/0/2.9
+Westside,Gatekeeper,4.1/5/-0.1/2
+Westside,Pine,5/4.4/-0.1/2
+Westside,Sling,4.5/4.9/-0.4/0.8
+Westside,Tursas,5/5.1/-2.4/1
+Westside,Warship,5.7/5.5/-0.1/1
+Westside,Crown,3/4/0/1
+Westside,Harp,4/3/0/2.5
+Westside,Maiden,3/3.8/-0.3/1
+Westside,Shield,3/3/0/1
+Westside,Swan,2.9/2.9/-1.1/0
+Westside,Swan 1 Reborn,3/3.1/-2.2/0.1
