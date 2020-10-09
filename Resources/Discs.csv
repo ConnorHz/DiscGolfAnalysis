@@ -1,1674 +1,837 @@
 Name,Brand,Category,Stability,Speed,Glide,Turn,Fade,URL,ThumbnailURL
-
 CD,Discmania,Distance Drivers,Overstable,10,4.8,-0.9,2,https://infinitediscs.com/Discmania-CD-Craze,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00265.jpg
-
 CD3,Discmania,Distance Drivers,Overstable,10.9,5,-1,2.1,https://infinitediscs.com/Discmania-CD3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7c51fe-723f.JPG
-
 DD,Discmania,Distance Drivers,Overstable,11.1,4.9,0,2.1,https://infinitediscs.com/Discmania-DD-Hysteria,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00268.jpg
-
 DD2,Discmania,Distance Drivers,Neutral,12.9,4.9,-2,2,https://infinitediscs.com/Discmania-DD2-Frenzy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00273.jpg
-
 DD3,Discmania,Distance Drivers,Overstable,12,5,-1,3,https://infinitediscs.com/Discmania-DD3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_SLINEDD3.JPG
-
 DDx,Discmania,Distance Drivers,Overstable,12,5.8,-1.1,2,https://infinitediscs.com/Discmania-DDx,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c69c03-0e34.JPG
-
 Enigma,Discmania,Distance Drivers,Overstable,12.1,5.1,-1,2.1,https://infinitediscs.com/Discmania-Evolution-Enigma,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_afbb43-a62b.JPG
-
 Mentor,Discmania,Distance Drivers,Neutral,11,5,-1.7,2.1,https://infinitediscs.com/Discmania-Mentor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_unnamed16.jpg
-
 PD,Discmania,Distance Drivers,Overstable,9.9,4.1,0,3,https://infinitediscs.com/Discmania-PD-Freak,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC09553.jpg
-
 PD2,Discmania,Distance Drivers,Very Overstable,12,4.1,0,3.9,https://infinitediscs.com/Discmania-PD2-Chaos,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03857.jpg
-
 PD3,Discmania,Distance Drivers,Very Overstable,11,3,-0.1,5,https://infinitediscs.com/Discmania-PD3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Infinite8_6.jpg
-
 PDx,Discmania,Distance Drivers,Overstable,10.9,4,-0.1,3,https://infinitediscs.com/Discmania-PDx,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdf123_1.JPG
-
 TD,Discmania,Distance Drivers,Understable,10,5.8,-1.8,1.1,https://infinitediscs.com/Discmania-TD-Rush,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00309.jpg
-
 TD2 Fever,Discmania,Distance Drivers,Very Understable,10,5.1,-3.6,1.1,https://infinitediscs.com/Discmania-TD2-Fever,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00311.jpg
-
 TDx,Discmania,Distance Drivers,Understable,9,5,-2.8,1.1,https://infinitediscs.com/Discmania-TDx,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d69e5c-1267.JPG
-
 CD2,Discmania,Control Drivers,Overstable,9.1,5,-1,2,https://infinitediscs.com/Discmania-CD2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3f874c-376a.JPG
-
 Essence,Discmania,Control Drivers,Understable,8,6,-2,1,https://infinitediscs.com/Discmania-Essence,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_db39d5-81df.JPG
-
 FD,Discmania,Control Drivers,Neutral,7,5.9,-1,1.1,https://infinitediscs.com/Discmania-FD,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_12235911-f169-47ca-9ca2-cfeb666748ffDSC08276.JPG
-
 FD2,Discmania,Control Drivers,Overstable,7,4.1,0,2.1,https://infinitediscs.com/Discmania-FD2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_402c32-4390.JPG
-
 FD3,Discmania,Control Drivers,Overstable,9,4.1,0,3,https://infinitediscs.com/Discmania-FD3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00279.jpg
-
 Genius,Discmania,Control Drivers,Very Understable,7.2,5,-4,1,https://infinitediscs.com/Discmania-Genius,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_unnamed18.jpg
-
 Instinct,Discmania,Control Drivers,Overstable,7.2,5.2,-0.1,2,https://infinitediscs.com/Discmania-Instinct,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4e7e27-e707.JPG
-
 Magician,Discmania,Control Drivers,Overstable,6,4,0,2,https://infinitediscs.com/Discmania-Magician,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_unnamed17.jpg
-
 Gremlin GM,Discmania,Mid Range,Overstable,5.1,4,0,2,https://infinitediscs.com/Discmania-Gremlin-GM,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7497e548-6801-4065-a048-f21294471e69Discmania GM S-Line.jpg
-
 Maestro,Discmania,Mid Range,Overstable,4,2.9,-0.1,1.9,https://infinitediscs.com/Discmania-Maestro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_unnamed15.jpg
-
 MD,Discmania,Mid Range,Neutral,4,5,-0.1,0.1,https://infinitediscs.com/Discmania-MD,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03840.jpg
-
 MD1,Discmania,Mid Range,Overstable,4,4,0,2,https://infinitediscs.com/Discmania-MD1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_24293157-56c6-4b1d-bbfb-3ed086d86039Discmania MD1 S-Line.jpg
-
 MD2,Discmania,Mid Range,Overstable,4,5,-0.2,1.9,https://infinitediscs.com/Discmania-MD2-Fiend,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00290.jpg
-
 MD3,Discmania,Mid Range,Overstable,5,5,-0.1,2.4,https://infinitediscs.com/Discmania-MD3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_549280-1e66.JPG
-
 MD4,Discmania,Mid Range,Overstable,5,4.1,-0.1,2.9,https://infinitediscs.com/Discmania-MD4,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_65.JPG
-
 MD5,Discmania,Mid Range,Very Overstable,5,3.1,0,4,https://infinitediscs.com/Discmania-MD5,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_FirstRun.JPG
-
 Method,Discmania,Mid Range,Overstable,5,5,0,2.9,https://infinitediscs.com/Discmania-Method,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5d3eb8-d207.JPG
-
 Origin,Discmania,Mid Range,Neutral,5,5.1,-1.1,1,https://infinitediscs.com/Discmania-Origin,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_716c59-1b0f.jpg
-
 Link,Discmania,Putters,Overstable,2,3.1,0,1,https://infinitediscs.com/Discmania-Link,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_baf005-fcd0.JPG
-
 P1,Discmania,Putters,Neutral,2.1,3.1,-0.1,0.1,https://infinitediscs.com/Discmania-P1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00295.jpg
-
 P1X,Discmania,Putters,Neutral,2.1,3,-0.1,0.5,https://infinitediscs.com/Discmania-P1X,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00298.jpg
-
 P2,Discmania,Putters,Overstable,2,3.1,0,1.2,https://infinitediscs.com/Discmania-P2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bbcb65-8bbb.JPG
-
 P3,Discmania,Putters,Overstable,3,4.3,0,2.7,https://infinitediscs.com/Discmania-P3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00300.jpg
-
 P3x,Discmania,Putters,Overstable,3,2.2,0,2.6,https://infinitediscs.com/Discmania-P3x,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ppppppppp.JPG
-
 Sensei,Discmania,Putters,Overstable,2.8,3,0,1.1,https://infinitediscs.com/Discmania-Sensei,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_unnamed14.jpg
-
 Tactic,Discmania,Putters,Overstable,4,2.1,0,3,https://infinitediscs.com/Discmania-Tactic,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_exohard.JPG
-
 Avenger,Discraft,Distance Drivers,Overstable,9.9,4.8,0,2.9,https://infinitediscs.com/Discraft-Avenger,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_269af0cf-2e0f-45e2-b2f2-b0d033daea96Discraft Avenger Pro-D.jpg
-
 Avenger SS,Discraft,Distance Drivers,Understable,9.8,4.9,-2.9,1,https://infinitediscs.com/Discraft-Avenger-SS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bdd66a51-d541-4c9c-b7c0-9ffa3ce0a869Discraft Avenger SS Pro D.jpg
-
 Crank,Discraft,Distance Drivers,Overstable,12.3,5,-1.4,2,https://infinitediscs.com/Discraft-Crank,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_89716990-e154-4dae-a33d-c070abeaa01cproDCrank.JPG
-
 Crank SS,Discraft,Distance Drivers,Understable,12.6,4.7,-2.8,1.8,https://infinitediscs.com/Discraft-Crank-SS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_72bd717c-d420-47ae-8d2d-34c88685c37cDSC07330.JPG
-
 Crush,Discraft,Distance Drivers,Very Overstable,11.1,5,-0.1,3.8,https://infinitediscs.com/Discraft-Crush,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a29d8abc-386a-4e85-948b-e078e7e56abbDiscraft Crush ESP.jpg
-
 Flash,Discraft,Distance Drivers,Overstable,10,5,-1.9,2.9,https://infinitediscs.com/Discraft-Flash,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4a690e9e-ecb2-4720-b996-9b7e24c448e5Discraft Flash ESP.jpg
-
 Flick,Discraft,Distance Drivers,Very Overstable,10,3.5,0.9,4.3,https://infinitediscs.com/Discraft-Flick,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6d93bbe3-cba7-469a-ad2f-93b3f0330a11Discraft Flick Elite Z.jpg
-
 Force,Discraft,Distance Drivers,Overstable,12,4.9,0,3.2,https://infinitediscs.com/Discraft-Force,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ed180ba5-c967-4328-9430-86da6eada6afDiscraft Force Elite Z.jpg
-
 Hades,Discraft,Distance Drivers,Understable,12,6,-3,1.9,https://infinitediscs.com/Discraft-Hades,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_640762-7cb5.jpg
-
 Machete,Discraft,Distance Drivers,Very Overstable,10.6,3.7,0.1,3.9,https://infinitediscs.com/Discraft-Machete,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c85393-4232.JPG
-
 Nuke,Discraft,Distance Drivers,Overstable,13,4.9,-1,3,https://infinitediscs.com/Discraft-Nuke,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7d318a7b-02ac-4af0-9672-851f5959a6cbDiscraft Nuke Pro D.jpg
-
 Nuke OS,Discraft,Distance Drivers,Very Overstable,13,4,0,4.1,https://infinitediscs.com/Discraft-Nuke-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e06df393-b50d-47a7-baf7-c4db8dcf2203Nuke-OS-Elite-Z-Dyed.jpg
-
 Nuke SS,Discraft,Distance Drivers,Neutral,13,5,-3,2.9,https://infinitediscs.com/Discraft-Nuke-SS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_71b31467-7092-493d-a478-61b2891f1198100_4869.JPG
-
 Pulse,Discraft,Distance Drivers,Overstable,10.9,3.9,0,3,https://infinitediscs.com/Discraft-Pulse,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e005ab8c-62ed-4022-b61a-32eba1e423c1Discraft Pulse ESP.jpg
-
 Punisher,Discraft,Distance Drivers,Overstable,11.9,4.9,-0.3,2.9,https://infinitediscs.com/Discraft-Punisher,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04372.JPG
-
 Spectra,Discraft,Distance Drivers,Neutral,11.8,4.9,-2,2,https://infinitediscs.com/Discraft-Spectra,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_53a74fbb-0ea6-45de-9776-a90234b5517aDiscraft Spectra SuperColor.jpg
-
 Surge,Discraft,Distance Drivers,Overstable,11,5,-1,2.9,https://infinitediscs.com/Discraft-Surge,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b1176999-fe7a-4df8-ad09-c2540264d328Discraft Surge Pro D.jpg
-
 Surge SS,Discraft,Distance Drivers,Overstable,11,4.9,-1.1,2,https://infinitediscs.com/Discraft-Surge-SS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_610d3ca8-7ddd-4e60-9b26-96069d6cea49Discraft Surge SS Elite Z.jpg
-
 Thrasher,Discraft,Distance Drivers,Understable,11.9,5.1,-2.8,1.9,https://infinitediscs.com/Discraft-Thrasher,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC07350.JPG
-
 Wildcat,Discraft,Distance Drivers,Overstable,11,5,-2,3,https://infinitediscs.com/Discraft-Wildcat,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1661e4a1-3b22-48f4-af64-3d10c5bed332Wildcat-Elite-X.jpg
-
 Zeus,Discraft,Distance Drivers,Overstable,12,5,-0.9,3,https://infinitediscs.com/Discraft-Zeus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Infinite4_9.JPG
-
 Anax,Discraft,Control Drivers,Overstable,10,5.8,-0.1,2.9,https://infinitediscs.com/Discraft-Anax,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_707d92-c4a4.JPG
-
 Cyclone,Discraft,Control Drivers,Overstable,7,4.2,-1,2.8,https://infinitediscs.com/Discraft-Cyclone,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4b1062d3-a342-423e-8e57-f0784e3315b4Discraft Cyclone ESP.jpg
-
 Eclipse,Discraft,Control Drivers,Neutral,6.8,5,-2,1.9,https://infinitediscs.com/Discraft-Eclipse,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a3f1e3-da50.JPG
-
 Heat,Discraft,Control Drivers,Understable,9,5.7,-2.9,1,https://infinitediscs.com/Discraft-Heat,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dcb1bdfe-cc08-4261-ba9e-8127ce857e52Elite Z Heat.jpg
-
 Mantis,Discraft,Control Drivers,Neutral,8,4.5,-1.5,1.9,https://infinitediscs.com/Discraft-Mantis,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9a412a1e-10df-4efc-bb00-e408478118f0100_4871.JPG
-
 Predator,Discraft,Control Drivers,Very Overstable,9,4,-0.1,4,https://infinitediscs.com/Discraft-Predator,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dcb7e717-6318-4b90-bfda-5f849cec0574Discraft Predator Elite Z.jpg
-
 Raptor,Discraft,Control Drivers,Overstable,9,4,0,3,https://infinitediscs.com/Discraft-Raptor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_573746-0481.JPG
-
 Reaper,Discraft,Control Drivers,Very Overstable,8,3.2,-0.1,3.7,https://infinitediscs.com/Discraft-Reaper,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_eb4afeda-14e1-47ed-bc04-d55db3f16a7bDSC00831.JPG
-
 Stalker,Discraft,Control Drivers,Overstable,7.3,4.9,-1,1.6,https://infinitediscs.com/Discraft-Stalker,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a2b7c7bc-636b-45f7-825c-b36925ad8f8eDiscraft Stalker Elite Z.jpg
-
 Sting,Discraft,Control Drivers,Understable,6.8,4.9,-2.2,0.9,https://infinitediscs.com/Discraft-Sting,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_145d17-6797.JPG
-
 Talon,Discraft,Control Drivers,Very Overstable,8,3,1,3,https://infinitediscs.com/Discraft-Talon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_12e220e9-bb43-487b-9a9c-efc2f8beffe4DSC00819.jpg
-
 Tracker,Discraft,Control Drivers,Overstable,7.9,4.4,-0.5,3.3,https://infinitediscs.com/Discraft-Tracker,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fbb7baaf-111b-4b10-908f-33ef9eb5f73cDiscraft Tracker Elite Z.jpg
-
 Undertaker,Discraft,Control Drivers,Overstable,8.9,5,-1,2.2,https://infinitediscs.com/Discraft-Undertaker,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8e6e19fd-39da-41e7-9e31-7f7e55b61ae1DSC03740.JPG
-
 Vulture,Discraft,Control Drivers,Overstable,9.7,4.8,-0.1,2,https://infinitediscs.com/Discraft-Vulture,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3eac86-ef50.JPG
-
 XL,Discraft,Control Drivers,Overstable,7.9,5,-1,1.9,https://infinitediscs.com/Discraft-XL,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_85832e74-4465-45ef-8299-dfa611c04ecaDiscraft XL Elite X.jpg
-
 Xpress,Discraft,Control Drivers,Understable,7.9,4.9,-3.1,0.9,https://infinitediscs.com/Discraft-Xpress,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_43e990ef-5ffc-4271-8a29-f341033d0dc8Discraft XPress Elite Z.jpg
-
 XS,Discraft,Control Drivers,Overstable,8,4.9,-2,3,https://infinitediscs.com/Discraft-XS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_46fccedd-9928-4255-8594-81468ed9ce71Discraft XS Elite X.jpg
-
 Xtreme,Discraft,Control Drivers,Very Overstable,6,3,1,4,https://infinitediscs.com/Discraft-Xtreme,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Infinite004.jpg
-
 Zombee,Discraft,Control Drivers,Neutral,6,4.9,-1,0.9,https://infinitediscs.com/Discraft-Zombee,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f75cd026-e4a2-4f6c-b37a-6057a194b219Discraft Zombee Elite Z.jpg
-
 Archer,Discraft,Mid Range,Understable,6,5,-3,1,https://infinitediscs.com/Discraft-Archer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02421.jpg
-
 Buzzz,Discraft,Mid Range,Neutral,5,4.3,-0.6,1.1,https://infinitediscs.com/Discraft-Buzzz,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a2140452-de5f-4379-a3ed-d2ac3d6cdf4eDSC03148.JPG
-
 Buzzz GT,Discraft,Mid Range,Overstable,5,4.9,0,1.3,https://infinitediscs.com/Discraft-Buzzz-GT,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Infinite1_10.jpg
-
 Buzzz OS,Discraft,Mid Range,Overstable,5,3.9,0,3,https://infinitediscs.com/Discraft-Buzzz-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e278702f-e94e-483e-b7fc-cd2e8f39d65f100_5260.JPG
-
 Buzzz SS,Discraft,Mid Range,Understable,5,4.1,-1.9,1,https://infinitediscs.com/Discraft-Buzzz-SS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8efd65cc-b89a-42f2-b304-3fbed9c23384Buzzzz-SS-Elite-Z.jpg
-
 Comet,Discraft,Mid Range,Understable,4.1,5.2,-1.8,0.9,https://infinitediscs.com/Discraft-Comet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_204491fd-aa7f-4c98-9537-b1b1ac431cc2Discraft Comet Elite X.jpg
-
 Drone,Discraft,Mid Range,Very Overstable,5,3.4,0.5,3.9,https://infinitediscs.com/Discraft-Drone,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_30bcb2dc-0fd6-4447-88e2-cbfde46a185bDrone-Pro-D.jpg
-
 Glide,Discraft,Mid Range,Understable,5.9,5,-3,1.8,https://infinitediscs.com/Discraft-Glide,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_29de3d86-1967-42dc-9fff-5017d8f77415Discraft Glide Elite Z.jpg
-
 Hawk,Discraft,Mid Range,Neutral,4,5,-1.8,1.9,https://infinitediscs.com/Discraft-Hawk,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_04975248-6cb5-4695-8d35-34ca337bdf6dDiscraft Hawk Pro D.jpg
-
 Hornet,Discraft,Mid Range,Very Overstable,5,5,-0.1,3.8,https://infinitediscs.com/Discraft-Hornet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c2ab965b-db54-463c-995b-50c554344573Discraft Hornet Elite Z.jpg
-
 Impact,Discraft,Mid Range,Neutral,5.1,5,-1.9,1.9,https://infinitediscs.com/Discraft-Impact,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_cadd9348-22a5-43d9-875f-1b0812035b59Discraft Impact ESP.jpg
-
 Malta,Discraft,Mid Range,Overstable,5,4.1,0.5,2.9,https://infinitediscs.com/Discraft-Malta,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_BigMalta.JPG
-
 Meteor,Discraft,Mid Range,Understable,4.2,4.9,-2.8,1,https://infinitediscs.com/Discraft-Meteor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9b4de78f-3695-426d-bbb8-8d137cbe1c26Meteor-Elite-Z.jpg
-
 Nebula,Discraft,Mid Range,Overstable,5,4,-0.5,2,https://infinitediscs.com/Discraft-Nebula,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6bfaac26-f4d9-4f58-8d1d-097336e841a2DSC06726.JPG
-
 Sol,Discraft,Mid Range,Very Understable,4,4.8,-2.8,0.4,https://infinitediscs.com/Discraft-Sol,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_abc7c0-d02b.JPG
-
 Stratus,Discraft,Mid Range,Understable,5,4.9,-3,1,https://infinitediscs.com/Discraft-Stratus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_64043713-ac8c-4109-b8de-d9cd21bb0ee5100_4849.JPG
-
 Wasp,Discraft,Mid Range,Overstable,5,4.2,0,2.5,https://infinitediscs.com/Discraft-Wasp,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bf477807-77bf-4c89-aef6-1f76680ac85fDiscraft Wasp Elite Z.jpg
-
 APX,Discraft,Putters,Neutral,2,3,-1,0.9,https://infinitediscs.com/Discraft-APX,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b9a45e1a-54f6-4801-b7da-7a6ba7d37ac0Discraft APX Soft Elite X.jpg
-
 Banger GT,Discraft,Putters,Overstable,2,3,-0.1,1,https://infinitediscs.com/Discraft-Banger-GT,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a256c174-cab3-4c04-9dd7-72a988b4503bDiscraft Banger GT Pro D.jpg
-
 Challenger,Discraft,Putters,Overstable,2,3,0,1.9,https://infinitediscs.com/Discraft-Challenger,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_47558bf8-7d92-4274-800b-1ee1ea693160Discraft Challenger Pro-D.jpg
-
 Challenger OS,Discraft,Putters,Overstable,2.9,4.8,0,2.6,https://infinitediscs.com/Discraft-Challenger-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_challenger0Sp.JPG
-
 Challenger SS,Discraft,Putters,Overstable,2,3.9,-0.7,1.7,https://infinitediscs.com/Discraft-Challenger-SS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_challss.JPG
-
 Fierce,Discraft,Putters,Understable,3,4,-2,0,https://infinitediscs.com/Discraft-Fierce,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_rezzies_33.JPG
-
 Focus,Discraft,Putters,Overstable,2,3,-1,1.8,https://infinitediscs.com/Discraft-Focus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9cfb2fff-926c-45da-b68c-aeb64e626da0Discraft Focus Pro-D.jpg
-
 Luna,Discraft,Putters,Overstable,3,3.1,-0.1,2.2,https://infinitediscs.com/Discraft-Luna,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Luna-big.png
-
 Magnet,Discraft,Putters,Overstable,2,3,-1,1.9,https://infinitediscs.com/Discraft-Magnet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_da8d44a9-82a5-4f78-95db-1294d206294bDiscraft Magnet Pro D.jpg
-
 Putt'r,Discraft,Putters,Understable,2,3.1,-2,0.9,https://infinitediscs.com/Discraft-Puttr,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00037.jpg
-
 Rattler,Discraft,Putters,Neutral,2,3.1,-1,1,https://infinitediscs.com/Discraft-Rattler,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_15814a5a-9944-482a-ac4d-093ac358d254Discraft Rattler Pro-D.jpg
-
 Ringer,Discraft,Putters,Overstable,3,3.8,0,1.9,https://infinitediscs.com/Discraft-Ringer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6884ccd8-9b7f-44e0-a802-ae24dfa06ecaDSC06685.JPG
-
 Ringer GT,Discraft,Putters,Overstable,3,3,0,2.8,https://infinitediscs.com/Discraft-Ringer-GT,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ringersolf.JPG
-
 Roach,Discraft,Putters,Overstable,2.1,3.9,-0.3,1,https://infinitediscs.com/Discraft-Roach,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d8db8602-137b-4bc7-acdb-e0debd3d0215DSC00751.JPG
-
 Soft Magnet,Discraft,Putters,Overstable,2,3.1,-1,1.8,https://infinitediscs.com/Discraft-Soft-Magnet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a2fef300-f0d5-4038-ba9e-2b53a29746ebDiscraft Magnet Soft Pro D.jpg
-
 Zone,Discraft,Putters,Overstable,3.8,3,0,3,https://infinitediscs.com/Discraft-Zone,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_18e21f9f-a9f4-484f-af5a-223e020b0fc5Zone-Pro-D.jpg
-
 Captain,Dynamic Discs,Distance Drivers,Neutral,12.7,4.9,-2.1,2.1,https://infinitediscs.com/Dynamic-Discs-Captain,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_15.JPG
-
 Criminal,Dynamic Discs,Distance Drivers,Very Overstable,10,3.1,1,4.1,https://infinitediscs.com/Dynamic-Discs-Criminal,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_CRIMINAL.JPG
-
 Defender,Dynamic Discs,Distance Drivers,Overstable,13,4.9,0,3.1,https://infinitediscs.com/Dynamic-Discs-Defender,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d45a484b-dc67-4495-a08f-1f24ef6a6089DSC09312.jpg
-
 Enforcer,Dynamic Discs,Distance Drivers,Very Overstable,12,4.1,0.3,3.9,https://infinitediscs.com/Dynamic-Discs-Enforcer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e45ce6b9-774f-4b57-82a5-78ca5c044320DSC06954.JPG
-
 Freedom,Dynamic Discs,Distance Drivers,Neutral,13.8,5,-2.8,2.6,https://infinitediscs.com/Dynamic-Discs-Freedom,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_93df3085-a7e2-48ce-a9e6-aa28c003d1e5DSC01962.jpg
-
 Raider,Dynamic Discs,Distance Drivers,Overstable,12.9,5,-0.6,3,https://infinitediscs.com/Dynamic-Discs-Raider,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6f9bd6-a514.JPG
-
 Renegade,Dynamic Discs,Distance Drivers,Overstable,11,5,-2.1,2.6,https://infinitediscs.com/Dynamic-Discs-Renegade,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fdf54de5-5edc-4643-9014-e1906d6c53ddDynamic Discs Renegade Lucid.jpg
-
 Sergeant,Dynamic Discs,Distance Drivers,Overstable,11,4,0,2.6,https://infinitediscs.com/Dynamic-Discs-Sergeant,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_gooddisc.JPG
-
 Sheriff,Dynamic Discs,Distance Drivers,Overstable,12.9,5.1,-1,2,https://infinitediscs.com/Dynamic-Discs-Sheriff,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f3f71e-fdd6.JPG
-
 Trespass,Dynamic Discs,Distance Drivers,Overstable,11.9,5,-1.1,2.8,https://infinitediscs.com/Dynamic-Discs-Trespass,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_01562bd8-ee8d-4928-92ac-04a7a8bcefabDynamic Discs Trespass BioFuzion.jpg
-
 Breakout,Dynamic Discs,Control Drivers,Overstable,8,5.1,-1.2,1.5,https://infinitediscs.com/Dynamic-Discs-Breakout,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3edf0a83-c812-484a-b0e8-2c20ceece8c4Dynamic-Discs-BioFuzion-Breakout-2016-GBO.jpg
-
 Convict,Dynamic Discs,Control Drivers,Overstable,9,4.1,-0.6,2.8,https://infinitediscs.com/Dynamic-Discs-Convict,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00520.jpg
-
 Escape,Dynamic Discs,Control Drivers,Overstable,9,5.2,-0.9,1.9,https://infinitediscs.com/Dynamic-Discs-Escape,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4b5abd6f-8dc3-4bd6-bc59-0828b963aff4Dynamic Discs Escape BioFuzion.jpg
-
 Felon,Dynamic Discs,Control Drivers,Very Overstable,9,3.6,0.2,3.9,https://infinitediscs.com/Dynamic-Discs-Felon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4d2ba00b-59e7-4cbf-bbcf-e8f98af48a4aDSC00003.JPG
-
 Getaway,Dynamic Discs,Control Drivers,Overstable,9,5.1,-0.5,2.8,https://infinitediscs.com/Dynamic-Discs-Getaway,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_36.JPG
-
 Maverick,Dynamic Discs,Control Drivers,Neutral,7.1,4.3,-1.6,1.8,https://infinitediscs.com/Dynamic-Discs-Maverick,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Maverick.JPG
-
 Thief,Dynamic Discs,Control Drivers,Overstable,8,5,-1.4,1.7,https://infinitediscs.com/Dynamic-Discs-Thief,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1e65d464-4fba-4e97-a74b-c5e38978c10f100_4720.JPG
-
 Vandal,Dynamic Discs,Control Drivers,Overstable,9,5,-1.3,2,https://infinitediscs.com/Dynamic-Discs-Vandal,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5774e2-90bd.JPG
-
 Witness,Dynamic Discs,Control Drivers,Understable,8,6,-3,1,https://infinitediscs.com/Dynamic-Discs-Witness,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1305797c-a474-4442-8482-885021fe601a100_5513.JPG
-
 EMac Truth,Dynamic Discs,Mid Range,Overstable,5,5,-0.2,1.9,https://infinitediscs.com/Dynamic-Discs-EMac-Truth,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bfbc00c2-ce5f-4316-9521-40669a062358DSC09425.jpg
-
 Evidence,Dynamic Discs,Mid Range,Understable,5,5.1,-1,0.3,https://infinitediscs.com/Dynamic-Discs-Evidence,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6b2f6898-10d5-463b-90fe-47e05df5b73f1.jpg
-
 Fugitive,Dynamic Discs,Mid Range,Overstable,5,5,-0.2,1,https://infinitediscs.com/Dynamic-Discs-Fugitive,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_de3a8805-5657-4a7a-8d7d-51855627dceeDynamic Discs Fugitive Classic.jpg
-
 Justice,Dynamic Discs,Mid Range,Very Overstable,5,2.1,0.5,4.1,https://infinitediscs.com/Dynamic-Discs-Justice,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d41e4de2-4eb3-4e2f-ba35-d112088536a5Dynamic_Justice.png
-
 Patrol,Dynamic Discs,Mid Range,Understable,5,5,-3,0.6,https://infinitediscs.com/Dynamic-Discs-Patrol,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_75.JPG
-
 Proof,Dynamic Discs,Mid Range,Understable,5,5,-3.1,0.9,https://infinitediscs.com/Dynamic-Discs-Proof,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d27b2153-35c1-4276-9c07-1f7827d0f99eDSC03197.jpg
-
 Suspect,Dynamic Discs,Mid Range,Overstable,4,3.1,-0.1,2.8,https://infinitediscs.com/Dynamic-Discs-Suspect,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_be749033-e6c5-47c8-b3a8-e6620be69861DSC04491.JPG
-
 Truth,Dynamic Discs,Mid Range,Neutral,5,5.1,-0.7,1.4,https://infinitediscs.com/Dynamic-Discs-Truth,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5090f8f4-92ca-4250-bbb9-d4d09accbadbTruth-Classic.jpg
-
 Verdict,Dynamic Discs,Mid Range,Overstable,5.1,4.1,-0.1,3.3,https://infinitediscs.com/Dynamic-Discs-Verdict,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e9a1f581-be96-4be8-952a-1a308974d2eaDSC07078.JPG
-
 Warrant,Dynamic Discs,Mid Range,Understable,5,5,-1.9,0.1,https://infinitediscs.com/Dynamic-Discs-Warrant,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_36b14ccd-eda9-401c-b67c-3f110f4d43d1Dynamic-Discs-Lucid-Warrant.jpg
-
 Deputy,Dynamic Discs,Putters,Understable,3,4,-1.4,0,https://infinitediscs.com/Dynamic-Discs-Deputy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_PaigePierceClassicDeputy.jpg
-
 Gavel,Dynamic Discs,Putters,Understable,3,5,-1.8,0.4,https://infinitediscs.com/Dynamic-Discs-Gavel,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_611838fc-3031-44ab-b8c6-84f34b5cdce7DSC01915.jpg
-
 Guard,Dynamic Discs,Putters,Neutral,2,5,0,0.5,https://infinitediscs.com/Dynamic-Discs-Guard,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_806ede-1017.JPG
-
 Judge,Dynamic Discs,Putters,Overstable,2.1,4,0,0.8,https://infinitediscs.com/Dynamic-Discs-Judge,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6f210195-7556-45ab-8a0c-538b8d08ccf7Judge-Classic.jpg
-
 Marshal,Dynamic Discs,Putters,Overstable,3,3.6,-0.1,1.2,https://infinitediscs.com/Dynamic-Discs-Marshal,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00525.jpg
-
 Slammer,Dynamic Discs,Putters,Overstable,2.6,2.1,0,3,https://infinitediscs.com/Dynamic-Discs-Slammer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Slammerjammer.JPG
-
 Warden,Dynamic Discs,Putters,Neutral,2,3.5,0,0.5,https://infinitediscs.com/Dynamic-Discs-Warden,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_65cbad2d-fb67-4b2d-a684-59eae7ee6ba9Dynamic Discs Warden Classic.jpg
-
 Apache,Gateway,Distance Drivers,Overstable,9,4,-1,2,https://infinitediscs.com/Gateway-Apache,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6229d527-7306-472e-8760-e9dd94378d9dApache Evolution.jpg
-
 Apex,Gateway,Distance Drivers,Overstable,12,6,-1,1.9,https://infinitediscs.com/Gateway-Apex,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d45003-e58e.JPG
-
 Diablo,Gateway,Distance Drivers,Overstable,10.7,5.1,-0.9,2,https://infinitediscs.com/Gateway-Diablo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0728e3-7397.JPG
-
 Illusion,Gateway,Distance Drivers,Overstable,11,4.9,-0.9,3.1,https://infinitediscs.com/Gateway-Illusion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5cd84829-6678-4b13-8f03-81f4ab16034dGateway Illusion Suregrip.jpg
-
 Journey,Gateway,Distance Drivers,Understable,12.2,6,-1.5,1.1,https://infinitediscs.com/Gateway-Journey,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_12cc59-9782.JPG
-
 Ninja,Gateway,Distance Drivers,Overstable,10.6,4.9,-0.1,2.1,https://infinitediscs.com/Gateway-Ninja,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_372e46-bc93.jpg
-
 Rage,Gateway,Distance Drivers,Very Overstable,10,5,-0.5,3.5,https://infinitediscs.com/Gateway-Rage,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d3ce09fc-7e1c-4a17-b70c-dd2b2246bfd2DSC04098.JPG
-
 Samurai,Gateway,Distance Drivers,Understable,13,5.8,-2.2,1.1,https://infinitediscs.com/Gateway-Samurai,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0499465f-c035-4981-a721-6a123abf3aa9Samurai Evolution.jpg
-
 Siren,Gateway,Distance Drivers,Understable,12.8,4.9,-1.9,1.2,https://infinitediscs.com/Gateway-Siren,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_siren.JPG
-
 Slayer,Gateway,Distance Drivers,Overstable,12.9,4.9,-1.2,2.2,https://infinitediscs.com/Gateway-Slayer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_91b6d6ef-1218-43ee-b400-b918c1c7bd11Gateway Slayer Evolution.jpg
-
 Speed Demon,Gateway,Distance Drivers,Very Overstable,12,3,0,4,https://infinitediscs.com/Gateway-Speed-Demon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_968b59ae-74b8-4d02-8d5f-e375ef1acffcGateway Speed Demon Evolution.jpg
-
 Spirit,Gateway,Distance Drivers,Very Overstable,11.7,3.9,0.3,4.4,https://infinitediscs.com/Gateway-Spirit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f8f9898b-fa8d-4a79-8a9c-2a98bef1aa81Gateway Spirit Evolution.jpg
-
 Apache,Gateway,Control Drivers,Overstable,9,4,-1,2,https://infinitediscs.com/Gateway-Apache,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6229d527-7306-472e-8760-e9dd94378d9dApache Evolution.jpg
-
 Assassin,Gateway,Control Drivers,Understable,8.9,6,-1.6,1.1,https://infinitediscs.com/Gateway-Assassin,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0dfd5730-6b4b-4fff-bea1-2c3296d6ff8cDSC08544.jpg
-
 Blade,Gateway,Control Drivers,Overstable,9,4.7,-0.1,3.1,https://infinitediscs.com/Gateway-Blade,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_076cfa-d863.JPG
-
 Blaze,Gateway,Control Drivers,Overstable,7,4.8,0,2.8,https://infinitediscs.com/Gateway-Blaze,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_02328963-cfc8-4243-af16-4138df9e5f4fGateway Blaze Evolution.jpg
-
 Hybrid,Gateway,Control Drivers,Overstable,7,4,-0.5,3,https://infinitediscs.com/Gateway-Hybrid,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_08a657af-b585-4870-882b-64a2bb9f805bDSC04100.JPG
-
 Sabre,Gateway,Control Drivers,Neutral,8,5,-1,1,https://infinitediscs.com/Gateway-Sabre,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_23317748-4dfc-444a-8986-3ead54c9469dSabre Evolution 2.jpg
-
 Spear,Gateway,Control Drivers,Understable,9,6,-1.9,1.1,https://infinitediscs.com/Gateway-Spear,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b27f65-aaad.JPG
-
 Blaze,Gateway,Mid Range,Overstable,7,4.8,0,2.8,https://infinitediscs.com/Gateway-Blaze,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_02328963-cfc8-4243-af16-4138df9e5f4fGateway Blaze Evolution.jpg
-
 Demon,Gateway,Mid Range,Very Overstable,5.9,3,0.1,4.1,https://infinitediscs.com/Gateway-Demon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_785d5c3f-3bbe-42bc-b285-eef3fed4d140100_4282.JPG
-
 Element,Gateway,Mid Range,Neutral,5,5,-1.3,1,https://infinitediscs.com/Gateway-Element,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9bff7ae6-a047-4f5a-a4a8-6b4ee624369eGateway Element Suregrip.jpg
-
 Karma,Gateway,Mid Range,Overstable,6.2,4.8,-0.8,2.1,https://infinitediscs.com/Gateway-Karma,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_891fb41e-166c-4584-b556-22945c225753Gateway Karma Evolution.jpg
-
 Mystic,Gateway,Mid Range,Understable,5,4.9,-2.1,0.1,https://infinitediscs.com/Gateway-Mystic,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f6808989-12b3-4fef-96ae-880d9e6702b5Gateway Mystic Suregrip.jpg
-
 Prophecy,Gateway,Mid Range,Overstable,5,5.1,0,2.1,https://infinitediscs.com/Gateway-Prophecy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_31cb85-7260.JPG
-
 Scout,Gateway,Mid Range,Overstable,6,5,-1,1.9,https://infinitediscs.com/Gateway-Scout,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_167cb92a-6d65-4e44-9f85-768d4bd93bc5Gateway Scout Suregrip.jpg
-
 Warrior,Gateway,Mid Range,Overstable,5,4,-0.1,3,https://infinitediscs.com/Gateway-Warrior,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_270615a4-52f3-48e6-a7ae-54c919168649Gateway Warrior Suregrip.jpg
-
 Chief,Gateway,Putters,Overstable,3,3.1,-0.1,1.2,https://infinitediscs.com/Gateway-Chief,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bfd8b3-f0e7.JPG
-
 Chief OS,Gateway,Putters,Overstable,3,3,0,2.4,https://infinitediscs.com/Gateway-Chief-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1d7d49-4278.JPG
-
 Devil Hawk,Gateway,Putters,Overstable,3,2.9,0.1,2.1,https://infinitediscs.com/Gateway-Devil-Hawk,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6b729978-34c4-4a6c-adae-dc5206f5290aDSC04763.JPG
-
 Magic,Gateway,Putters,Understable,2.3,3.7,-1,0,https://infinitediscs.com/Gateway-Magic,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bc44d3b1-4396-46ed-b1b9-24288cdddd3aGateway Magic Evolution.jpg
-
 Shaman,Gateway,Putters,Neutral,3.1,3.2,-0.6,1.2,https://infinitediscs.com/Gateway-Shaman,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fd15ae0a-1a1d-4ed8-9c66-345284aab7c44.jpg
-
 Training Wizard,Gateway,Putters,Overstable,3,5,0,2,https://infinitediscs.com/Gateway-Training-Wizard,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_cc6a24-b5c7.JPG
-
 Voodoo,Gateway,Putters,Overstable,2.6,3.7,0,0.8,https://infinitediscs.com/Gateway-Voodoo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ee48f816-938e-4705-9c2e-86bb032ec5b4DSC06005.jpg
-
 Warlock,Gateway,Putters,Overstable,2.4,3.7,-0.2,1.3,https://infinitediscs.com/Gateway-Warlock,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_96787737-d461-4e40-b462-6cc6d1050f02Gateway Warlock Evolution.jpg
-
 Warspear,Gateway,Putters,Overstable,2.1,2.6,0,2.4,https://infinitediscs.com/Gateway-Warspear,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c93c2850-7921-4624-a9dc-f6e3a805a72cDSC04753.JPG
-
 Wizard,Gateway,Putters,Overstable,2.5,3.9,0,1.9,https://infinitediscs.com/Gateway-Wizard,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f146d236-13aa-4c6c-aee8-85c5ff8b0f26Gateway Wizard Evolution.jpg
-
 Aztec,Infinite Discs,Distance Drivers,Overstable,10,5,-1.2,1.9,https://infinitediscs.com/Infinite-Discs-Aztec,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9d8fb8-1f38.JPG
-
 Emperor,Infinite Discs,Distance Drivers,Overstable,12,5.1,-1.1,2.5,https://infinitediscs.com/Infinite-Discs-Emperor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e279d9-957d.JPG
-
 Maya,Infinite Discs,Distance Drivers,Understable,11.9,5.1,-2.9,1,https://infinitediscs.com/Infinite-Discs-Maya,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_highres_21.JPG
-
 Pharaoh,Infinite Discs,Distance Drivers,Overstable,12.9,5.8,-1.2,2,https://infinitediscs.com/Infinite-Discs-Pharaoh,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9e7335-ab65.JPG
-
 Slab,Infinite Discs,Distance Drivers,Very Overstable,11.9,3,0,4,https://infinitediscs.com/Infinite-Discs-Slab,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5e4077-039f.JPG
-
 Centurion,Infinite Discs,Control Drivers,Neutral,6.9,5.1,-1.1,1.4,https://infinitediscs.com/Infinite-Discs-Centurion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_29102d-efbb.JPG
-
 Exodus,Infinite Discs,Control Drivers,Overstable,7.1,4.9,-0.5,2,https://infinitediscs.com/Infinite-Discs-Exodus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_newpink.JPG
-
 Scepter,Infinite Discs,Control Drivers,Very Overstable,9,3.7,0,3.9,https://infinitediscs.com/Infinite-Discs-Scepter,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC07379.JPG
-
 Sphinx,Infinite Discs,Control Drivers,Understable,9,6,-2.8,1,https://infinitediscs.com/Infinite-Discs-Sphinx,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c040d2-991e.JPG
-
 Anubis,Infinite Discs,Mid Range,Neutral,5,5,-0.2,0.3,https://infinitediscs.com/Infinite-Discs-Anubis,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_AnubisI.JPG
-
 Chariot,Infinite Discs,Mid Range,Overstable,5,5,0,1.1,https://infinitediscs.com/Infinite-Discs-Chariot,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bd52a1-4f14.JPG
-
 Inca,Infinite Discs,Mid Range,Overstable,5,4.9,0,2.7,https://infinitediscs.com/Infinite-Discs-Inca,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Image024.jpg
-
 Ra,Infinite Discs,Mid Range,Overstable,5,4.1,-0.1,2.5,https://infinitediscs.com/Infinite-Discs-Ra,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_rasmall_2.JPG
-
 Cohort,Infinite Discs,Putters,Overstable,3.5,4,0,0.9,https://infinitediscs.com/Infinite-Discs-Cohort,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_rezzies_5.JPG
-
 Myth,Infinite Discs,Putters,Overstable,2,3,0,1.9,https://infinitediscs.com/Infinite-Discs-Myth,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_14.JPG
-
 Ruin,Infinite Discs,Putters,Overstable,3,3,0,2.9,https://infinitediscs.com/Infinite-Discs-Ruin,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_58d89d-daf5.JPG
-
 Scarab,Infinite Discs,Putters,Overstable,2,4,-0.1,1,https://infinitediscs.com/Infinite-Discs-Scarab,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4777a6-26e9.JPG
-
 Tomb,Infinite Discs,Putters,Overstable,3.1,3.9,0,1.1,https://infinitediscs.com/Infinite-Discs-Tomb,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2bb56f-7ca9.JPG
-
 Ape,Innova,Distance Drivers,Very Overstable,13,4.9,0,4.1,https://infinitediscs.com/Innova-Ape,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fedf5173-7e91-4aec-8e72-ff3c13c82214DSC08833.JPG
-
 Archon,Innova,Distance Drivers,Neutral,11,4.9,-1.9,2,https://infinitediscs.com/Innova-Archon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c23120c9-fd12-471f-b744-b38729b243beInnova Archon Champion.jpg
-
 Beast,Innova,Distance Drivers,Neutral,10,5,-2,2,https://infinitediscs.com/Innova-Beast,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05754.jpg
-
 Boss,Innova,Distance Drivers,Overstable,13,5,-0.6,3,https://infinitediscs.com/Innova-Boss,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05742.jpg
-
 Colossus,Innova,Distance Drivers,Overstable,13.9,4.9,-1.9,2.9,https://infinitediscs.com/Innova-Colossus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC08957.jpg
-
 Corvette,Innova,Distance Drivers,Overstable,13.9,5.9,-1,2,https://infinitediscs.com/Innova-Corvette,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_918664-d985.JPG
-
 Daedalus,Innova,Distance Drivers,Understable,13,5.9,-3.5,1.9,https://infinitediscs.com/Innova-Daedalus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_C.JPG
-
 Destroyer,Innova,Distance Drivers,Overstable,12,5,-1,3,https://infinitediscs.com/Innova-Destroyer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_signature.JPG
-
 Dominator,Innova,Distance Drivers,Overstable,12.9,4.8,-0.8,2.2,https://infinitediscs.com/Innova-Dominator,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f62d7c3f-bb2c-4c34-8f5a-728f67036e19Innova Dominator Blizzard.jpg
-
 Firestorm,Innova,Distance Drivers,Overstable,13.7,4,-0.3,2.8,https://infinitediscs.com/Innova-Firestorm,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_firestorm_1.JPG
-
 Groove,Innova,Distance Drivers,Neutral,12.7,5.6,-1.5,2.4,https://infinitediscs.com/Innova-Groove,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e362e50c-f678-42d5-8b38-aee88bf77183Innova Groove Champion.jpg
-
 Invictus,Innova,Distance Drivers,Overstable,10.8,4,0,3,https://infinitediscs.com/Innova-Invictus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_97af4c-01f1.JPG
-
 Katana,Innova,Distance Drivers,Neutral,13,5,-2.7,2.9,https://infinitediscs.com/Innova-Katana,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_82ccd246-3b82-4a71-9818-9ebff72ae52eDSC02557.JPG
-
 Krait,Innova,Distance Drivers,Overstable,11,5,-0.9,2,https://infinitediscs.com/Innova-Krait,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3900638a-f814-4dee-9214-91cf3efd282dInnova Krait Champion.jpg
-
 Mamba,Innova,Distance Drivers,Very Understable,11,6,-4.8,1,https://infinitediscs.com/Innova-Mamba,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f36d0c87-7208-494d-9228-60baca6f4cc7Innova Mamba Champion.jpg
-
 Max,Innova,Distance Drivers,Very Overstable,11,3,0,5,https://infinitediscs.com/Innova-Max,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e605ed4f-74b8-4a9a-9951-5ccb290e6bd0DSC02027.jpg
-
 Monarch,Innova,Distance Drivers,Very Understable,10,5,-3.6,1.1,https://infinitediscs.com/Innova-Monarch,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_03a3d230-a923-4259-94b5-1620fe5ec94bInnova Monarch Champion.jpg
-
 Monster,Innova,Distance Drivers,Very Overstable,10.1,2.9,0.1,4.9,https://infinitediscs.com/Innova-Monster,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_95c42895-f744-4f04-aae2-270807e5c362Innova Monster Champion.jpg
-
 Mystere,Innova,Distance Drivers,Neutral,11,6,-2.2,1.9,https://infinitediscs.com/Innova-Mystere,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_20.JPG
-
 Orc,Innova,Distance Drivers,Overstable,10,4.1,-1,3,https://infinitediscs.com/Innova-Orc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8c11044e-3586-4a59-8cdf-46c7a3ffbb08Orc-DX.jpg
-
 Shryke,Innova,Distance Drivers,Neutral,12.9,6,-2,2,https://infinitediscs.com/Innova-Shryke,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_PINK.JPG
-
 SL,Innova,Distance Drivers,Overstable,10,5,-1,2,https://infinitediscs.com/Innova-SL,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7b577c9c-55ea-4e02-8ed8-fe0cde7c83e1Innova SL Star.jpg
-
 Starfire,Innova,Distance Drivers,Overstable,10,4.4,-0.4,2.6,https://infinitediscs.com/Innova-Starfire,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2177b474-b3c6-4889-85af-d3e550c95a78Innova Starfire DX.jpg
-
 TeeDevil,Innova,Distance Drivers,Overstable,12,4.9,-1.2,2.1,https://infinitediscs.com/Innova-TeeDevil,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3e88e8c7-51e4-440f-822f-3b34185f8f61Innova TeeDevil Blizzard.jpg
-
 TeeRex,Innova,Distance Drivers,Very Overstable,11,4,-0.2,3.7,https://infinitediscs.com/Innova-TeeRex,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_41b90c88-781e-49dc-92c7-5c48cecc2703Innova TeeRex Star.jpg
-
 Tern,Innova,Distance Drivers,Neutral,12,6,-2.1,2,https://infinitediscs.com/Innova-Tern,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_28642d39-3d51-4d1d-a69a-078759bef96aInnova Tern Champion.jpg
-
 Vulcan,Innova,Distance Drivers,Understable,13,5,-3.6,2,https://infinitediscs.com/Innova-Vulcan,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_318399bf-8320-48c2-9ad0-8a50fcf4a8acInnova Vulcan Pro.jpg
-
 Wahoo,Innova,Distance Drivers,Neutral,12,6,-2.1,2,https://infinitediscs.com/Innova-Wahoo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fe08649c-98a7-4bc4-b694-f3acd8505935Innova Wahoo R-Pro.jpg
-
 Wraith,Innova,Distance Drivers,Overstable,11,5,-1.1,2.9,https://infinitediscs.com/Innova-Wraith,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d80dcbe4-9606-49b6-bbd0-0468287c84e9DSC03235.JPG
-
 X-Caliber,Innova,Distance Drivers,Very Overstable,12,4.8,-0.1,3.8,https://infinitediscs.com/Innova-X-Caliber,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_298cf805-bf18-4c63-a040-f8b13b329ae8IMG_2570.JPG
-
 Archangel,Innova,Control Drivers,Very Understable,8,6,-4,1.3,https://infinitediscs.com/Innova-Archangel,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_26f83ec2-c149-4c3c-8458-aa3146f51224Innova Archangel DX.jpg
-
 Banshee,Innova,Control Drivers,Overstable,7.1,3.1,0,3,https://infinitediscs.com/Innova-Banshee,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4d588a74-83b5-414b-a1f5-ab49d184bc2cInnova Banshee DX.jpg
-
 Cheetah,Innova,Control Drivers,Neutral,6,4,-2,2,https://infinitediscs.com/Innova-Cheetah,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_85234753-b4f7-4edf-9a3b-32d63cd9e6c2Innova Cheetah DX.jpg
-
 Dragon,Innova,Control Drivers,Neutral,7.9,4.9,-2.3,1.8,https://infinitediscs.com/Innova-Dragon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b8c48f72-b1aa-4087-a192-5e4f284cdb94Innova Dragon DX.jpg
-
 Eagle,Innova,Control Drivers,Overstable,7,4,-0.9,3,https://infinitediscs.com/Innova-Eagle,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b50f1ec4-51b9-4e29-b44b-90ee624d1302Innova Eagle DX.jpg
-
 Firebird,Innova,Control Drivers,Very Overstable,9,3.1,0,4,https://infinitediscs.com/Innova-Firebird,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a935e349-047d-479f-ad06-d9f3772e37cdInnova Firebird DX.jpg
-
 FL,Innova,Control Drivers,Overstable,9,3.2,0,2,https://infinitediscs.com/Innova-Firebird-FL,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7c9b1978-f773-49fc-aa46-5f7eb6c86c6bInnova FL Star.jpg
-
 Gargoyle,Innova,Control Drivers,Overstable,6,3,-1,2,https://infinitediscs.com/Innova-Gargoyle,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_463d15-98a6.JPG
-
 Gazelle,Innova,Control Drivers,Overstable,6,4,-0.2,1.9,https://infinitediscs.com/Innova-Gazelle,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6af44064-8acb-431c-bf29-26893505dee2Innova Gazelle DX.jpg
-
 Leopard,Innova,Control Drivers,Understable,6,5,-1.9,1,https://infinitediscs.com/Innova-Leopard,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2e0e4051-eebf-4f1c-b75e-25d5cbb35981Innova Leopard Star.jpg
-
 Leopard3,Innova,Control Drivers,Understable,7,5.1,-1.8,1.1,https://infinitediscs.com/Innova-Leopard3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4a84978e-90e8-44b0-a1a0-20eca6ffdfdcDSC08897.JPG
-
 Pegasus,Innova,Control Drivers,Overstable,7,3.9,-0.8,3,https://infinitediscs.com/Innova-Pegasus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d52f651a-0d68-4f66-afa3-5a3336dc2c32100_4571.JPG
-
 Python,Innova,Control Drivers,Overstable,7,3,-1,2,https://infinitediscs.com/Innova-Python,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_19dc7cc6-b586-41b8-b5cb-6463982c9c99100_4569.JPG
-
 Ram,Innova,Control Drivers,Very Overstable,6.3,4,1,4,https://infinitediscs.com/Innova-Ram,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_564ad0-a426.JPG
-
 Raven,Innova,Control Drivers,Neutral,6,4,-2,2,https://infinitediscs.com/Innova-Raven,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ea085e80-aa68-4c1b-bedc-59e2bea0253f100_4578.JPG
-
 Roadrunner,Innova,Control Drivers,Very Understable,9,5.1,-3.8,1.1,https://infinitediscs.com/Innova-Roadrunner,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dc0829bf-7dce-4b01-92cc-3757e7b42217Innova Roadrunner Champion.jpg
-
 Savant,Innova,Control Drivers,Overstable,8.9,5,-0.9,2.1,https://infinitediscs.com/Innova-Savant,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Big-savey.JPG
-
 Sidewinder,Innova,Control Drivers,Understable,9,5,-2.8,1.1,https://infinitediscs.com/Innova-Sidewinder,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f1323bd7-adea-4c5e-a4f4-f473a87451f1Innova Sidewinder DX.jpg
-
 TeeBird,Innova,Control Drivers,Overstable,7,5,-0.1,2,https://infinitediscs.com/Innova-TeeBird,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_de383b0f-dea5-4830-9d25-a4349cf26c30Innova Teebird DX.jpg
-
 TeeBird +,Innova,Control Drivers,Overstable,7,5,0,2,https://infinitediscs.com/Innova-TeeBird-,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dd55127d-665d-4bcc-b1e2-d7415730d91fDSC01774.JPG
-
 TeeBird3,Innova,Control Drivers,Overstable,8,4.1,0,2.1,https://infinitediscs.com/Innova-TeeBird3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_6.JPG
-
 Thunderbird,Innova,Control Drivers,Overstable,9,5,-0.1,2.1,https://infinitediscs.com/Innova-Thunderbird,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e224896d-504a-4d79-bb9d-cb6e58cc746fDSC02560.JPG
-
 TL,Innova,Control Drivers,Overstable,7,5.1,-0.2,1,https://infinitediscs.com/Innova-TL,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fb9d3a49-c33a-4129-a7df-3e1d5984ff0dInnova TL Champion.jpg
-
 TL3,Innova,Control Drivers,Overstable,8,4.1,-0.5,1,https://infinitediscs.com/Innova-TL3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e1e78d-3492.JPG
-
 Valkyrie,Innova,Control Drivers,Neutral,8.9,4.1,-2,2,https://infinitediscs.com/Innova-Valkyrie,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8ab52817-a66c-482c-b182-ab0c148493a5Innova Valkyrie Star.jpg
-
 Viking,Innova,Control Drivers,Overstable,9,4,-1,2,https://infinitediscs.com/Innova-Viking,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_08503b4e-8f91-4d9c-8388-68e996a0dd1e100_4323.JPG
-
 Viper,Innova,Control Drivers,Very Overstable,6.1,4.1,1,5,https://infinitediscs.com/Innova-Viper,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_49b3d84c-a459-4b59-8d72-c7a7f3be14f1Innova Viper DX.jpg
-
 Whippet,Innova,Control Drivers,Very Overstable,6,3.1,0.9,4.9,https://infinitediscs.com/Innova-Whippet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ed99a877-1c7b-4e0a-9460-e948271c275cInnova Whippet DX.jpg
-
 Atlas,Innova,Mid Range,Overstable,5,4.8,-0.1,1,https://infinitediscs.com/Innova-Atlas,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ede0afd2-15c6-4024-b0a2-7622bbf042ebInnova Atlas Star Mix.jpg
-
 Avatar,Innova,Mid Range,Overstable,5,4.1,0,2,https://infinitediscs.com/Innova-Avatar,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6bee76-5816.JPG
-
 Barracuda,Innova,Mid Range,Overstable,5,4,-2,3,https://infinitediscs.com/Innova-Barracuda,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bar.JPG
-
 Bulldog,Innova,Mid Range,Overstable,4,3,0,2,https://infinitediscs.com/Innova-Bulldog,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9e47b99e-76f1-428b-809f-248032d7000f100_4581.JPG
-
 Caiman,Innova,Mid Range,Very Overstable,5,2.4,0,3.6,https://infinitediscs.com/Innova-Caiman,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4d157f-f0bd.JPG
-
 Cobra,Innova,Mid Range,Neutral,4,5,-2,1.9,https://infinitediscs.com/Innova-Cobra,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9e80eb63-d3aa-46c0-9d90-ebc43ff21394Innova Cobra DX.jpg
-
 Commander,Innova,Mid Range,Very Overstable,5.2,3.2,0,3.8,https://infinitediscs.com/Innova-Commander,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03592.jpg
-
 Condor,Innova,Mid Range,Overstable,3,4.2,-0.1,1.8,https://infinitediscs.com/Innova-Condor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_99683b4e-a5bc-4ac5-89a7-9908fb4573c6100_4344.JPG
-
 Coyote,Innova,Mid Range,Neutral,4,4.5,-0.7,1.3,https://infinitediscs.com/Innova-Coyote,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e3d7337f-b1c2-4226-a2cd-088a3b2a3cb4Innova Coyote Star.jpg
-
 Cro,Innova,Mid Range,Overstable,4.9,3,0,2,https://infinitediscs.com/Innova-Cro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_18685a3f-5e8a-42fa-b8cc-eb1a4068e8f0Cro-DX.jpg
-
 Croc,Innova,Mid Range,Very Overstable,5.3,2.1,0.1,4.8,https://infinitediscs.com/Innova-Croc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC01961.jpg
-
 Foxbat,Innova,Mid Range,Understable,5,5.9,-1,0,https://infinitediscs.com/Innova-Foxbat,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ef17b52d-8a0f-4dfa-8e1d-61ed1e2f29a1Foxbat-Overhead.jpg
-
 Gator,Innova,Mid Range,Overstable,5,2.1,0,3.1,https://infinitediscs.com/Innova-Gator,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a7f4f63f-d219-4dd4-a074-b898403152f83.jpg
-
 Gator3,Innova,Mid Range,Overstable,4.9,2.1,0,3,https://infinitediscs.com/Innova-Gator3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_54.JPG
-
 Griffin,Innova,Mid Range,Very Overstable,5,3,1,3,https://infinitediscs.com/Innova-Griffin,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dc4b183a-28a5-4640-a90a-fc287f126772100_4580.JPG
-
 Jaguar,Innova,Mid Range,Understable,5.5,6,-3,2,https://infinitediscs.com/Innova-Jaguar,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8de170-facc.JPG
-
 King Cobra,Innova,Mid Range,Overstable,4.1,5,0,1.9,https://infinitediscs.com/Innova-King-Cobra,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2b7a443f-0f6b-4365-b123-f993c625c194Innova King Cobra Champion.jpg
-
 Kite,Innova,Mid Range,Understable,5,6,-2.9,1,https://infinitediscs.com/Innova-Kite,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d4e07c8e-463a-4f15-b3c8-3c7bd42f6357Innova Kite Star.jpg
-
 Lion,Innova,Mid Range,Overstable,5,3.9,0,1.9,https://infinitediscs.com/Innova-Lion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05012.JPG
-
 Lycan,Innova,Mid Range,Overstable,4,5,0,1,https://infinitediscs.com/Innova-Lycan,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f50bfce8-3744-4645-a7e1-64b26b8fcd8e100_4310.JPG
-
 Makani,Innova,Mid Range,Understable,2,7,-2,0,https://infinitediscs.com/Innova-Makani,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_smallmakani.JPG
-
 Mako,Innova,Mid Range,Neutral,4,5,-0.1,0,https://infinitediscs.com/Innova-Mako,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_78b72475-3628-4779-b12c-526fbf857a04Innova Mako Star.jpg
-
 Mako3,Innova,Mid Range,Neutral,5,4.2,-0.1,0.1,https://infinitediscs.com/Innova-Mako3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_547ae85e-138a-4a27-9eda-c688cbdab575Innova Mako 3 Champion.jpg
-
 Manta,Innova,Mid Range,Understable,5,5,-2.7,1.1,https://infinitediscs.com/Innova-Manta,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_77f568-6063.JPG
-
 Panther,Innova,Mid Range,Understable,5,4,-1.9,1,https://infinitediscs.com/Innova-Panther,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_09f37392-a2b0-4b13-993a-c0dc0c058cbaInnova Panther Champion.jpg
-
 Rancho Roc,Innova,Mid Range,Overstable,4,4,0,2.9,https://infinitediscs.com/Innova-Rancho-Roc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0a2118ab-b506-4343-9ebd-b6da66e37671100_4441.JPG
-
 Rat,Innova,Mid Range,Overstable,4,2.4,0,2.6,https://infinitediscs.com/Innova-Rat,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Ratata2.JPG
-
 Roc,Innova,Mid Range,Overstable,4,4.1,-0.1,2.6,https://infinitediscs.com/Innova-Roc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_79afdf54-66c2-46c9-bbe7-c27f9e7ed40bInnova Roc DX.jpg
-
 Roc +,Innova,Mid Range,Overstable,4,5,0,2,https://infinitediscs.com/Innova-Roc-,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3a7c89c5-eb44-46e4-a0b7-ae4618b3d14eDSC05019.jpg
-
 Roc3,Innova,Mid Range,Overstable,5,4.1,-0.1,2.7,https://infinitediscs.com/Innova-Roc3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5bc122fa-bfcd-43fd-a5b3-77056ec0ffc2DSC08847.JPG
-
 RocX3,Innova,Mid Range,Overstable,5,4,0,3.3,https://infinitediscs.com/Innova-RocX3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5cf0cc-487d.JPG
-
 Scorpion,Innova,Mid Range,Overstable,5,5,-1,2,https://infinitediscs.com/Innova-Scorpion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_scorpion.JPG
-
 Shark,Innova,Mid Range,Overstable,4,4,-0.2,1.8,https://infinitediscs.com/Innova-Shark,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0362ee8d-889a-4591-970c-d45b0e591a89Innova Shark DX.jpg
-
 Shark3,Innova,Mid Range,Overstable,5,4.1,-0.1,1.9,https://infinitediscs.com/Innova-Shark3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_09f6277e-109a-44fa-bae9-6ecee27d8724Innova Shark 3 Champion.jpg
-
 Skeeter,Innova,Mid Range,Neutral,4.9,5,-0.9,0.9,https://infinitediscs.com/Innova-Skeeter,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c5b809ae-ea3c-46ff-8f70-637e04928da9Innova Skeeter Star.jpg
-
 Spider,Innova,Mid Range,Overstable,5,3.1,0,1.1,https://infinitediscs.com/Innova-Spider,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e8d5ce3f-40da-4de0-9225-7898ae480d1fInnova Spider DX.jpg
-
 Stingray,Innova,Mid Range,Understable,4,4.9,-2.8,1,https://infinitediscs.com/Innova-Stingray,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_75c404ac-2219-4556-a0a7-ed736dc9c3b6Innova Stingray Star.jpg
-
 Super Stingray,Innova,Mid Range,Neutral,4,5,-1,1,https://infinitediscs.com/Innova-Super-Stingray,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_42b29da1-b710-4ce3-ae35-803fd7a47da8Innova Super Stingray Champion.jpg
-
 VCobra,Innova,Mid Range,Overstable,5,5.1,-1,1.9,https://infinitediscs.com/Innova-VCobra,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_64a59dd8-3322-4ce1-abc8-c7151706afcfstar-vcobra-green.jpg
-
 VRoc,Innova,Mid Range,Overstable,4,3.9,0,1.7,https://infinitediscs.com/Innova-VRoc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d4a984a9-a091-4875-b283-b2329408690d8.jpg
-
 Wedge,Innova,Mid Range,Understable,4,3.1,-3.1,1,https://infinitediscs.com/Innova-Wedge,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_68cca88c-e674-46fa-8a1d-271113fcfef6Innova Wedge DX.jpg
-
 Wolf,Innova,Mid Range,Very Understable,4,3.1,-3.9,0.9,https://infinitediscs.com/Innova-Wolf,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_93cb177d-123c-4c89-8c7a-64b4f12e33e3Innova Wolf DX.jpg
-
 Wombat,Innova,Mid Range,Neutral,5,6,-1.2,0.8,https://infinitediscs.com/Innova-Wombat,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6399a5c6-68ee-4ff2-9f0c-8d27cdf0dd00Innovagstar-wombat.jpg
-
 Wombat3,Innova,Mid Range,Understable,5,5.8,-1.2,0.1,https://infinitediscs.com/Innova-Wombat3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_wombat3.JPG
-
 Ace,Innova,Putters,Understable,2,3,-2.1,1,https://infinitediscs.com/Innova-Ace,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1b6ef839-5b83-4cab-99e3-e6271479ec78100_4585.JPG
-
 Aero,Innova,Putters,Neutral,3,6,-0.3,0,https://infinitediscs.com/Innova-Aero,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_75454939-49d0-4c8a-920f-ac01b4ef1d27Innova Aero DX.jpg
-
 Aviar,Innova,Putters,Overstable,2,3,0,1,https://infinitediscs.com/Innova-Aviar,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_084c81c0-9ff2-483a-9f3b-08d7482f8dc4Innova Aviar DX.jpg
-
 Aviar Classic,Innova,Putters,Neutral,2,3,0,0,https://infinitediscs.com/Innova-Aviar-Classic,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1e16c26b-d4d2-4500-910d-69fa6fd9e10bInnova Aviar Classic DX.jpg
-
 Aviar Driver,Innova,Putters,Overstable,2,3,0,1.9,https://infinitediscs.com/Innova-Aviar-Driver,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_cd98b3-0d12.JPG
-
 Aviar Yeti,Innova,Putters,Overstable,2,2.9,0,1,https://infinitediscs.com/Innova-Aviar-Yeti,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_68e85905-6b84-4fc5-9ca1-ee73adbcd59dInnova Aviar Yeti Pro.jpg
-
 Aviar-X (JK),Innova,Putters,Overstable,2,3,0,1.9,https://infinitediscs.com/Innova-Aviar-X-(JK),https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_26660e49-ad20-4aa8-9a5b-d00e7d841d77Innova Aviar JK Pro.jpg
-
 Aviar3,Innova,Putters,Overstable,3,2.1,0,1.9,https://infinitediscs.com/Innova-Aviar3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2ec139-1fc5.JPG
-
 AviarX3,Innova,Putters,Overstable,3,2.1,0,3,https://infinitediscs.com/Innova-AviarX3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_rezzies_12.JPG
-
 Birdie,Innova,Putters,Neutral,1,2,0,0,https://infinitediscs.com/Innova-Birdie,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bb23825e-5bb0-4ef5-96e8-b907e3b3a07cInnova Birdie DX.jpg
-
 Bullfrog,Innova,Putters,Overstable,3,1.2,0,1,https://infinitediscs.com/Innova-Bullfrog,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bullfrogmed.jpg
-
 Classic Roc,Innova,Putters,Overstable,3,3,0,2,https://infinitediscs.com/Innova-Classic-Roc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9111b04d-b00b-44a8-84ac-f3930dcb6813Innova Classic Roc DX.jpg
-
 Colt,Innova,Putters,Neutral,3.1,3.3,-0.9,1,https://infinitediscs.com/Innova-Colt,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_41b20783-c6f9-4c02-b7b3-dcf8f28a1515DSC05223.JPG
-
 Coupe,Innova,Putters,Neutral,2,3,-1,1,https://infinitediscs.com/Innova-Coupe,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ce29b520-43b0-4573-a702-1484088a89b1100_4575.JPG
-
 Croc,Innova,Putters,Very Overstable,5.3,2.1,0.1,4.8,https://infinitediscs.com/Innova-Croc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC01961.jpg
-
 Dart,Innova,Putters,Neutral,3.1,4.1,0,0.1,https://infinitediscs.com/Innova-Dart,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1322fc86-0b68-4c8b-9ed8-fce5ddc06df0Innova Dart DX.jpg
-
 Firefly,Innova,Putters,Overstable,2,3,0,0.9,https://infinitediscs.com/Innova-Firefly,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_630e04-2fec.JPG
-
 Hammer,Innova,Putters,Overstable,2.2,2,-1,1.8,https://infinitediscs.com/Innova-Hammer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f15e3243-845e-4c69-832f-9014ab9492a4100_4566.JPG
-
 Hawg,Innova,Putters,Overstable,2,1,0,3.3,https://infinitediscs.com/Innova-Hawg,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_hog.jpg
-
 Hydra,Innova,Putters,Overstable,3,3,0,2.1,https://infinitediscs.com/Innova-Hydra,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a1784eb9-81a0-4ef4-b0af-728816f7d09bInnova Hydra DX.jpg
-
 Invader,Innova,Putters,Overstable,3,2.1,0,1,https://infinitediscs.com/Innova-Invader,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_highres_26.JPG
-
 KC Aviar,Innova,Putters,Overstable,2,3,0,2,https://infinitediscs.com/Innova-Aviar-KC-Pro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_edfc8070-2459-4d52-91ab-2e1a83b9d19d14.jpg
-
 Mirage,Innova,Putters,Very Understable,3.1,4.1,-3,0.1,https://infinitediscs.com/Innova-Mirage,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1cd3c6ce-0e59-4f87-bfe9-70c701fb202cDSC02305.jpg
-
 Nova,Innova,Putters,Neutral,2,3,0,0,https://infinitediscs.com/Innova-Nova,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_878db3b4-fcb1-41ba-8a39-8a27c9616418DSC00728.JPG
-
 Pig,Innova,Putters,Overstable,3,1,0,3,https://infinitediscs.com/Innova-Pig,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_111099e4-145f-4836-ae89-37b7292f880eInnova Pig R-Pro.jpg
-
 Polecat,Innova,Putters,Neutral,1,3,0,0,https://infinitediscs.com/Innova-Polecat,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_689576cf-9e0a-4f4a-b464-0f45b34599d2Innova Polecat DX.jpg
-
 Rhyno,Innova,Putters,Overstable,2,1.2,0,2.8,https://infinitediscs.com/Innova-Rhyno,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_233e313c-437f-48b0-bd1d-0ea64585030dInnova Rhyno DX.jpg
-
 RhynoX,Innova,Putters,Very Overstable,2,1,0,4,https://infinitediscs.com/Innova-RhynoX,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e93e56-bb12.JPG
-
 Sonic,Innova,Putters,Very Understable,1,2.1,-3.9,0.1,https://infinitediscs.com/Innova-Sonic,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6a3c42b3-0ee3-45b1-bd3a-19288752e394Innova Sonic DX.jpg
-
 Stud,Innova,Putters,Overstable,3,3,0,2,https://infinitediscs.com/Innova-Stud,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9f7e49a2-39b3-4748-bfcc-4dafc0571e63DSC02772.JPG
-
 Warhog,Innova,Putters,Overstable,3,3,0,1,https://infinitediscs.com/Innova-Warhog,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1comingsoon_2.jpg
-
 Wedge,Innova,Putters,Understable,4,3.1,-3.1,1,https://infinitediscs.com/Innova-Wedge,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_68cca88c-e674-46fa-8a1d-271113fcfef6Innova Wedge DX.jpg
-
 Whale,Innova,Putters,Overstable,2,3.1,0,1,https://infinitediscs.com/Innova-Whale,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_137e56b1-2b3f-48c0-b0d5-8e2e51e816d41.jpg
-
 XD,Innova,Putters,Neutral,3,4,-1,1,https://infinitediscs.com/Innova-XD,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b763376e-9866-45eb-9da6-40b8506feef7Innova XD DX.jpg
-
 XD +,Innova,Putters,Neutral,3,4,-0.9,0.9,https://infinitediscs.com/Innova-XD-,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d0c80f48-184a-40fc-803f-f7bf1d387744DSC06442.JPG
-
 Zephyr,Innova,Putters,Neutral,1.9,3.2,-0.1,0,https://infinitediscs.com/Innova-Zephyr,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8da84810-045e-4fdd-a381-f5d9fd532c84100_4345.JPG
-
 Ballista,Latitude 64,Distance Drivers,Overstable,13.9,4.8,-0.9,2.9,https://infinitediscs.com/Latitude-64-Ballista,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c5673b3b-fb95-4846-a691-67cb91626e8cDSC09978.JPG
-
 Ballista Pro,Latitude 64,Distance Drivers,Overstable,13.9,4.4,-0.3,2.9,https://infinitediscs.com/Latitude-64-Ballista-Pro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_BallistaPro_1.jpg
-
 Blitz,Latitude 64,Distance Drivers,Very Overstable,11.9,3.3,0,3.8,https://infinitediscs.com/Latitude-64-Blitz,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_40e37a9c-39b1-45d4-b374-bb49f2ec659dL64 Blitz Opto.jpg
-
 Bolt,Latitude 64,Distance Drivers,Overstable,13,6,-2.3,2.6,https://infinitediscs.com/Latitude-64-Bolt,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_079843c9-ad77-413f-99cd-15aa1078e9dcL64 Bolt Opto.jpg
-
 Cutlass,Latitude 64,Distance Drivers,Overstable,12.9,4.9,0,3.3,https://infinitediscs.com/Latitude-64-Cutlass,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bc93c16c-297c-4295-8fb6-2e5cd78812c3DSC09985.JPG
-
 Flow,Latitude 64,Distance Drivers,Overstable,11,5.9,-0.7,2.1,https://infinitediscs.com/Latitude-64-Flow,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e1b3450a-0fd4-4c70-a66c-062f2a896372L64 Flow Opto.jpg
-
 Gladiator,Latitude 64,Distance Drivers,Overstable,13,5,0,3.3,https://infinitediscs.com/Latitude-64-Gladiator,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_glad.JPG
-
 Halo,Latitude 64,Distance Drivers,Overstable,12.9,5,-0.6,2.8,https://infinitediscs.com/Latitude-64-Halo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_745cb55d-f554-462c-b501-1ce504ab8083L64 Halo Gold.jpg
-
 Havoc,Latitude 64,Distance Drivers,Overstable,12.9,5.1,-1.3,2.6,https://infinitediscs.com/Latitude-64-Havoc,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3a6dbb04-d10a-496e-ac65-bedcedafb2b0L64 Havoc Opto.jpg
-
 Knight,Latitude 64,Distance Drivers,Overstable,14,4.2,-1.6,3.6,https://infinitediscs.com/Latitude-64-Knight,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d3cbcfe7-99d1-49d6-8dce-1bb9ee550f11DSC09382.jpg
-
 Missilen,Latitude 64,Distance Drivers,Very Overstable,14.9,3.2,-0.4,4,https://infinitediscs.com/Latitude-64-Missilen,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a3c36349-e7b8-4ee1-ab6a-eb26e808aa792.jpg
-
 Musket,Latitude 64,Distance Drivers,Overstable,10,5,-0.7,2.3,https://infinitediscs.com/Latitude-64-Musket,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0cfa1d-030f.JPG
-
 Raketen,Latitude 64,Distance Drivers,Overstable,14.5,3.6,-2.1,2.7,https://infinitediscs.com/Latitude-64-Raketen,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_aca4ff7f-cbce-4dcb-bd3b-08587a73542cDSC04830.JPG
-
 Recoil,Latitude 64,Distance Drivers,Overstable,12,4.1,0,3,https://infinitediscs.com/Latitude-64-Recoil,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_051159-64e7.jpg
-
 Riot,Latitude 64,Distance Drivers,Overstable,11,4,-0.9,2.1,https://infinitediscs.com/Latitude-64-Riot,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2bb012a8-ce36-4048-b2d2-2fcd4e4b4a49L64 Riot Gold.jpg
-
 Sapphire,Latitude 64,Distance Drivers,Neutral,10,6,-1.8,1.6,https://infinitediscs.com/Latitude-64-Sapphire,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_BIGSAPHIRE.JPG
-
 Scythe,Latitude 64,Distance Drivers,Very Overstable,12,3.2,0,4,https://infinitediscs.com/Latitude-64-Scythe,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4bd8c3e8-8c34-41ec-9525-57d0778d3d01100_4352.JPG
-
 Stiletto,Latitude 64,Distance Drivers,Very Overstable,13,2.7,0.8,5.3,https://infinitediscs.com/Latitude-64-Stiletto,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_df66c35e-65fa-491d-85e7-6ccd5b1432a9100_4508.JPG
-
 Villain,Latitude 64,Distance Drivers,Very Overstable,12,4,-0.2,3.7,https://infinitediscs.com/Latitude-64-Villain,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e2bd242c-f3fe-4a77-9277-d523b1e01c1d7.jpg
-
 Bryce,Latitude 64,Control Drivers,Neutral,9,6,-1.8,1.9,https://infinitediscs.com/Latitude-64-Bryce,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d95248-8974.JPG
-
 Culverin,Latitude 64,Control Drivers,Overstable,9,5,-0.3,2.9,https://infinitediscs.com/Latitude-64-Culverin,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_875e4bfe-9641-4647-9299-937c37a402a6Latitude-64-Opto-Culverin.jpg
-
 Diamond,Latitude 64,Control Drivers,Understable,8,6,-3.1,1,https://infinitediscs.com/Latitude-64-Diamond,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d7f36ea4-e8b0-4dbb-bb02-cd772ab2c9cdL64 Diamond Opto.jpg
-
 Explorer,Latitude 64,Control Drivers,Overstable,7,5,-0.1,2,https://infinitediscs.com/Latitude-64-Explorer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_explorehigh.JPG
-
 Falchion,Latitude 64,Control Drivers,Overstable,8.5,5.6,-1.1,2,https://infinitediscs.com/Latitude-64-Falchion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_86f4fe17-ead4-4d9c-865e-743971b3f63bDSC00026.jpg
-
 Fury,Latitude 64,Control Drivers,Understable,8.9,6.5,-2.1,1.3,https://infinitediscs.com/Latitude-64-Fury,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e63b1b1a-8354-4eb1-8cf0-6c35cafdda2bL64 Fury Opto.jpg
-
 Jade,Latitude 64,Control Drivers,Understable,9,5,-2,1.4,https://infinitediscs.com/Latitude-64-Jade,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8e6b995f-cee6-467f-a337-cc9e4303ae091.jpg
-
 Maul,Latitude 64,Control Drivers,Understable,7,6.9,-2.2,1,https://infinitediscs.com/Latitude-64-Maul,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3ff2555a-ce06-4c5b-8e53-f510704398f8maul.jpg
-
 Pioneer,Latitude 64,Control Drivers,Very Overstable,9,3,0,3.9,https://infinitediscs.com/Latitude-64-Pioneer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_pioneer.jpg
-
 Primitus,Latitude 64,Control Drivers,Overstable,9,5,0,2,https://infinitediscs.com/Latitude-64-Primitus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5dc5aeb3-1c99-4e37-ab26-76363b121af8DSC02421.JPG
-
 River,Latitude 64,Control Drivers,Neutral,7,6.9,-1.1,1.1,https://infinitediscs.com/Latitude-64-River,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e750870d-8c3d-4950-b1ae-7a1c72e3b610L64 River Gold.jpg
-
 River Pro,Latitude 64,Control Drivers,Overstable,6.4,5,-0.2,2.1,https://infinitediscs.com/Latitude-64-River-Pro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_RiverPro.jpg
-
 Saint,Latitude 64,Control Drivers,Overstable,9,6.8,-1.4,1.9,https://infinitediscs.com/Latitude-64-Saint,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ed290642-6940-45bf-a4c9-3b6db6a96e4eL64 Saint Opto.jpg
-
 Saint Pro,Latitude 64,Control Drivers,Overstable,8.4,6,-0.4,2.6,https://infinitediscs.com/Latitude-64-Saint-Pro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_80dcf2ec-a958-471e-8561-62e81c2796c0L64 Saint Pro Opto.jpg
-
 Spark,Latitude 64,Control Drivers,Overstable,7.1,4.1,-0.2,2.6,https://infinitediscs.com/Latitude-64-Spark,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7706dbc6-82ad-46dd-8962-cd7d8efff7ecDSC06525.JPG
-
 Striker,Latitude 64,Control Drivers,Overstable,8.2,5,-0.1,1.9,https://infinitediscs.com/Latitude-64-Striker,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ec85336d-d2db-4697-b8a7-201598b84cab100_5247.JPG
-
 Trident,Latitude 64,Control Drivers,Very Overstable,5.8,3.2,-0.2,3.9,https://infinitediscs.com/Latitude-64-Trident,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_17118f7c-97cd-49d0-8aaf-819e00157f7f1.jpg
-
 Vision,Latitude 64,Control Drivers,Overstable,8,6.1,-1.4,1.9,https://infinitediscs.com/Latitude-64-Vision,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_75ea1e0b-7de0-4284-b64e-22a4688fc42c4.jpg
-
 XXX,Latitude 64,Control Drivers,Very Overstable,7.2,2.8,0,4.4,https://infinitediscs.com/Latitude-64-XXX,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5b66a920-cdf5-4de2-8643-a958293e78d93.jpg
-
 Zion,Latitude 64,Control Drivers,Overstable,9,3.8,-0.6,3,https://infinitediscs.com/Latitude-64-Zion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_optoGbryce.jpg
-
 Anchor,Latitude 64,Mid Range,Overstable,5,4,0,2.8,https://infinitediscs.com/Latitude-64-Anchor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_anchor_1.JPG
-
 Claymore,Latitude 64,Mid Range,Neutral,5,5,-0.7,1,https://infinitediscs.com/Latitude-64-Claymore,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5c6d61b6-a906-4de0-a944-1b248175f0bf100_4711.JPG
-
 Compass,Latitude 64,Mid Range,Overstable,4.9,4.9,0,1,https://infinitediscs.com/Latitude-64-Compass,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9c070d76-2b0d-4ee2-bdd8-8f15727830a4DSC09988.JPG
-
 Core,Latitude 64,Mid Range,Neutral,5.4,5,-0.8,1,https://infinitediscs.com/Latitude-64-Core,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_87e3466b-4298-4992-aaea-91e009f9c7aaL64 Core Opto.jpg
-
 Fuji,Latitude 64,Mid Range,Overstable,4.1,4.1,-0.1,1.9,https://infinitediscs.com/Latitude-64-Fuji,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_898156-fc06.jpg
-
 Fuse,Latitude 64,Mid Range,Understable,5,6.2,-1.3,0.3,https://infinitediscs.com/Latitude-64-Fuse,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_55b4ce06-cc3e-4947-b3b1-974366141c25L64 Fuse Opto.jpg
-
 Gobi,Latitude 64,Mid Range,Overstable,5.7,5.2,-0.5,1.1,https://infinitediscs.com/Latitude-64-Gobi,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e3822f-e812.JPG
-
 Mace,Latitude 64,Mid Range,Overstable,5,5,0,1.9,https://infinitediscs.com/Latitude-64-Mace,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_eb9de5ea-f51a-48aa-ba1f-ae6748afe2e0L64 Mace Gold.jpg
-
 Medius,Latitude 64,Mid Range,Overstable,5,5,-1,2,https://infinitediscs.com/Latitude-64-Medius,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_95e18331-e17b-4b2f-bd6c-89b16ebfc1a4DSC02419.JPG
-
 Pain,Latitude 64,Mid Range,Overstable,4.1,4,-0.1,3.1,https://infinitediscs.com/Latitude-64-Pain,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1300c86e-e651-44aa-b254-de5a1ab4b3dbL64 Pain Gold.jpg
-
 Pearl,Latitude 64,Mid Range,Very Understable,4.1,6,-4.1,0.2,https://infinitediscs.com/Latitude-64-Pearl,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_11c65e12-04b1-4f9b-96c4-b9d2a239676fL64 Pearl Recycled.jpg
-
 Trident,Latitude 64,Mid Range,Very Overstable,5.8,3.2,-0.2,3.9,https://infinitediscs.com/Latitude-64-Trident,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_17118f7c-97cd-49d0-8aaf-819e00157f7f1.jpg
-
 Beetle,Latitude 64,Putters,Understable,1,6.9,-1.1,0,https://infinitediscs.com/Latitude-64-Beetle,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_beetle1_1.JPG
-
 Caltrop,Latitude 64,Putters,Overstable,2,2.1,0,2,https://infinitediscs.com/Latitude-64-Caltrop,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00639.jpg
-
 Dagger,Latitude 64,Putters,Overstable,2,4.7,0,1.3,https://infinitediscs.com/Latitude-64-Dagger,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_67f3d6-8ef1.JPG
-
 Gauntlet,Latitude 64,Putters,Overstable,2.1,4.2,0,1,https://infinitediscs.com/Latitude-64-Gauntlet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_62040fa2-0d62-4628-84be-bcbde22290f2Latitude-64-Zero-Medium-Gauntlet.jpg
-
 Keystone,Latitude 64,Putters,Neutral,2.1,5,-1,0.9,https://infinitediscs.com/Latitude-64-Keystone,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_highres_2.JPG
-
 Macana,Latitude 64,Putters,Overstable,2,5,0,1,https://infinitediscs.com/Latitude-64-Macana,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4ae5fdf0-2cb2-49a3-b396-699d4ad3bbf2Latitude-64-Zero-Medium-Macana.jpg
-
 Mercy,Latitude 64,Putters,Overstable,2.1,4,0,1,https://infinitediscs.com/Latitude-64-Mercy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f4c80f3e-e008-43d6-a72f-bc5a3178afb7L64 Mercy Strawberry.jpg
-
 Pure,Latitude 64,Putters,Overstable,3,3.2,-0.5,0.6,https://infinitediscs.com/Latitude-64-Pure,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f1c17d98-83a9-49db-afa6-0a4c29f133f3L64 Pure Opto.jpg
-
 Ruby,Latitude 64,Putters,Understable,3,4.8,-3,0.9,https://infinitediscs.com/Latitude-64-Ruby,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_05e61065-304b-4dbf-bf17-55b39a2b3239L64 Ruby Opto.jpg
-
 Sarek,Latitude 64,Putters,Overstable,2.1,4.2,-0.1,1.4,https://infinitediscs.com/Latitude-64-Sarek,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_844be7-8f1d.JPG
-
 Sinus,Latitude 64,Putters,Overstable,2.1,1.9,0,2.4,https://infinitediscs.com/Latitude-64-Sinus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_57462a3b-587a-4c56-bb23-39736f0edc88DSC03508.JPG
-
 Spike,Latitude 64,Putters,Neutral,3.9,2.7,-1,0.9,https://infinitediscs.com/Latitude-64-Spike,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_637816c6-3823-4e0f-93fc-48169426c6ba23.jpg
-
 Catalyst,MVP,Distance Drivers,Neutral,13,5.5,-2,1.6,https://infinitediscs.com/MVP-Catalyst,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8e56311f-48fb-47ce-a4ee-bb83f2b0dcbdCatalystNeutron-green.jpg
-
 Dimension,MVP,Distance Drivers,Overstable,14,4.9,0,3.1,https://infinitediscs.com/MVP-Dimension,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02516.jpg
-
 Energy,MVP,Distance Drivers,Very Overstable,13.1,4.1,0.2,3.8,https://infinitediscs.com/MVP-Energy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bad56f1a-0513-4d37-a31d-08031e494bf1energy.jpg
-
 Impulse,MVP,Distance Drivers,Understable,10,4.9,-2.9,1.1,https://infinitediscs.com/MVP-Impulse,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3cdcef8a-86c7-43d3-9a49-d6ae7caf5e9fDSC03146.JPG
-
 Inertia,MVP,Distance Drivers,Neutral,10.3,4.9,-1.9,2,https://infinitediscs.com/MVP-Inertia,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7ded8895-9a3f-4805-bda3-15da857cf0e0DSC03145.JPG
-
 Limit,MVP,Distance Drivers,Very Overstable,14,4,0.3,4.3,https://infinitediscs.com/MVP-Limit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_limitsmall.JPG
-
 Motion,MVP,Distance Drivers,Very Overstable,9.9,4,0.1,4,https://infinitediscs.com/MVP-Motion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03816.jpg
-
 Nitro,MVP,Distance Drivers,Overstable,13,4.4,-0.3,2.6,https://infinitediscs.com/MVP-Nitro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_650721ce-c711-4ff6-a1b6-ee50986465aeNeutron Nitro.jpg
-
 Octane,MVP,Distance Drivers,Overstable,13,4.9,-0.9,2.1,https://infinitediscs.com/MVP-Octane,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ccc770a3-37b5-4460-9788-f9fa59c61224small.JPG
-
 Orbital,MVP,Distance Drivers,Very Understable,11.5,5,-4.4,0.9,https://infinitediscs.com/MVP-Orbital,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c6c58a84-603c-4794-9a95-0d13819476eeMVPOrbital.jpg
-
 Phase,MVP,Distance Drivers,Very Overstable,11.3,3.5,0.1,4.1,https://infinitediscs.com/MVP-Phase,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_79eebcec-0742-41c5-a42e-46432885f673Phase-Neutron-purple.jpg
-
 Photon,MVP,Distance Drivers,Overstable,11.5,4.9,-1,2.7,https://infinitediscs.com/MVP-Photon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5ca06564-25ff-44c0-9460-039156935ea3MVPPhotonFission.png
-
 Relativity,MVP,Distance Drivers,Neutral,13.9,5.1,-2.5,1.6,https://infinitediscs.com/MVP-Relativity,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5e8077-00b5.JPG
-
 Teleport,MVP,Distance Drivers,Overstable,14,5.1,-1.2,2.2,https://infinitediscs.com/MVP-Teleport,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_teleportn.JPG
-
 Tesla,MVP,Distance Drivers,Overstable,10.1,4.7,-0.6,2.3,https://infinitediscs.com/MVP-Tesla,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5e791ab4-385d-4289-b59c-ada3cdb3b585DSC03149.JPG
-
 Wave,MVP,Distance Drivers,Neutral,11.4,5,-1.9,1.8,https://infinitediscs.com/MVP-Wave,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03819.jpg
-
 Amp,MVP,Control Drivers,Neutral,8.1,5,-1.3,1.2,https://infinitediscs.com/MVP-Amp,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8ff3f61b-03dc-41ca-a9f1-f24efbbb4e86MVP Amp Neutron.jpg
-
 Relay,MVP,Control Drivers,Understable,6.1,5,-2.4,1.1,https://infinitediscs.com/MVP-Relay,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ddab946e-6870-48b0-8bd4-d33e4a62d8a91.jpg
-
 Resistor,MVP,Control Drivers,Overstable,6.6,3.8,0,3.3,https://infinitediscs.com/MVP-Resistor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0a1d64e3-3e04-4ef5-b272-8ec1b7dcb90aDSC01624.jpg
-
 Servo,MVP,Control Drivers,Overstable,6.6,4.9,-0.9,2,https://infinitediscs.com/MVP-Servo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03821.jpg
-
 Shock,MVP,Control Drivers,Overstable,8,5,-0.1,2.5,https://infinitediscs.com/MVP-Shock,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03822.jpg
-
 Signal,MVP,Control Drivers,Understable,6,5,-3,1,https://infinitediscs.com/MVP-Signal,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_signal.JPG
-
 Switch,MVP,Control Drivers,Understable,6.7,5,-1.5,1.1,https://infinitediscs.com/MVP-Switch,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5cd3759e-557f-43d6-8717-63cac0489db721.jpg
-
 Volt,MVP,Control Drivers,Overstable,8.1,4.9,-0.7,2.1,https://infinitediscs.com/MVP-Volt,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_27155c80-0a9c-4b23-a384-69cbb8920db7Volt Proton.jpg
-
 Axis,MVP,Mid Range,Neutral,5,4.9,-0.9,1,https://infinitediscs.com/MVP-Axis,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a13248cb-0652-4ed8-ae98-4172e5d2fd32Axis Proton.jpg
-
 Deflector,MVP,Mid Range,Very Overstable,5,3.5,0.2,4.1,https://infinitediscs.com/MVP-Deflector,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_045e8d-92d2.JPG
-
 Matrix,MVP,Mid Range,Overstable,5,4.1,-0.6,2,https://infinitediscs.com/MVP-Matrix,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02368.jpg
-
 Reactor,MVP,Mid Range,Overstable,5,4.9,-0.5,1.5,https://infinitediscs.com/MVP-Reactor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9b2834-89d0.JPG
-
 Tangent,MVP,Mid Range,Neutral,4.5,4.1,-0.9,1,https://infinitediscs.com/MVP-Tangent,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b607e413-5569-49d8-88b4-6229e22d30abMVP Tangent Proton.jpg
-
 Tensor,MVP,Mid Range,Overstable,4.4,4.3,-0.1,2.5,https://infinitediscs.com/MVP-Tensor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0c40c571-1669-4499-a0dc-b9c4cb0f8800MVP Tensor Neutron.jpg
-
 Vector,MVP,Mid Range,Overstable,5,4,0,2.3,https://infinitediscs.com/MVP-Vector,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_677d5798-67e5-4c9f-a600-e80bf27277f5Vector Proton.jpg
-
 Vertex,MVP,Mid Range,Understable,4.2,4,-2.3,0.6,https://infinitediscs.com/MVP-Vertex,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04870.jpg
-
 Anode,MVP,Putters,Neutral,3,3.1,0,0.4,https://infinitediscs.com/MVP-Anode,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_86ca3853-53d5-4fe2-8b46-089691bea02dMVP Anode Proton.jpg
-
 Atom,MVP,Putters,Overstable,2.6,3.1,-0.3,0.8,https://infinitediscs.com/MVP-Atom,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_small_14.JPG
-
 Entropy,MVP,Putters,Overstable,3.9,2.9,0,3,https://infinitediscs.com/MVP-Entropy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9454e5-9dff.JPG
-
 Ion,MVP,Putters,Overstable,3,3.6,0,1.2,https://infinitediscs.com/MVP-Ion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5b508e8b-d99e-4025-a949-5a4536b6a012Ion Proton.jpg
-
 Ohm,MVP,Putters,Overstable,2,5,0,1,https://infinitediscs.com/MVP-Ohm,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ohmhighrez.JPG
-
 Particle,MVP,Putters,Overstable,3,3,-0.1,2.2,https://infinitediscs.com/MVP-Particle,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_partsmall.JPG
-
 Spin,MVP,Putters,Understable,3,4,-1.6,0,https://infinitediscs.com/MVP-Spin,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_spinproton.JPG
-
 D Model OS,Prodigy,Distance Drivers,Very Overstable,13,5,0,3.9,https://infinitediscs.com/Prodigy-D-Model-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DmodelOS_2.JPG
-
 D Model S,Prodigy,Distance Drivers,Overstable,13,6,-0.1,2.1,https://infinitediscs.com/Prodigy-D-Model-S,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DModelS.jpeg
-
 D Model US,Prodigy,Distance Drivers,Understable,13,6,-2.8,1.2,https://infinitediscs.com/Prodigy-D-Model-US,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_806c31-bbba.JPG
-
 D1,Prodigy,Distance Drivers,Overstable,12.3,5.1,-0.2,2.9,https://infinitediscs.com/Prodigy-D1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_da6e3f23-927e-4137-9a78-4d7bc4e3f0afProdigy D1 400S.jpg
-
 D1 Max,Prodigy,Distance Drivers,Overstable,12,5,-0.2,2.9,https://infinitediscs.com/Prodigy-D1-Max,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d1maxbig.JPG
-
 D2,Prodigy,Distance Drivers,Overstable,12.2,5.9,-0.9,2.9,https://infinitediscs.com/Prodigy-D2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_FLABBOI.JPG
-
 D2 Max,Prodigy,Distance Drivers,Overstable,11.9,5.8,-1,2.9,https://infinitediscs.com/Prodigy-D2-Max,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c778a7-56f8.JPG
-
 D3,Prodigy,Distance Drivers,Neutral,12.4,5.9,-1.9,2.1,https://infinitediscs.com/Prodigy-D3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_69c230f5-38ad-43ba-a720-bb2ab22fcebfProdigy D3 400S.jpg
-
 D3 Max,Prodigy,Distance Drivers,Neutral,12,5.8,-2.5,1.6,https://infinitediscs.com/Prodigy-D3-Max,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_400GGGG.JPG
-
 D4,Prodigy,Distance Drivers,Understable,12.2,5.9,-2.9,2.1,https://infinitediscs.com/Prodigy-D4,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_183c83f3-ca83-4ccf-aff4-b8fef9ad5ed8Prodigy D4 400S.jpg
-
 D5,Prodigy,Distance Drivers,Understable,12.3,5.9,-3.6,2.1,https://infinitediscs.com/Prodigy-D5,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_efdeef8d-2d8b-46e6-bd8a-991997bf225fProdigy D5 400S.jpg
-
 D6,Prodigy,Distance Drivers,Very Understable,12.2,6,-4,1,https://infinitediscs.com/Prodigy-D6,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d247afc3-8103-487a-89de-7b65b49fda75DSC00920.jpg
-
 X1,Prodigy,Distance Drivers,Very Overstable,12.9,3,0,4.9,https://infinitediscs.com/Prodigy-X1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3ced43d8-3ab7-4332-bbc0-ce8d49b7acd71.jpg
-
 X2,Prodigy,Distance Drivers,Very Overstable,12.8,4.3,-0.1,3.8,https://infinitediscs.com/Prodigy-X2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05044.jpg
-
 X3,Prodigy,Distance Drivers,Overstable,11.8,4.9,-1,2.1,https://infinitediscs.com/Prodigy-X3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5f2a5d-630d.JPG
-
 X4,Prodigy,Distance Drivers,Neutral,12.7,5.1,-2.3,2,https://infinitediscs.com/Prodigy-X4,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bff4fc-398d.JPG
-
 X5,Prodigy,Distance Drivers,Very Understable,13,5,-3.8,1.2,https://infinitediscs.com/Prodigy-X5,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e18b34-95ca.JPG
-
 F Model OS,Prodigy,Control Drivers,Very Overstable,10,5,2,4,https://infinitediscs.com/Prodigy-F-Model-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f7bc25-7a03.JPG
-
 F Model S,Prodigy,Control Drivers,Overstable,10,5,0.3,2.9,https://infinitediscs.com/Prodigy-F-Model-S,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f581fe-9d5e.jpeg
-
 F Model US,Prodigy,Control Drivers,Understable,10,5,-1.7,1.3,https://infinitediscs.com/Prodigy-F-Model-US,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_highres_32.JPG
-
 F1,Prodigy,Control Drivers,Overstable,7,4.1,-0.2,2.8,https://infinitediscs.com/Prodigy-F1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_be5f313c-12a4-4b95-979f-0cef1880f69aProdigy F1 400S.jpg
-
 F2,Prodigy,Control Drivers,Overstable,7.1,4.9,-1,2.9,https://infinitediscs.com/Prodigy-F2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Infinite3_9.jpg
-
 F3,Prodigy,Control Drivers,Overstable,7,5,-1,2,https://infinitediscs.com/Prodigy-F3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2a34c336-38a3-48e4-bd42-a9e9531d28c73.jpg
-
 F5,Prodigy,Control Drivers,Understable,7,5,-1.8,1.1,https://infinitediscs.com/Prodigy-F5,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b4526acb-834f-4d6f-b0e0-0023b3fc411bDSC03907.jpg
-
 F7,Prodigy,Control Drivers,Understable,7,5,-3,0.9,https://infinitediscs.com/Prodigy-F7,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_11dc3858-e138-45c3-85d1-51127fb20993Prodigy F7 400S.jpg
-
 FX-2,Prodigy,Control Drivers,Overstable,9.1,4.1,-0.6,3.1,https://infinitediscs.com/Prodigy-FX-2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_db5e6b-f152.JPG
-
 H1,Prodigy,Control Drivers,Very Overstable,9.9,3.1,0.1,3.8,https://infinitediscs.com/Prodigy-H1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_72be3847-2d94-4ee6-8685-1c22b98b59a6100_5096.JPG
-
 H1 V2,Prodigy,Control Drivers,Overstable,10.8,4,0,3,https://infinitediscs.com/Prodigy-H1-V2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_H1V2400PLASTICFrontThumbnail2514215216557258008001_1.jpg
-
 H2,Prodigy,Control Drivers,Overstable,9,4.7,0,2.3,https://infinitediscs.com/Prodigy-H2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_50097e0f-c43c-4f8b-ad1a-1eb0a14a37e7DSC02883.JPG
-
 H2 V2,Prodigy,Control Drivers,Overstable,10.9,4.9,-0.2,2.4,https://infinitediscs.com/Prodigy-H2-V2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_H2V2400.jpg
-
 H3,Prodigy,Control Drivers,Overstable,9,3.9,0.1,2.2,https://infinitediscs.com/Prodigy-H3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_82fe1259-424a-4a5e-801e-4b5d9cc325aeH3750.png
-
 H3 V2,Prodigy,Control Drivers,Overstable,10.8,5,-0.9,2.1,https://infinitediscs.com/Prodigy-H3-V2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c61f80-8d3a.jpg
-
 H4,Prodigy,Control Drivers,Neutral,9,4.7,-1.9,1.6,https://infinitediscs.com/Prodigy-H4,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6c81fd16-ce99-44c6-a69a-1333c840cef2DSC05170.JPG
-
 H4 V2,Prodigy,Control Drivers,Neutral,11.1,5.1,-2,1.5,https://infinitediscs.com/Prodigy-H4-V2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_H4V2400.JPG
-
 H5,Prodigy,Control Drivers,Understable,9,5,-2.9,1,https://infinitediscs.com/Prodigy-H5,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfRATATATATATATNAHJK.JPG
-
 M Model OS,Prodigy,Mid Range,Overstable,6,4.1,-0.9,2.8,https://infinitediscs.com/Prodigy-M-Model-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_MModelOS.jpeg
-
 M Model S,Prodigy,Mid Range,Overstable,5.9,4.1,0,2.8,https://infinitediscs.com/Prodigy-M-Model-S,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_76f0de-35f3.JPG
-
 M Model US,Prodigy,Mid Range,Neutral,4,5,-1,0.9,https://infinitediscs.com/Prodigy-M-Model-US,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_highres2_3.JPG
-
 M1,Prodigy,Mid Range,Overstable,5,4,0,2.8,https://infinitediscs.com/Prodigy-M1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_08881ed5-52d8-40d6-8ac5-9f4e60b67c1eDSC01660.JPG
-
 M2,Prodigy,Mid Range,Overstable,5,4,-0.1,2,https://infinitediscs.com/Prodigy-M2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a101f8c0-2b18-4bef-addf-2826280bf27fProdigy M2 400G.jpg
-
 M3,Prodigy,Mid Range,Overstable,5,5,-0.9,2,https://infinitediscs.com/Prodigy-M3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8e164992-4b58-4045-a606-2a7091ed7567Prodigy M3 400S.jpg
-
 M4,Prodigy,Mid Range,Neutral,5,4.9,-1.1,1,https://infinitediscs.com/Prodigy-M4,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_533823b7-010f-47df-99a3-537600792a806.jpg
-
 M5,Prodigy,Mid Range,Understable,5,5,-3,0.9,https://infinitediscs.com/Prodigy-M5,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e0a9559e-7016-4ba0-890d-1f4189c07bc9DSC03418.JPG
-
 MX-3,Prodigy,Mid Range,Overstable,5,4.1,-0.1,1.8,https://infinitediscs.com/Prodigy-MX-3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_223722-861b.JPG
-
 A1,Prodigy,Putters,Overstable,3.2,2.9,0.1,3.2,https://infinitediscs.com/Prodigy-A1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e68003b2-fb38-4770-85e4-f26f5b5613a7DSC03963.JPG
-
 A2,Prodigy,Putters,Overstable,4,3.6,0.1,3.2,https://infinitediscs.com/Prodigy-A2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3362d5e2-b943-4880-a7fe-d4331dcb954aProdigy A2.jpg
-
 A3,Prodigy,Putters,Overstable,4,3.8,0,3.1,https://infinitediscs.com/Prodigy-A3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_358774ec-d301-4d6d-9fa6-e5fe5576587cA3_400_purple__68203.1453156774.800.800.jpg
-
 A4,Prodigy,Putters,Overstable,3.9,3.9,-0.8,2,https://infinitediscs.com/Prodigy-A4,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04182.jpg
-
 P Model S,Prodigy,Putters,Overstable,3,4.9,0,1.9,https://infinitediscs.com/Prodigy-P-Model-S,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_PModelS.jpeg
-
 P Model US,Prodigy,Putters,Neutral,3,4.8,-1,1,https://infinitediscs.com/Prodigy-P-Model-US,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1c8bb7-9b4c.JPG
-
 PA-1,Prodigy,Putters,Overstable,3,3,0,2,https://infinitediscs.com/Prodigy-PA-1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_582a6dca-a73a-4ba4-829f-b99fc604c788Prodigy PA-1 400S.jpg
-
 PA-2,Prodigy,Putters,Overstable,3,3,0,1.2,https://infinitediscs.com/Prodigy-PA-2,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_786da485-1f14-4096-8daa-95c355f1fde3Prodigy PA-2 300S.jpg
-
 PA-3,Prodigy,Putters,Overstable,3,4,0,1.1,https://infinitediscs.com/Prodigy-PA-3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bf762aee-9047-4f24-909b-20bf8afc040bDSC04829.JPG
-
 PA-4,Prodigy,Putters,Neutral,3,3.1,-0.9,0.9,https://infinitediscs.com/Prodigy-PA-4,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_746e4717-7110-4ec0-b9dc-3ae122b46944Prodigy PA-4 300s.jpg
-
 Boatman,Westside,Distance Drivers,Overstable,10.8,5.1,-0.1,2.1,https://infinitediscs.com/Westside-Boatman,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d5b3eab9-edc2-4c12-a8f4-78599b4d857eWestside Boatman Tournament.jpg
-
 Catapult,Westside,Distance Drivers,Overstable,13.8,4.6,-0.5,3,https://infinitediscs.com/Westside-Catapult,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d0e0972c-d5a6-4cb4-9411-7f9eef5c5a0fWestside-Discs-VIP-Catapult.jpg
-
 Destiny,Westside,Distance Drivers,Overstable,13.7,6,-2.2,2.7,https://infinitediscs.com/Westside-Destiny,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c5e591ea-be89-4e95-bc7d-b7836543fb06Westside-Discs-VIP-Destiny.jpg
-
 Fortress,Westside,Distance Drivers,Overstable,10,4,0,3,https://infinitediscs.com/Westside-Fortress,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fortress.JPG
-
 Giant,Westside,Distance Drivers,Overstable,12.8,4.5,0.1,3.4,https://infinitediscs.com/Westside-Giant,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5d1c273c-e2b2-4db3-8860-f5597ebcf46bWestside Giant VIP.jpg
-
 King,Westside,Distance Drivers,Overstable,13.6,5.1,-2.1,2.8,https://infinitediscs.com/Westside-King,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d00ca5e5-5df9-4235-871d-e5f81c268e17Westside King Tournament.jpg
-
 Northman,Westside,Distance Drivers,Overstable,10,5,-1.1,1.8,https://infinitediscs.com/Westside-Northman,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_932e8176-1641-4c23-b3a1-01358cff036fWestside Northman Tournament.jpg
-
 Queen,Westside,Distance Drivers,Understable,13.7,5.1,-2.8,1.9,https://infinitediscs.com/Westside-Queen,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Queen.JPG
-
 Sampo,Westside,Distance Drivers,Overstable,9.9,4.6,-0.6,2.1,https://infinitediscs.com/Westside-Sampo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_05da510a-da3a-400f-8258-d93beaa17739Westside-Discs-VIP-Sampo.jpg
-
 Sorcerer,Westside,Distance Drivers,Overstable,12.9,5.4,-0.7,2.4,https://infinitediscs.com/Westside-Sorcerer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dba7a726-36c2-49e8-b5f3-81ddab687811100_3923.JPG
-
 Sword,Westside,Distance Drivers,Overstable,11.9,5.1,-0.8,2,https://infinitediscs.com/Westside-Sword,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a0c42aac-c167-45e8-bfae-586e12f48ab6Westside Sword VIP.jpg
-
 War Horse,Westside,Distance Drivers,Very Overstable,12.9,4,0,4,https://infinitediscs.com/Westside-War-Horse,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_34.JPG
-
 World,Westside,Distance Drivers,Overstable,14,4,-0.3,3.3,https://infinitediscs.com/Westside-World,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_08054c04-862f-447f-8176-ebd57bd22383IMG_2559.JPG
-
 Ahti,Westside,Control Drivers,Very Overstable,9,3,0.1,4,https://infinitediscs.com/Westside-Ahti,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03896.jpg
-
 Hatchet,Westside,Control Drivers,Understable,9,5.9,-2.2,1.3,https://infinitediscs.com/Westside-Hatchet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7d312e68-9b10-4fd0-9b0d-284cde231adf100_4503.JPG
-
 Longbowman,Westside,Control Drivers,Overstable,8.7,4,0,2.9,https://infinitediscs.com/Westside-Longbowman,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_eeda3d7d-1d3d-45d6-a45b-c54fc3f3f67bWestside-Discs-VIP-Longbowman.jpg
-
 Seer,Westside,Control Drivers,Understable,7,5.1,-1.9,1.2,https://infinitediscs.com/Westside-Seer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e9304f23-4e24-4a48-975f-6b1a1e5bea45WestsideSeer.png
-
 Stag,Westside,Control Drivers,Overstable,8,5.9,-1,2,https://infinitediscs.com/Westside-Stag,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_39a02751-dce3-4ccb-9560-0c3b2c408610Westside Stag Tournament.jpg
-
 Underworld,Westside,Control Drivers,Understable,7.1,6,-2.8,1,https://infinitediscs.com/Westside-Underworld,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5c58deea-8c83-4c6d-9e3d-8f718361f104Westside Underworld Tournament.jpg
-
 Anvil,Westside,Mid Range,Very Overstable,4.1,2.3,0,4,https://infinitediscs.com/Westside-Anvil,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_866b2f-f784.JPG
-
 Bard,Westside,Mid Range,Overstable,5,3.9,0,2.9,https://infinitediscs.com/Westside-Bard,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_70abc55e-0837-4977-aba6-987353b9e868WestsideBard5403.png
-
 Gatekeeper,Westside,Mid Range,Overstable,4.1,5,-0.1,2,https://infinitediscs.com/Westside-Gatekeeper,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_gatekeeper.JPG
-
 Pine,Westside,Mid Range,Overstable,5,4.4,-0.1,2,https://infinitediscs.com/Westside-Pine,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03487.jpg
-
 Sling,Westside,Mid Range,Overstable,4.5,4.9,-0.4,0.8,https://infinitediscs.com/Westside-Sling,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fa14f75d-050d-4d4d-8b7b-d53a09c6cf86DSC00013.jpg
-
 Tursas,Westside,Mid Range,Understable,5,5.1,-2.4,1,https://infinitediscs.com/Westside-Tursas,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fe89fef0-c16d-48db-a025-dee5ddccb634Westside Tursas Tournament.jpg
-
 Warship,Westside,Mid Range,Overstable,5.7,5.5,-0.1,1,https://infinitediscs.com/Westside-Warship,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d4257d-ddee.JPG
-
 Crown,Westside,Putters,Overstable,3,4,0,1,https://infinitediscs.com/Westside-Crown,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_093964-38d2.JPG
-
 Harp,Westside,Putters,Overstable,4,3,0,2.5,https://infinitediscs.com/Westside-Harp,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_125dd4f8-7f1b-4cdd-9b33-8e1b201a0aceWestside Harp.jpg
-
 Maiden,Westside,Putters,Overstable,3,3.8,-0.3,1,https://infinitediscs.com/Westside-Maiden,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e7cbc6-2eae.JPG
-
 Shield,Westside,Putters,Overstable,3,3,0,1,https://infinitediscs.com/Westside-Shield,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c18dccac-b942-4901-9f09-640728c6aaa0DSC09031.JPG
-
 Swan,Westside,Putters,Understable,2.9,2.9,-1.1,0,https://infinitediscs.com/Westside-Swan,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7fe82883-79aa-43d1-a357-456da61f6f6dWestside Swan BT.jpg
-
 Swan 1 Reborn,Westside,Putters,Understable,3,3.1,-2.2,0.1,https://infinitediscs.com/Westside-Swan-1-Reborn,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_db243c86-9eac-48be-b83c-c0fa6d04ec13DSC09086.JPG
-
 Bee Line,ABC,Distance Drivers,Understable,14,5,-3,1.9,https://infinitediscs.com/ABC-Bee-Line,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_72ebcf9a-5088-4ad2-9557-69841839718aABC Bee Line Platinum.jpg
-
 Secret Weapon,ABC,Distance Drivers,Understable,10,5,-2.9,2,https://infinitediscs.com/ABC-Secret-Weapon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_15a42ead-a8c2-42eb-b332-48ef6c6fc251ABC Secret Weapon Gold.jpg
-
 Gamma Ray,ABC,Control Drivers,Neutral,9,4,-2,2,https://infinitediscs.com/ABC-Gamma-Ray,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_796ee26a-7642-4831-8098-839f9332e6b6Gamma-Ray-Gold.jpg
-
 Flying Squirrel,ABC,Mid Range,Understable,5.8,5,-2.8,1.9,https://infinitediscs.com/ABC-Flying-Squirrel,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_add58229-e170-438a-af1b-35a3a3687c97ABC Flying Squirrely Platinum.jpg
-
 Mission,ABC,Mid Range,Overstable,4,5,-1,1.8,https://infinitediscs.com/ABC-Mission,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8b0f6779-b50e-466c-bffa-05908e05f727ABC Mission Gold.jpg
-
 Money Putter,ABC,Putters,Overstable,2,3,0,1.9,https://infinitediscs.com/ABC-Money-Putter,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_0db3cbca-499f-4cd5-a4d5-eb2fea44fc0fABC Money Bronze.jpg
-
 Cedar,Above Ground Level,Distance Drivers,Overstable,11,5,0,3,https://infinitediscs.com/Above-Ground-Level-Cedar,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Infinite36_6.jpg
-
 Cypress,Above Ground Level,Distance Drivers,Neutral,12,4.8,-1.5,2.2,https://infinitediscs.com/Above-Ground-Level-Cypress,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6fe155-60be.JPG
-
 Sycamore,Above Ground Level,Control Drivers,Overstable,7,4.9,0,1,https://infinitediscs.com/Above-Ground-Level-Sycamore,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_953586-7e03.JPG
-
 Magnolia,Above Ground Level,Mid Range,Overstable,5,4.1,0,1.9,https://infinitediscs.com/Above-Ground-Level-Magnolia,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5af0f7-df88.JPG
-
 Baobab,Above Ground Level,Putters,Very Overstable,4,1,1,3,https://infinitediscs.com/Above-Ground-Level-Baobab,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a4f10b-5ca3.JPG
-
 Madrone,Above Ground Level,Putters,Overstable,3,3,0,1,https://infinitediscs.com/Above-Ground-Level-Madrone,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fd1100-fca1.JPG
-
 Manzanita,Above Ground Level,Putters,Overstable,2.9,2.9,0,2,https://infinitediscs.com/Above-Ground-Level-Manzanita,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdf_78.JPG
-
 Ponderosa,Above Ground Level,Putters,Understable,2,4,-1,0,https://infinitediscs.com/Above-Ground-Level-Ponderosa,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_82144b-24b9.jpg
-
 Osprey,AquaFlight,Distance Drivers,Overstable,12,4,-1,2,https://infinitediscs.com/AquaFlight-Osprey,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02955.jpg
-
 Pelican,AquaFlight,Control Drivers,Understable,6,5,-3,1,https://infinitediscs.com/AquaFlight-Pelican,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02951.jpg
-
-Swift,AquaFlight,Control Drivers,Understable,6.9,5,-1.9,1.1,https://infinitediscs.com/AquaFlight-Swift,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02954.jpg
-
+Swift,AquaFlight,Control Drivers,Understable,8.4,5,-2.6,1.1,https://infinitediscs.com/AquaFlight-Swift,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02954.jpg
 Dragonfly,AquaFlight,Mid Range,Understable,5,4,-3,1,https://infinitediscs.com/AquaFlight-Dragonfly,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02952.jpg
-
 Peace Frog,AquaFlight,Putters,Overstable,3,3,0,1,https://infinitediscs.com/AquaFlight-Peace-Frog,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02953.jpg
-
 Defy,Axiom,Distance Drivers,Overstable,11.2,4.2,-0.2,3,https://infinitediscs.com/Axiom-Defy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03815.jpg
-
 Delirium,Axiom,Distance Drivers,Overstable,14.5,4.9,-0.5,3,https://infinitediscs.com/Axiom-Delirium,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_delirium.jpg
-
 Excite,Axiom,Distance Drivers,Neutral,13.9,5.3,-2.2,2,https://infinitediscs.com/Axiom-Excite,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_AxiomExciteNeutron.jpg
-
 Fireball,Axiom,Distance Drivers,Very Overstable,9.8,3,-0.1,3.8,https://infinitediscs.com/Axiom-Fireball,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_98ceea78-4e94-4daa-8c0d-748d57703aedNeutronFireballWhite.jpg
-
 Mayhem,Axiom,Distance Drivers,Neutral,13,5.1,-1.6,2.1,https://infinitediscs.com/Axiom-Mayhem,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b64502-7c00.JPG
-
 Panic,Axiom,Distance Drivers,Overstable,13,4.2,-0.4,3.1,https://infinitediscs.com/Axiom-Panic,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC02568.jpg
-
 Tantrum,Axiom,Distance Drivers,Overstable,14,4.9,-1.5,2.7,https://infinitediscs.com/Axiom-Tantrum,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_15a35d-87ca.JPG
-
 Tenacity,Axiom,Distance Drivers,Neutral,13,5,-2.4,2,https://infinitediscs.com/Axiom-Tenacity,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_tenacity.JPG
-
 Thrill,Axiom,Distance Drivers,Overstable,11,4,-0.1,3.1,https://infinitediscs.com/Axiom-Thrill,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f0073b84-a2ec-477b-97b5-09babba8f5b9ThrillNeutron-graypink.jpg
-
 Vanish,Axiom,Distance Drivers,Understable,11.5,5,-2.7,1.9,https://infinitediscs.com/Axiom-Vanish,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ddf0f4b1-ba10-439d-86c6-5fe811afaab1vanish3.png
-
 Virus,Axiom,Distance Drivers,Understable,9.6,5,-3.4,1,https://infinitediscs.com/Axiom-Virus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_06b4e18c-0aab-49f7-b46c-18ec3bcb12d4NeutronVirusRed3.jpg
-
 Clash,Axiom,Control Drivers,Overstable,7,4.5,-0.9,2.5,https://infinitediscs.com/Axiom-Clash,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC03814.jpg
-
 Crave,Axiom,Control Drivers,Neutral,6.5,5,-0.8,1.2,https://infinitediscs.com/Axiom-Crave,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_44f9f6bb-593a-42f5-a113-5b43c487505c33.jpg
-
 Insanity,Axiom,Control Drivers,Understable,9.9,4.9,-2,1.4,https://infinitediscs.com/Axiom-Insanity,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d08a1206-cf27-47e2-a372-3926de2e6893Insanity-Neutron-BlueWhite.jpg
-
 Inspire,Axiom,Control Drivers,Neutral,6.5,4.5,-1.8,1.6,https://infinitediscs.com/Axiom-Inspire,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f3cc5d2e-ae2a-4c0b-a2a7-3c2be29b8b53100_4359.JPG
-
 Wrath,Axiom,Control Drivers,Overstable,10.1,4.3,-0.9,2.1,https://infinitediscs.com/Axiom-Wrath,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_368c464f-784f-4ebe-af3a-3732727f29bdAxiomWrath.png
-
 Alias,Axiom,Mid Range,Neutral,4.2,4.2,-0.9,1,https://infinitediscs.com/Axiom-Alias,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fb469a86-723e-4f9c-b0c4-ff328d1a3a5c1.jpg
-
 Pyro,Axiom,Mid Range,Overstable,5.1,3.8,0,2.7,https://infinitediscs.com/Axiom-Pyro,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_946985-b14c.JPG
-
 Theory,Axiom,Mid Range,Understable,4.6,4.6,-1.8,0.7,https://infinitediscs.com/Axiom-Theory,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9537dfab-4771-4eac-89a1-8c7431389f91DSC05676.JPG
-
 Envy,Axiom,Putters,Overstable,2.7,3.1,-0.1,1.9,https://infinitediscs.com/Axiom-Envy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_58853bc9-e761-4334-89db-aa3933110fb66.jpg
-
 Proxy,Axiom,Putters,Neutral,3,3.2,-0.8,0.6,https://infinitediscs.com/Axiom-Proxy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ae971f77-6380-4c06-964c-4bbb78082647Axiom Proxy.jpg
-
 Albatross,Daredevil,Distance Drivers,Very Overstable,14,4,0,5,https://infinitediscs.com/Daredevil-Albatross,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_albatross.JPG
-
 Big Foot,Daredevil,Distance Drivers,Neutral,13,4.9,-1.9,2.1,https://infinitediscs.com/Daredevil-Big-Foot,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a0ef6dd3-49b1-49be-8cf3-2c029e40e15214.jpg
-
 Buffalo,Daredevil,Distance Drivers,Very Overstable,9,4,-1,5,https://infinitediscs.com/Daredevil-Buffalo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05077.jpg
-
 Gray Jay,Daredevil,Distance Drivers,Very Overstable,14,4,-0.1,4.9,https://infinitediscs.com/Daredevil-Gray-Jay,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_grayjay.JPG
-
 Mammoth,Daredevil,Distance Drivers,Very Overstable,9,4,-1.1,4.6,https://infinitediscs.com/Daredevil-Mammoth,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05071.jpg
-
 Merlin,Daredevil,Distance Drivers,Very Overstable,13.8,4,-1,4.8,https://infinitediscs.com/Daredevil-Merlin,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d033fe-3cd0.JPG
-
 Ogopogo,Daredevil,Distance Drivers,Overstable,9,4,-2,4.8,https://infinitediscs.com/Daredevil-Ogopogo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_pogo.JPG
-
 Sasquatch,Daredevil,Distance Drivers,Very Understable,12,5,-5,1,https://infinitediscs.com/Daredevil-Sasquatch,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e1272ee9-0108-48f4-9e4c-23c36a4fed2c12.jpg
-
 Yeti,Daredevil,Distance Drivers,Understable,13,5.1,-2.8,1.1,https://infinitediscs.com/Daredevil-Yeti,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_42655fff-7d83-4fe1-bf8c-9585d75c867613.jpg
-
 Sabertooth,Daredevil,Control Drivers,Very Overstable,9,3.9,-0.1,4.9,https://infinitediscs.com/Daredevil-Sabertooth,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_sabertooth.jpg
-
 Swift Fox,Daredevil,Control Drivers,Understable,7.2,5,-3,1,https://infinitediscs.com/Daredevil-Swift-Fox,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c8f8a01e-6466-4872-abdd-5b7407ea92a79.jpg
-
 Timberwolf,Daredevil,Control Drivers,Neutral,8.1,5,-1,1,https://infinitediscs.com/Daredevil-Timberwolf,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_098c18b8-8123-4fed-9a04-4cf6b15dbc1210.jpg
-
 Wolverine,Daredevil,Control Drivers,Neutral,8.1,4.9,-2,2,https://infinitediscs.com/Daredevil-Wolverine,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8062db7e-d89e-459a-8eca-71930a0b2a4d11.jpg
-
 Caribou,Daredevil,Mid Range,Understable,4,5,-2.8,1,https://infinitediscs.com/Daredevil-Caribou,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9462b78f-8418-4ea5-940f-dae0f6349c166.jpg
-
 Grizzly,Daredevil,Mid Range,Overstable,4.1,4,-1,2,https://infinitediscs.com/Daredevil-Grizzly,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6761573a-2c98-43aa-a912-5a55141a1e4a5.jpg
-
 Moose,Daredevil,Mid Range,Overstable,4,5,0,2,https://infinitediscs.com/Daredevil-Moose,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9345f2ff-cbc3-4a0c-acb3-d45876b22a138.jpg
-
 Pteranodon,Daredevil,Mid Range,Understable,4,6,-2,1,https://infinitediscs.com/Daredevil-Pteranodon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_064d78-5b5b.JPG
-
 Walrus,Daredevil,Mid Range,Overstable,4,5,0,3,https://infinitediscs.com/Daredevil-Walrus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_978343b7-6fcf-49c9-a80a-08c354f7dd34Walrus.jpg
-
 Beaver,Daredevil,Putters,Overstable,2,3,0,1,https://infinitediscs.com/Daredevil-Beaver,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_080c9316-6fec-44bd-a8c1-fa77073e19fe7.jpg
-
 Bighorn,Daredevil,Putters,Overstable,2.1,3,0,1,https://infinitediscs.com/Daredevil-Bighorn,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bighorn450.jpg
-
 Great Horned Owl,Daredevil,Putters,Overstable,2,3,0,1,https://infinitediscs.com/Daredevil-Great-Horned-Owl,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d7a75b52-be19-4454-b9d3-135806e7676cowl.jpg
-
 Polar Bear,Daredevil,Putters,Neutral,2.1,3.1,-0.9,1,https://infinitediscs.com/Daredevil-Polar-Bear,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c5955152-4a97-4a89-9978-1631b09f33f84.jpg
-
 Woodchuck,Daredevil,Putters,Understable,2,3,-1,0.2,https://infinitediscs.com/Daredevil-Woodchuck,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e6f2af07-84c3-48cc-ab84-6dc317270121DSC02118.JPG
-
 Hurricane,DGA,Distance Drivers,Overstable,12,4.9,-0.9,2.3,https://infinitediscs.com/DGA-Hurricane,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_781acc58-4c3f-48d9-b5d5-60734b8292efDGA Hurricane Standard.jpg
-
 Riptide,DGA,Distance Drivers,Overstable,9,4,0,3,https://infinitediscs.com/DGA-Riptide,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d1698eff-da59-4f89-a36b-3e89cbe03987DGA Riptide Standard.jpg
-
 Rogue,DGA,Distance Drivers,Overstable,11,4,-1,2,https://infinitediscs.com/DGA-Rogue,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e8961b71-0cdd-43da-a1ae-1781480e6870DGA Rogue Standard.jpg
-
 Sail,DGA,Distance Drivers,Understable,10.5,6.2,-3.3,1,https://infinitediscs.com/DGA-Sail,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a08ff2ce-b526-4630-9eb5-fd5ab47b1d12Sail.jpg
-
 Tempest,DGA,Distance Drivers,Understable,13,5.1,-3,2,https://infinitediscs.com/DGA-Tempest,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_tempest_1.JPG
-
 Torrent,DGA,Distance Drivers,Overstable,13.9,5,-1,2.1,https://infinitediscs.com/DGA-Torrent,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a71d7974-aa13-48ea-8b96-b35dd2cde93b29.jpg
-
 Tsunami,DGA,Distance Drivers,Very Overstable,9.9,3.1,0,3.8,https://infinitediscs.com/DGA-Tsunami,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_210dcd05-fe78-486f-8ded-032df0c0cd40DGA Tsunami Standard.jpg
-
 Undertow,DGA,Distance Drivers,Neutral,10,4.1,-1,1.1,https://infinitediscs.com/DGA-Undertow,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b1061f4f-a329-46e4-8881-982ba3768998DGA Undertow Standard.jpg
-
 Banzai,DGA,Control Drivers,Overstable,8.1,4,0,3,https://infinitediscs.com/DGA-Banzai,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_14510e-1ea8.JPG
-
 Flathead Cyclone,DGA,Control Drivers,Overstable,7,4,-1,3,https://infinitediscs.com/DGA-Flathead-Cyclone,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6b07dc5e-137a-4ff3-a8df-470b022a87d5100_4383.JPG
-
 Hellfire,DGA,Control Drivers,Very Overstable,10.1,3.1,0,4.8,https://infinitediscs.com/DGA-Hellfire,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_851ff862-f932-43df-b332-2d7fe150994aDSC02103.JPG
-
 Pipeline,DGA,Control Drivers,Overstable,8.1,5,-0.4,1.9,https://infinitediscs.com/DGA-Pipeline,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_95a7b070-eb54-49bc-8551-9ea78ed14a0epipeline.JPG
-
 Aftershock,DGA,Mid Range,Overstable,4,3.1,-0.1,2,https://infinitediscs.com/DGA-Aftershock,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_730befb8-2321-477a-b4a2-6067eccb2ad4DGA Aftershock Standard.jpg
-
 Quake,DGA,Mid Range,Overstable,5,3.1,0,3.1,https://infinitediscs.com/DGA-Quake,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b0b284-f7cb.JPG
-
 Rift,DGA,Mid Range,Overstable,5,4.2,-0.9,1.5,https://infinitediscs.com/DGA-Rift,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b50034-e027.JPG
-
 Shockwave,DGA,Mid Range,Overstable,4,2,0,3,https://infinitediscs.com/DGA-Shockwave,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7d73c36c-3467-450d-93ac-9e34fc5af717DGA Shockwave Standard.jpg
-
 Squall,DGA,Mid Range,Neutral,6,4,-1,1,https://infinitediscs.com/DGA-Squall,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_93c2d4d8-8bf3-41a0-a5d9-023ca3dd062fDGA Squall Standard.jpg
-
 Tremor,DGA,Mid Range,Very Understable,6,5,-3.9,1,https://infinitediscs.com/DGA-Tremor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ProlineTremor.JPG
-
 Blowfly I,DGA,Putters,Overstable,2,2.1,-0.9,1.9,https://infinitediscs.com/DGA-Blowfly-I,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3883f2b2-9c84-4602-97b3-e8665c731ff3DGA Blowfly I Signature Series.jpg
-
 Blowfly II,DGA,Putters,Neutral,3,2,-1,1,https://infinitediscs.com/DGA-Blowfly-II,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7a507731-0a08-4994-9cec-b154d7c0590aDGA Blowfly II Signature Series.jpg
-
 Blunt Gumbputt,DGA,Putters,Overstable,2,2.1,0,1.9,https://infinitediscs.com/DGA-Blunt-Gumbputt,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_052cff03-885c-4334-8172-37e0c38904e7DGA Blunt Gumpbutt Signature Series.jpg
-
 Breaker,DGA,Putters,Overstable,3.8,3,0,2.9,https://infinitediscs.com/DGA-Breaker,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_206860d6-e22f-4723-932c-09ac0e488539DGA Breaker Standard.jpg
-
 PowerDrive Gumbputt,DGA,Putters,Understable,2,2.1,-2,1.1,https://infinitediscs.com/DGA-PowerDrive-Gumbputt,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c0cba8a1-9298-404b-a00e-6dd4f5f8f593power-gumbputt1.jpg
-
 Reef,DGA,Putters,Neutral,2,2.1,-1.1,1,https://infinitediscs.com/DGA-Reef,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1437750c-60b3-4b72-a560-8465316ae98dDGA Reef Standard.jpg
-
 Steady,DGA,Putters,Overstable,2.1,3.1,0,1,https://infinitediscs.com/DGA-Steady,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4ea0f751-10aa-45ab-9816-d0d3c1b66a73DGASteady.jpg
-
 Steady BL,DGA,Putters,Overstable,2,4,0,1.9,https://infinitediscs.com/DGA-Steady-BL,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Steady-BL.jpg
-
 Titanic,DGA,Putters,Overstable,2,2,0,2,https://infinitediscs.com/DGA-Titanic,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d1df449a-dfe4-4171-a82a-af74daf4538dDGA Titanic Standard.jpg
-
 Pterodactylus,Dino Discs,Distance Drivers,Very Understable,10,5,-6,2,https://infinitediscs.com/Dino-Discs-Pterodactylus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9b8ba2-3fb0.JPG
-
 Tyrannosaurus Rex,Dino Discs,Distance Drivers,Very Understable,14,5,-7,2,https://infinitediscs.com/Dino-Discs-Tyrannosaurus-Rex,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d27709-3a38.JPG
-
 Brachiosaurus,Dino Discs,Mid Range,Very Understable,6,5,-5,1,https://infinitediscs.com/Dino-Discs-Brachiosaurus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a5756c-d144.JPG
-
 Stegosaurus,Dino Discs,Mid Range,Understable,4,5,-3.8,1.9,https://infinitediscs.com/Dino-Discs-Stegosaurus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_866e35-87d5.JPG
-
 Triceratops,Dino Discs,Putters,Understable,3,3,-3,1,https://infinitediscs.com/Dino-Discs-Triceratops,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_1comingsoon_3.jpg
-
 The Count,Disc Golf UK,Control Drivers,Overstable,7,4,-1,3,https://infinitediscs.com/Disc-Golf-UK-The-Count,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Counthighres.JPG
-
 The Baron,Disc Golf UK,Mid Range,Overstable,4,3,0,2.5,https://infinitediscs.com/Disc-Golf-UK-The-Baron,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_baronhighres.JPG
-
 The Duchess,Disc Golf UK,Mid Range,Neutral,5,4,-2,2,https://infinitediscs.com/Disc-Golf-UK-The-Duchess,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_duchesshighres.JPG
-
 The Duke,Disc Golf UK,Mid Range,Very Overstable,6,4,0,3.5,https://infinitediscs.com/Disc-Golf-UK-The-Duke,https://infinitediscs.com#
-
 Starling,Disctroyer,Distance Drivers,Neutral,12.9,5,-2,2,https://infinitediscs.com/Disctroyer-Starling,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bigwhite.JPG
-
 Stork,Disctroyer,Control Drivers,Overstable,8,5,0,1,https://infinitediscs.com/Disctroyer-Stork,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bf5e27-6455.JPG
-
 Skylark,Disctroyer,Mid Range,Overstable,5,4,0,2,https://infinitediscs.com/Disctroyer-Skylark,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b35f0d-223e.JPG
-
 Sparrow,Disctroyer,Putters,Overstable,3,3,0,2,https://infinitediscs.com/Disctroyer-Sparrow,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bigblue_1.JPG
-
 Chromium,Element Discs,Control Drivers,Overstable,9,4.8,-0.8,1.5,https://infinitediscs.com/Element-Discs-Chromium,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Chromium.JPG
-
 Lithium,Element Discs,Mid Range,Understable,4.9,3.9,-1.8,1,https://infinitediscs.com/Element-Discs-Lithium,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4ba3dcd6-718f-4f88-abb3-0c342e52445aDSC03979.jpg
-
 Prototype 3,Element Discs,Mid Range,Overstable,4,3,0,2,https://infinitediscs.com/Element-Discs-Prototype-3,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a81b2649-cfdd-425a-9078-5cd0b9d0b4d1DSC07868.jpg
-
 Radium,Element Discs,Mid Range,Overstable,6,4,-1,1.9,https://infinitediscs.com/Element-Discs-Radium,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Radium.JPG
-
 Uranium,Element Discs,Mid Range,Overstable,4,2,0,2.2,https://infinitediscs.com/Element-Discs-Uranium,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Uranium.jpg
-
 Iridium,Element Discs,Putters,Overstable,2,2.8,0,1.9,https://infinitediscs.com/Element-Discs-Iridium,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_61227d13-651b-4d3d-9816-398f7dff60afDSC09747.JPG
-
 Plutonium,Element Discs,Putters,Overstable,3,2.9,-0.1,1.1,https://infinitediscs.com/Element-Discs-Plutonium,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2de3253b-bef3-47c7-902a-9d8df6c55fb6DSC00019.JPG
-
 Taipan,Fourth Circle Discs,Distance Drivers,Overstable,13,5,0,3.1,https://infinitediscs.com/Fourth-Circle-Discs-Taipan,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_145082-13c6.JPG
-
 Firehawk,Fourth Circle Discs,Control Drivers,Understable,8,5,-2,1,https://infinitediscs.com/Fourth-Circle-Discs-Firehawk,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_636701-d97e.JPG
-
 Dingo,Fourth Circle Discs,Mid Range,Overstable,5,5,0,3,https://infinitediscs.com/Fourth-Circle-Discs-Dingo,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8f888a-eb01.JPG
-
 Cruise,Full Turn,Distance Drivers,Overstable,12.8,4,-2,2.8,https://infinitediscs.com/Full-Turn-Cruise,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a092b2-11e4.JPG
-
 Traveler,Full Turn,Distance Drivers,Overstable,9,3.9,0,2,https://infinitediscs.com/Full-Turn-Traveler,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f26bda73-0a66-441f-b6a6-cb0e5cf46c13DSC02043.JPG
-
 Voyage,Full Turn,Distance Drivers,Overstable,12.2,4.9,0,3.1,https://infinitediscs.com/Full-Turn-Voyage,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_84c79e-e5c6.JPG
-
 Drifter,Full Turn,Control Drivers,Overstable,8.9,4,-1,1.9,https://infinitediscs.com/Full-Turn-Drifter,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_express.JPG
-
 Navigator,Full Turn,Mid Range,Overstable,5,4,-1.1,1.9,https://infinitediscs.com/Full-Turn-Navigator,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_navigatorground.JPG
-
 Passport,Full Turn,Putters,Neutral,3.8,3.9,-1,1,https://infinitediscs.com/Full-Turn-Passport,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_passportground.JPG
-
 Meteorite,Galaxy Disc Golf,Distance Drivers,Overstable,11,3.1,-0.5,2.1,https://infinitediscs.com/Galaxy-Disc-Golf-Meteorite,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_meteorite.png
-
 Shooting Star,Galaxy Disc Golf,Control Drivers,Understable,7,5,-2.1,0.9,https://infinitediscs.com/Galaxy-Disc-Golf-Shooting-Star,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Shooting-Star.png
-
 Orbit,Galaxy Disc Golf,Mid Range,Overstable,4.9,4,0,2.6,https://infinitediscs.com/Galaxy-Disc-Golf-Orbit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_859231-96f5.png
-
 Magneton,Galaxy Disc Golf,Putters,Overstable,2.1,3.1,-0.1,1.8,https://infinitediscs.com/Galaxy-Disc-Golf-Magneton,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Magneton.png
-
 Midgard,Guru Disc Golf,Control Drivers,Neutral,6,5,-1,1,https://infinitediscs.com/Guru-Disc-Golf-Midgard,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dplasticemidgard.JPG
-
 Thor,Guru Disc Golf,Mid Range,Overstable,4,4,0,2,https://infinitediscs.com/Guru-Disc-Golf-Thor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Cplasticechrishemsworth.JPG
-
 Mjolner,Guru Disc Golf,Putters,Overstable,2,3,0,1,https://infinitediscs.com/Guru-Disc-Golf-Mjolner,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dmewmew.JPG
-
 Sabot,Hyzer Bomb,Distance Drivers,Very Overstable,11,4,0,5,https://infinitediscs.com/Hyzer-Bomb-Sabot,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_swirlysabot.JPG
-
 Marksman,Hyzer Bomb,Control Drivers,Overstable,9,5,-0.9,2,https://infinitediscs.com/Hyzer-Bomb-Marksman,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Marksman.JPG
-
 Moab,Hyzer Bomb,Control Drivers,Very Overstable,5.8,3.9,1,5.1,https://infinitediscs.com/Hyzer-Bomb-Moab,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_25b6c403-aa05-4a17-b8cb-486740c4a0bbDSC05428.JPG
-
 Veteran,Hyzer Bomb,Control Drivers,Overstable,7,4,-0.1,1.1,https://infinitediscs.com/Hyzer-Bomb-Veteran,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6739459b-cf1f-41f3-b2ec-983d88109becDSC05899.JPG
-
 Mortar,Hyzer Bomb,Mid Range,Overstable,5,3.9,0,3,https://infinitediscs.com/Hyzer-Bomb-Mortar,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4219f43b-b7d6-47f1-adcf-80a8b5c116a5HyzerBomb Mortar.jpg
-
 Tank,Hyzer Bomb,Putters,Overstable,2,2,0,1.9,https://infinitediscs.com/Hyzer-Bomb-Tank,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dad7eb52-8ab1-4142-ab88-0dc0d690e50fHyzerBomb Tank.jpg
-
 Tank-Panzer,Hyzer Bomb,Putters,Overstable,2,2,0,3,https://infinitediscs.com/Hyzer-Bomb-Tank-Panzer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bae0cc25-1166-4a27-a983-c475bfb83f94HyzerBomb Panzer.jpg
-
 Grym,Kastaplast,Distance Drivers,Overstable,13,5,-1.3,2.1,https://infinitediscs.com/Kastaplast-Grym,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ca725e-8643.JPG
-
 Grym X,Kastaplast,Distance Drivers,Overstable,12.6,5,-0.1,2.7,https://infinitediscs.com/Kastaplast-Grym-X,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ed6c8c-05a1.JPG
-
 Rask,Kastaplast,Distance Drivers,Very Overstable,13.6,3.1,0.1,4.3,https://infinitediscs.com/Kastaplast-Rask,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_03b06be3-26fc-48bd-b7e9-bb680ecaf826DSC04976.JPG
-
 Falk,Kastaplast,Control Drivers,Understable,8.9,5.8,-2.3,1.3,https://infinitediscs.com/Kastaplast-Falk,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_cc374a-706b.JPG
-
 Lots,Kastaplast,Control Drivers,Overstable,9,5,-1,1.9,https://infinitediscs.com/Kastaplast-Lots,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_BIGLOTS.jpg
-
 Stal,Kastaplast,Control Drivers,Overstable,9,4,0,3.2,https://infinitediscs.com/Kastaplast-Stal,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c476cc-614f.JPG
-
 Gote,Kastaplast,Mid Range,Overstable,4,5,-0.2,0.9,https://infinitediscs.com/Kastaplast-Gote,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9d468f-e703.JPG
-
 Kaxe,Kastaplast,Mid Range,Overstable,6,4.1,0,2.9,https://infinitediscs.com/Kastaplast-Kaxe,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_06a9a482-cd2d-4cec-b334-e497063d5e40DSC05014.JPG
-
 Kaxe Z,Kastaplast,Mid Range,Overstable,6,5,0,2,https://infinitediscs.com/Kastaplast-Kaxe-Z,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6cbf7bbf-ad20-4dc1-b86c-96df0411d354DSC04974.JPG
-
 Svea,Kastaplast,Mid Range,Understable,5,6,-1,0,https://infinitediscs.com/Kastaplast-Svea,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ComingSoon.jpg
-
 Berg,Kastaplast,Putters,Overstable,1.1,1.4,0,1.8,https://infinitediscs.com/Kastaplast-Berg,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fdb3fa2e-0515-4808-b613-fffc98ab0fd8DSC04975.JPG
-
 Reko,Kastaplast,Putters,Overstable,3,3.3,-0.2,1.2,https://infinitediscs.com/Kastaplast-Reko,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2bf9dcfc-a8f8-44ce-ac9a-302ecc7b2864DSC02332.jpg
-
 Kaufinator Nemesis,Kaufinator Discs,Distance Drivers,Understable,10,6,-4,2,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Nemesis,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_67aa5b-07bd.JPG
-
 Kaufinator Outlaw,Kaufinator Discs,Distance Drivers,Overstable,12,5,-1,3,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Outlaw,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b2a124-b599.JPG
-
 Kaufinator Bandit,Kaufinator Discs,Control Drivers,Understable,9,5,-2,1,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Bandit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_bandito.JPG
-
 Kaufinator Phenom,Kaufinator Discs,Control Drivers,Overstable,8,5,-1,2,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Phenom,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_rezzies_30.JPG
-
 Kaufinator Rival,Kaufinator Discs,Control Drivers,Overstable,7,5,0,2,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Rival,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_00f31a-8839.JPG
-
 Kaufinator Ghost,Kaufinator Discs,Mid Range,Overstable,4,5,0,3,https://infinitediscs.com/Kaufinator-Discs-Kaufinator-Ghost,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_37b8e5-ffc3.JPG
-
 Aftermath,Legacy,Distance Drivers,Overstable,13,5,-1.9,3,https://infinitediscs.com/Legacy-Aftermath,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_aftermath.JPG
-
 Cannon,Legacy,Distance Drivers,Overstable,14,5,-2.4,3,https://infinitediscs.com/Legacy-Cannon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2afea51e-b285-479b-9bfd-440dd4746372Legacy Cannon Pinnacle.jpg
-
 Nemesis,Legacy,Distance Drivers,Understable,9.9,6,-3.9,2,https://infinitediscs.com/Legacy-Nemesis,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fb252ee7-939c-4ce5-a080-32f85521a3baDSC02108.JPG
-
 Outlaw,Legacy,Distance Drivers,Overstable,12,4.9,-1,3,https://infinitediscs.com/Legacy-Outlaw,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_807444b1-e1c5-4c76-97d5-899ad7034ae53_otl.jpg
-
 Rampage,Legacy,Distance Drivers,Overstable,14,5,-1.1,3.8,https://infinitediscs.com/Legacy-Rampage,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_33e873aa-54d2-4787-ab3a-4e54fae65d1cLegacy Rampage Excel.jpg
-
 Recon,Legacy,Distance Drivers,Overstable,13,5,-1,3,https://infinitediscs.com/Legacy-Recon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_19fe05-1bfb.JPG
-
 Vengeance,Legacy,Distance Drivers,Overstable,10,5,0,2,https://infinitediscs.com/Legacy-Vengeance,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Vengeance.jpg
-
 Bandit,Legacy,Control Drivers,Understable,9,5,-2,1,https://infinitediscs.com/Legacy-Bandit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5291dc22-c47d-4b2a-b656-e454f7686299Legacy Bandit Icon.jpg
-
 Enemy,Legacy,Control Drivers,Very Overstable,9,3.1,0,4,https://infinitediscs.com/Legacy-Enemy,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7274fc71-37f1-4f02-87e2-a95908d1e0fbEnemyProduct.jpg
-
 Fighter,Legacy,Control Drivers,Very Overstable,9.9,3,0.1,4,https://infinitediscs.com/Legacy-Fighter,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fighter.JPG
-
 Mongoose,Legacy,Control Drivers,Understable,9,5,-3.1,1,https://infinitediscs.com/Legacy-Mongoose,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e296feaa-17a9-4490-ae5e-381b5d9fa158100_5425.JPG
-
 Patriot,Legacy,Control Drivers,Understable,7.1,5.1,-1.8,1,https://infinitediscs.com/Legacy-Patriot,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_47aefcde-7661-415e-bf87-2bfaa6bbc88eLegacy Patriot Icon.jpg
-
 Phantom Warrior,Legacy,Control Drivers,Overstable,7,5,0,2.1,https://infinitediscs.com/Legacy-Phantom-Warrior,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b1de7c-6297.JPG
-
 Phenom,Legacy,Control Drivers,Overstable,8,5,-1.2,1.7,https://infinitediscs.com/Legacy-Phenom,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f3f51077-b997-4a8a-b484-e8e169d3ecc2DSC05271.JPG
-
 Rival,Legacy,Control Drivers,Overstable,7.1,5,-0.1,2,https://infinitediscs.com/Legacy-Rival,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d3449e25-8c63-4f83-809a-6283032200bfLegacy Rival Pinnacle.jpg
-
 Gauge,Legacy,Mid Range,Overstable,5,5,0,1,https://infinitediscs.com/Legacy-Gauge,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_09cd95ad-5d59-40ed-a2fe-f4d77059f11dlegacy_gauge.jpg
-
 Ghost,Legacy,Mid Range,Overstable,4.1,4.9,-0.2,2.6,https://infinitediscs.com/Legacy-Ghost,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f5f6dc45-74bd-4906-9dea-1f3c85bd9e3fLegacy Ghost Icon.jpg
-
 Pursuit,Legacy,Mid Range,Overstable,5,3.3,0,3.1,https://infinitediscs.com/Legacy-Pursuit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_pursuit.JPG
-
 Recluse,Legacy,Mid Range,Very Overstable,4.1,3,0,3.9,https://infinitediscs.com/Legacy-Recluse,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ihatespides.JPG
-
 Valor,Legacy,Mid Range,Overstable,5,5,0,1.9,https://infinitediscs.com/Legacy-Valor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9f482b-d36f.JPG
-
 Clozer,Legacy,Putters,Overstable,2,2.9,0,1.9,https://infinitediscs.com/Legacy-Clozer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_36ea8d46-e554-4f3f-a57c-a3cc4d7fbed4Legacy Clozer Excel.jpg
-
 Clutch,Legacy,Putters,Overstable,2.1,3.2,-0.2,1,https://infinitediscs.com/Legacy-Clutch,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_43bb830b-f71c-4f2b-afa0-8c3a8cef967dLegacy Clutch Gravity.jpg
-
 Hunter,Legacy,Putters,Neutral,2.4,3.8,-0.1,0.1,https://infinitediscs.com/Legacy-Hunter,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4d6d1a50-6d42-4bac-9358-614a40cb5e43DSC05939.JPG
-
 Prowler,Legacy,Putters,Overstable,2,3.1,-0.1,1.5,https://infinitediscs.com/Legacy-Prowler,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_54c5a563-e8e2-4167-b4cc-64c03f5ab59bDSC01936.JPG
-
 Aquarius,Millennium,Distance Drivers,Understable,10,5.1,-3.7,1.8,https://infinitediscs.com/Millennium-Aquarius,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_93d0660e-111a-41e9-836b-a57c65df090bDSC07867.jpg
-
 Aries,Millennium,Distance Drivers,Understable,11,6,-2.6,1.1,https://infinitediscs.com/Millennium-Aries,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_85fab9de-21a2-47c0-b4b1-2e281e842aff1.jpg
-
 Astra,Millennium,Distance Drivers,Neutral,10.9,5.1,-2.1,1.9,https://infinitediscs.com/Millennium-Astra,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3d69bfaf-8132-4420-8217-be9795e8e482Millennium Astra Standard.jpg
-
 Astra-X,Millennium,Distance Drivers,Overstable,11,4.9,-1.6,3.2,https://infinitediscs.com/Millennium-Astra-X,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_48223500-7623-46a8-9ac3-41b96caedb8c12.jpg
-
 Falcon,Millennium,Distance Drivers,Neutral,12.9,5.1,-1.8,2.1,https://infinitediscs.com/Millennium-Falcon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_94289d-5ef4.JPG
-
 Polaris LF,Millennium,Distance Drivers,Neutral,9,5,-2,2.5,https://infinitediscs.com/Millennium-Polaris-LF,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_68c931-4b86.JPG
-
 Quasar,Millennium,Distance Drivers,Overstable,12.8,5,-1,3.9,https://infinitediscs.com/Millennium-Quasar,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Infinite11_2.jpg
-
 Scorpius,Millennium,Distance Drivers,Overstable,12.8,4.4,-1,3,https://infinitediscs.com/Millennium-Scorpius,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6e1c75f0-1c82-4439-83de-1d689780d1d5Millennium Scorpius Quantum.jpg
-
 Draco,Millennium,Control Drivers,Very Overstable,9,3,0,4,https://infinitediscs.com/Millennium-Draco,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_569301-2aa7.JPG
-
 EXP-X,Millennium,Control Drivers,Very Overstable,7,3,0.8,3.9,https://infinitediscs.com/Millennium-EXP-X,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05289.jpg
-
 EXP1,Millennium,Control Drivers,Very Overstable,7,3,0,4,https://infinitediscs.com/Millennium-EXP1,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c1d335-5a5e.JPG
-
 JLS,Millennium,Control Drivers,Neutral,7.8,5,-1.9,1.8,https://infinitediscs.com/Millennium-JLS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2ae696bd-9065-4341-a9e4-99377c762fcbMillennium JLS Standard.jpg
-
 Orion LF,Millennium,Control Drivers,Overstable,9,5,-1,2.9,https://infinitediscs.com/Millennium-Orion-LF,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c58c69ad-8df4-4690-931f-641e2dd0337eMillennium Orion LF Standard.jpg
-
 Orion LS,Millennium,Control Drivers,Neutral,9.1,4.9,-1.9,1.9,https://infinitediscs.com/Millennium-Orion-LS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_03ceb42a-1a2c-4cc8-abb2-29dbd7c904d9Millennium Orion LS Standard.jpg
-
 Polaris LS,Millennium,Control Drivers,Understable,7.8,5,-2,1.1,https://infinitediscs.com/Millennium-Polaris-LS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6efe3dad-05fc-4e9c-8808-fe01a7b77569Millennium Polaris LS Standard.jpg
-
 Aurora MS,Millennium,Mid Range,Neutral,4.1,5,-1,1,https://infinitediscs.com/Millennium-Aurora-MS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_672e6ee6-1c03-42b6-a615-55d94d9835273.jpg
-
 Sentinel MF,Millennium,Mid Range,Very Overstable,5,4.1,0,4,https://infinitediscs.com/Millennium-Sentinel-MF,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_68b0a9f7-f6bf-4d22-ada0-81832dd1bffdMillennium Sentinel Sirius.jpg
-
 Taurus,Millennium,Mid Range,Very Overstable,4,4,-0.1,3.8,https://infinitediscs.com/Millennium-Taurus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC05276.jpg
-
 Omega,Millennium,Putters,Neutral,2,3,-0.9,1,https://infinitediscs.com/Millennium-Omega,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4d64702a-12f7-44fc-a038-2357fc3bbc9817.jpg
-
 Omega AP,Millennium,Putters,Neutral,2,3,0,0,https://infinitediscs.com/Millennium-Omega-AP,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_7385f007-53cd-46af-a0e7-91ea30ceafd8Millennium Omega AP.jpg
-
 Omega AP Big Bead,Millennium,Putters,Neutral,2,3,0,0,https://infinitediscs.com/Millennium-Omega-AP-Big-Bead,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_17879c-f0d8.JPG
-
 Omega Big Bead,Millennium,Putters,Neutral,2,3,-1,1,https://infinitediscs.com/Millennium-Omega-Big-Bead,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_35e97b58-121f-4e58-929c-736dbed47647Millennium Omega Big Bead SuperSoft.jpg
-
 Omega Driver,Millennium,Putters,Overstable,3,2,0,1.9,https://infinitediscs.com/Millennium-Omega-Driver,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_omega-driver-dt-bottom.jpg
-
 Omega SuperSoft,Millennium,Putters,Neutral,2,3,-0.9,1,https://infinitediscs.com/Millennium-Omega-SuperSoft,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c33b620c-8a8c-41f6-bf8e-79c4a23d48aeMillennium Profile - Omega Supersoft.jpg
-
 Freetail,Mint Discs,Distance Drivers,Understable,10,6,-3.1,1.9,https://infinitediscs.com/Mint-Discs-Freetail,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4c8e18-8f41.JPG
-
 Alpha,Mint Discs,Control Drivers,Overstable,8.1,4.2,0,1.9,https://infinitediscs.com/Mint-Discs-Alpha,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Mintproton.JPG
-
 Bobcat,Mint Discs,Mid Range,Overstable,5,4.8,0,2.3,https://infinitediscs.com/Mint-Discs-Bobcat,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_BOCATAPEX.JPG
-
 Mustang,Mint Discs,Mid Range,Overstable,5,4.9,-0.1,1.8,https://infinitediscs.com/Mint-Discs-Mustang,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Mustang.JPG
-
 Bullet,Mint Discs,Putters,Overstable,2,3,0,1,https://infinitediscs.com/Mint-Discs-Bullet,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_RoyalSoftBullet.JPG
-
 Profit,Mint Discs,Putters,Overstable,3,3,0,1.3,https://infinitediscs.com/Mint-Discs-Profit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Royalprofit.JPG
-
 LED Driver,Nite Ize,Distance Drivers,Very Understable,12,5,-3.9,1,https://infinitediscs.com/Nite-Ize-LED-Driver,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f99e68a0-7115-4697-b954-0dd2210efcbcDSC05766.JPG
-
 LED Midrange,Nite Ize,Mid Range,Overstable,4.8,4,-1.1,1.9,https://infinitediscs.com/Nite-Ize-LED-Midrange,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a9147ccd-987b-4e20-8b7b-2773b160e881DSC05761.JPG
-
 LED Putter,Nite Ize,Putters,Neutral,2.1,3,-1,1,https://infinitediscs.com/Nite-Ize-LED-Putter,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4841db24-bb38-42e8-938c-b073aeca9109DSC05757.JPG
-
 Hyperion,Ozone Discs,Distance Drivers,Very Overstable,10.9,3.8,0,4,https://infinitediscs.com/Ozone-Discs-Hyperion,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_hyperion.JPG
-
 Andro C,Ozone Discs,Mid Range,Overstable,5.9,3.9,-0.9,2.1,https://infinitediscs.com/Ozone-Discs-Andro-C,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_androc.jpg
-
 Intervention,Plastic Addicts,Distance Drivers,Overstable,12.1,5,-1,4,https://infinitediscs.com/Plastic-Addicts-Intervention,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_10f9528e-50e8-425a-87fd-ef51e2f6260fDSC02861.jpg
-
 Habit,Plastic Addicts,Putters,Understable,3,5.1,-1,0,https://infinitediscs.com/Plastic-Addicts-Habit,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6ad44a90-d3e8-474f-9b4f-e6ffaa75914fDSC02855.jpg
-
 Fasti,Prodiscus,Distance Drivers,Overstable,13,4.1,-2.2,2.6,https://infinitediscs.com/Prodiscus-Fasti,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_39461f-59f0.jpg
-
 Legenda,Prodiscus,Distance Drivers,Overstable,13,5.1,-1,2,https://infinitediscs.com/Prodiscus-Legenda,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_538b8b61-f828-4f5b-96f5-5c947aa93355Prodiscus Legenda Premium.jpg
-
 Razeri,Prodiscus,Distance Drivers,Overstable,12,5,0,2.9,https://infinitediscs.com/Prodiscus-Razeri,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_98f7004a-7e3d-4d12-901b-c5545ecc6b17DSC05780.JPG
-
 Slaidi,Prodiscus,Distance Drivers,Overstable,11.9,5,0,3,https://infinitediscs.com/Prodiscus-Slaidi,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_179b3b55-7dcf-453d-a090-fe2ddce891afProdiscus Slaidi Premium.jpg
-
 Titan,Prodiscus,Distance Drivers,Overstable,9.8,4.1,0,3,https://infinitediscs.com/Prodiscus-Titan,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c7e8b622-3bb7-4522-b71b-8222dc8d4da1DSC05786.JPG
-
 Flipperi,Prodiscus,Control Drivers,Very Understable,9,3,-3,0,https://infinitediscs.com/Prodiscus-Flipperi,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_002f10-4c13.JPG
-
 Laseri,Prodiscus,Control Drivers,Neutral,9.5,5.8,-1.2,1.1,https://infinitediscs.com/Prodiscus-Laseri,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d9fe9550-7613-4dfd-bb95-0c815905cbcbProdiscus Laseri Premium.jpg
-
 Respecti,Prodiscus,Control Drivers,Overstable,8,4,0.1,2.2,https://infinitediscs.com/Prodiscus-Respecti,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_8abeb499-6fa2-4340-8626-8559089b5414Prodiscus Respecti Basic.jpg
-
 Rocket,Prodiscus,Control Drivers,Overstable,9,4,0,3,https://infinitediscs.com/Prodiscus-Rocket,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ba4a6e3f-e06f-4326-af1f-992f3d09dce1DSC08860.jpg
-
 Midari,Prodiscus,Mid Range,Overstable,5,4.1,-0.8,1.9,https://infinitediscs.com/Prodiscus-Midari,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d0881bc4-085a-4c17-9ac3-6602167dfe35Prodiscus Midari Basic.jpg
-
 STARi,Prodiscus,Mid Range,Understable,5,4,-2,1,https://infinitediscs.com/Prodiscus-STARi,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ultstar.JPG
-
 Jokeri,Prodiscus,Putters,Overstable,4,3.1,0,2.1,https://infinitediscs.com/Prodiscus-Jokeri,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_33bf3e61-ed42-4b9e-9457-e4334ebaa790Jokeri-Basic.jpg
-
 Sparta,Prodiscus,Putters,Neutral,3,3.1,0,0.5,https://infinitediscs.com/Prodiscus-Sparta,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ba0ffaf0-45b2-4010-91cd-7691d863b38a3.jpg
-
 Ptero,Reptilian Disc Golf,Control Drivers,Neutral,7,5,-1,1,https://infinitediscs.com/Reptilian-Disc-Golf-Ptero,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_higherrez.JPG
-
 Tyrant,Reptilian Disc Golf,Control Drivers,Overstable,7.1,3.2,0,2.7,https://infinitediscs.com/Reptilian-Disc-Golf-Tyrant,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC00027_1.JPG
-
 Velociraptor,Reptilian Disc Golf,Control Drivers,Overstable,9,4,0,2.5,https://infinitediscs.com/Reptilian-Disc-Golf-Velociraptor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_highrez.JPG
-
 Gila,Reptilian Disc Golf,Mid Range,Overstable,5,4,-0.1,3,https://infinitediscs.com/Reptilian-Disc-Golf-Gila,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_fossillgila.jpg
-
 Stego,Reptilian Disc Golf,Mid Range,Very Overstable,2.9,1,1.1,4.3,https://infinitediscs.com/Reptilian-Disc-Golf-Stego,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_stego.JPG
-
 Scale,Reptilian Disc Golf,Putters,Overstable,2,1.2,0,2.9,https://infinitediscs.com/Reptilian-Disc-Golf-Scale,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_smallfossil.JPG
-
 Serpent,Reptilian Disc Golf,Putters,Neutral,2,2,0,0.1,https://infinitediscs.com/Reptilian-Disc-Golf-Serpent,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_smallserp.JPG
-
 Kahu,RPM Discs,Distance Drivers,Overstable,13,5,-1.6,2.9,https://infinitediscs.com/RPM-Discs-Kahu,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_baedeadc-5738-4951-9ade-4bc37a27c52bDSC09217.jpg
-
 Kahu OS,RPM Discs,Distance Drivers,Overstable,13,4.9,0,3,https://infinitediscs.com/RPM-Discs-Kahu-OS,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_999f10-f6fb.JPG
-
 Kahu XG,RPM Discs,Distance Drivers,Overstable,13,5.2,-1.5,2.8,https://infinitediscs.com/RPM-Discs-Kahu-XG,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c17f48-c9bd.JPG
-
 Kiwi,RPM Discs,Distance Drivers,Overstable,9.8,4.4,-0.7,2.6,https://infinitediscs.com/RPM-Discs-Kiwi,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2bd206-dd46.JPG
-
 Kotare,RPM Discs,Distance Drivers,Overstable,12,5,0,3,https://infinitediscs.com/RPM-Discs-Kotare,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_12fcb2-f634.JPG
-
 Huia,RPM Discs,Control Drivers,Overstable,7,5,-0.1,1.9,https://infinitediscs.com/RPM-Discs-Huia,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ffbfbf-e42c.JPG
-
 Taniwha,RPM Discs,Control Drivers,Neutral,10,5,-2.1,1.8,https://infinitediscs.com/RPM-Discs-Taniwha,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_71b1c113-fd07-4df8-b376-88f067b31fb8DSC09294.jpg
-
 Kea,RPM Discs,Mid Range,Overstable,4.8,4.7,0,3,https://infinitediscs.com/RPM-Discs-Kea,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_badf18-8bbd.JPG
-
 Piwakawaka,RPM Discs,Mid Range,Neutral,4.3,5.3,-0.5,0.4,https://infinitediscs.com/RPM-Discs-Piwakawaka,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dca2908e-e7cb-45ac-bd7f-a8915a5ad188DSC09296.jpg
-
 TeMoko,RPM Discs,Mid Range,Neutral,3,4,0,0,https://infinitediscs.com/RPM-Discs-TeMoko,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a671057f-f8bc-403c-96cc-e3a9de5baa5dDSC09352.jpg
-
 Ruru,RPM Discs,Putters,Overstable,3,3,-0.1,1,https://infinitediscs.com/RPM-Discs-Ruru,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_small_17.JPG
-
 Tui,RPM Discs,Putters,Understable,3,4.1,-1.1,0,https://infinitediscs.com/RPM-Discs-Tui,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5ab365d7-45c6-46e6-a715-e92a448a811aDSC09293.jpg
-
 Backdraft,Salient,Distance Drivers,Overstable,12,5,-1,2.1,https://infinitediscs.com/Salient-Backdraft,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d67ee8b9-0896-438a-b7c5-7b4108042bf02.jpg
-
 Napalm,Salient,Distance Drivers,Neutral,11,5,-2,2,https://infinitediscs.com/Salient-Napalm,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dc5f0ac8-751e-4ed9-a952-30e7c2129a57DSC03245.JPG
-
 Prometheus,Salient,Distance Drivers,Neutral,14,4,-1,1.1,https://infinitediscs.com/Salient-Prometheus,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_407d747b-85a0-44a3-9a3e-f430172c6b29Salient Prometheus Liquid.jpg
-
 Reign,Salient,Distance Drivers,Overstable,13,5,0,2,https://infinitediscs.com/Salient-Reign,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_d7198224-605e-4687-95cb-8c21b8b2c3eaDSC03239.JPG
-
 Flatline,Salient,Control Drivers,Overstable,6,5,-0.5,1,https://infinitediscs.com/Salient-Flatline,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_ec40bd43-9085-4084-9439-8c921f1173b3DSC03242.JPG
-
 Suture,Salient,Control Drivers,Understable,9,5,-2,1,https://infinitediscs.com/Salient-Suture,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5baa74c5-561f-40d0-9236-5df1f86f2672DSC03238.JPG
-
 Vein,Salient,Control Drivers,Overstable,8,4,0,2,https://infinitediscs.com/Salient-Vein,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_814d2081-cf71-4b13-a25f-01d921bff6501.jpg
-
 Antidote,Salient,Mid Range,Overstable,5,5,0.1,1,https://infinitediscs.com/Salient-Antidote,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_db502261-4348-4664-a0a4-e261079af2f4IMG_2511.JPG
-
 Vaccine,Salient,Mid Range,Overstable,3,3,0,2,https://infinitediscs.com/Salient-Vaccine,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_02b83b3f-c9bf-4f93-b8d9-f0202cd3329dDSC03240.JPG
-
 Touch,Salient,Putters,Overstable,2,3,0,1,https://infinitediscs.com/Salient-Touch,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_f34bc87b-2a02-4815-a96e-31fc38f6f1afDSC01716.JPG
-
 Lucky 13,Skyquest,Distance Drivers,Understable,10,5,-3,2,https://infinitediscs.com/Skyquest-Lucky-13,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdsadasd.JPG
-
 Medusa,Skyquest,Distance Drivers,Neutral,10.9,5,-2.2,1.9,https://infinitediscs.com/Skyquest-Medusa,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_sdfgsdfg.JPG
-
 Chainzilla,Skyquest,Putters,Neutral,2,3,-1,1,https://infinitediscs.com/Skyquest-Chainzilla,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_sfhhjes.JPG
-
 Jet Stream,Storm Disc Golf,Distance Drivers,Overstable,12,5,-0.9,3,https://infinitediscs.com/Storm-Disc-Golf-Jet-Stream,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_5b735e-484a.JPG
-
 Maelstrom,Storm Disc Golf,Distance Drivers,Overstable,11,5,-1,2.9,https://infinitediscs.com/Storm-Disc-Golf-Maelstrom,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_92daca-4ef9.jpg
-
 Abyss,Storm Disc Golf,Control Drivers,Overstable,8,4,0,2.9,https://infinitediscs.com/Storm-Disc-Golf-Abyss,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_e99d1a-b5a8.JPG
-
 Eye,Storm Disc Golf,Mid Range,Neutral,5,5,-1.1,1,https://infinitediscs.com/Storm-Disc-Golf-Eye,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_15661f-8988.JPG
-
 Wall Cloud,Storm Disc Golf,Mid Range,Overstable,5,5,0,3,https://infinitediscs.com/Storm-Disc-Golf-Wall-Cloud,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_hihrescat1.JPG
-
 Crater,Storm Disc Golf,Putters,Overstable,3,2,0,2.9,https://infinitediscs.com/Storm-Disc-Golf-Crater,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3d647b-135e.JPG
-
 Radar,Storm Disc Golf,Putters,Neutral,2,5,0,0.5,https://infinitediscs.com/Storm-Disc-Golf-Radar,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_3c074c-aaf9.JPG
-
 Flare,Streamline,Distance Drivers,Very Overstable,9,3.8,0.1,3.7,https://infinitediscs.com/Streamline-Flare,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_6e0a3c-be20.JPG
-
 Lift,Streamline,Distance Drivers,Neutral,9,5,-1.7,1.6,https://infinitediscs.com/Streamline-Lift,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c26da8-8c62.JPG
-
 Trace,Streamline,Distance Drivers,Overstable,11,5,-1,2,https://infinitediscs.com/Streamline-Trace,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_StreamlineTrace-Neutron-orange.jpeg
-
 Drift,Streamline,Control Drivers,Understable,7,5.1,-1.8,1.1,https://infinitediscs.com/Streamline-Drift,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Drift-Stock-Purple-Squared.jpg
-
 Runway,Streamline,Mid Range,Overstable,5,4,0,3.4,https://infinitediscs.com/Streamline-Runway,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_RunwayHQ.JPG
-
 Pilot,Streamline,Putters,Neutral,2.1,5,-0.9,1,https://infinitediscs.com/Streamline-Pilot,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Pilot-ElectronS-gray.jpeg
-
 Stabilizer,Streamline,Putters,Overstable,3,3.9,0,2.9,https://infinitediscs.com/Streamline-Stabilizer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_COSMICNEUTRAONSTABILIZER.JPG
-
 Berserker,Viking Discs,Distance Drivers,Understable,9.9,5.1,-3.3,1.7,https://infinitediscs.com/Viking-Discs-Berserker,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04578.jpg
-
 Ragnarok,Viking Discs,Distance Drivers,Overstable,11.2,5.1,-1.2,1.8,https://infinitediscs.com/Viking-Discs-Ragnarok,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04583.jpg
-
 Thunder God Thor,Viking Discs,Distance Drivers,Overstable,14,5,0,2.3,https://infinitediscs.com/Viking-Discs-Thunder-God-Thor,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04958.jpg
-
 Valhalla,Viking Discs,Distance Drivers,Overstable,11.9,4.9,0,2,https://infinitediscs.com/Viking-Discs-Valhalla,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asedfdf.JPG
-
 Barbarian,Viking Discs,Control Drivers,Overstable,7.1,5,-0.1,1.9,https://infinitediscs.com/Viking-Discs-Barbarian,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asdfasdfasdf_1.JPG
-
 Cosmos,Viking Discs,Control Drivers,Overstable,7,5,-0.4,1,https://infinitediscs.com/Viking-Discs-Cosmos,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04584.jpg
-
 Axe,Viking Discs,Mid Range,Overstable,4,3,-0.1,1,https://infinitediscs.com/Viking-Discs-Axe,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04579.jpg
-
 Loki,Viking Discs,Mid Range,Very Overstable,3.9,2.1,0,4,https://infinitediscs.com/Viking-Discs-Loki,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_aefefefef.JPG
-
 Nordic Warrior,Viking Discs,Mid Range,Overstable,4,4,0,2,https://infinitediscs.com/Viking-Discs-Nordic-Warrior,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04585.jpg
-
 Knife,Viking Discs,Putters,Overstable,2.9,3.1,0,1.8,https://infinitediscs.com/Viking-Discs-Knife,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04582.jpg
-
 Rune,Viking Discs,Putters,Neutral,2,4,0,0,https://infinitediscs.com/Viking-Discs-Rune,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_DSC04963.jpg
-
 Zion Driver,XCom,Distance Drivers,Overstable,10,4,-1,2,https://infinitediscs.com/XCom-Zion-Driver,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_da8480-4fca.JPG
-
 Helios,XCom,Control Drivers,Understable,6,5,-3,1,https://infinitediscs.com/XCom-Helios,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b4f3d5-c86c.JPG
-
 Eden,XCom,Mid Range,Overstable,5,4,-0.1,2,https://infinitediscs.com/XCom-Eden,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_530253-51ef.JPG
-
 Griffon,XCom,Mid Range,Understable,5,4.1,-2.4,0,https://infinitediscs.com/XCom-Griffon,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_HighRes_37.JPG
-
 Bennu,XCom,Putters,Understable,3,5,-1,0,https://infinitediscs.com/XCom-Bennu,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_cbe89c-7fea.JPG
-
 DA'E,Yikun,Distance Drivers,Overstable,12.9,5.1,-0.1,2.3,https://infinitediscs.com/Yikun-DAE,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b060227f-738c-453a-8d2d-a533f88c53ef9.jpg
-
 Jun,Yikun,Distance Drivers,Overstable,11,4.9,-1.2,2,https://infinitediscs.com/Yikun-Jun,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_00b267ff-e759-4036-a933-6f1992bae24eYikun Jun Dragon.jpg
-
 Luan,Yikun,Distance Drivers,Overstable,13.9,4.9,-0.9,2.9,https://infinitediscs.com/Yikun-Lu,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_asvsdas.JPG
-
 Twin Swords,Yikun,Distance Drivers,Overstable,11.9,5,-0.3,1.9,https://infinitediscs.com/Yikun-Twin-Swords,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_9600a3-f375.JPG
-
 Wei,Yikun,Distance Drivers,Very Understable,10,5,-4.6,1.5,https://infinitediscs.com/Yikun-Wei,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_c35b9453-4198-4839-9560-ee8ed6fae266DSC09554.JPG
-
 Gou,Yikun,Control Drivers,Very Understable,8.2,5.1,-3.8,1.1,https://infinitediscs.com/Yikun-Gou,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_2d1c68de-5816-4dde-8a98-65e6f01be22b2.jpg
-
 Hu,Yikun,Control Drivers,Neutral,9,5,-2.5,1.8,https://infinitediscs.com/Yikun-Hu,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_cbce1e08-bf75-4c1c-bcb9-862a8fde43383.jpg
-
 Jiao,Yikun,Control Drivers,Very Understable,6,5,-5,0.5,https://infinitediscs.com/Yikun-Jiao,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b9f0a085-953e-49d5-992d-164b6b949f0fsmall.JPG
-
 View,Yikun,Control Drivers,Overstable,6,4.1,-1,2,https://infinitediscs.com/Yikun-View,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_a1156373-24ae-4c8f-a0ed-d8d2bf4fb504Yikun View Tiger.jpg
-
 Crossbow,Yikun,Mid Range,Very Overstable,4,2,0.5,4,https://infinitediscs.com/Yikun-Crossbow,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4afa69-b225.JPG
-
 Kui,Yikun,Mid Range,Overstable,5.1,5,0,2.3,https://infinitediscs.com/Yikun-Kui,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_dsagsdfadav.JPG
-
 Tomahawk,Yikun,Mid Range,Very Understable,4.8,5.9,-3,0,https://infinitediscs.com/Yikun-Tomahawk,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_TOMAHAWK_2.JPG
-
 Wings,Yikun,Mid Range,Overstable,3,3,0,1.9,https://infinitediscs.com/Yikun-Wings,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b981b376-11d3-4f44-8dc1-4c8a887da690DSC09551.jpg
-
 Yao,Yikun,Mid Range,Overstable,4.1,4,-0.1,2,https://infinitediscs.com/Yikun-Yao,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_cc46e091-2bc8-4065-8bfb-94ea8a5e36aeYikun Yao Phoenix.jpg
-
 Claws,Yikun,Putters,Neutral,1,2,0,0,https://infinitediscs.com/Yikun-Talon-(Claws),https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_4a8d2652-2be5-47ff-9ce2-2f945af7777cTalon-Tiger.jpg
-
 Gui,Yikun,Putters,Overstable,2.2,3,0,2,https://infinitediscs.com/Yikun-Gui,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_30b89331-525e-4727-b718-25011f80b7994.jpg
-
 Hammer (Chui),Yikun,Putters,Overstable,2,2.9,0,2.9,https://infinitediscs.com/Yikun-Hammer-(Chui),https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_b9968a-188a.jpg
-
 Meteor Hammer,Yikun,Putters,Neutral,2.1,3.1,-0.1,0,https://infinitediscs.com/Yikun-Meteor-Hammer,https://infinitediscs.com/Inf_Uploads/Disc_Images/DI-2_Meteor-Hammer.JPG
-

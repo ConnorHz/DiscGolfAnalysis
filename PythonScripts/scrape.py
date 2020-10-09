@@ -38,11 +38,11 @@ for category_links in soup.find('div', id='main-menu').find_all('li'):
         if category_links.a.text not in brands.keys():
             brands[category_links.a.text] = category_links.a['href']
 
-with open(os.path.join("..", "Resources", "Discs.csv"), 'w') as csvfile:
+with open(os.path.join("..", "Resources", "Discs.csv"), 'w', newline='') as csvfile:
 
     csvwriter = csv.writer(csvfile, delimiter=',')
 
-    csvwriter.writerow(["Name", "Brand", "Category", "Stability", "Speed", "Glide", "Turn", "Fade", "URL", "ImageURL"])
+    csvwriter.writerow(["Name", "Brand", "Category", "Stability", "Speed", "Glide", "Turn", "Fade", "URL", "ThumbnailURL"])
 
     for brand in brands:
         source_brand = req.get(f'{url}{brands[brand]}').text
