@@ -161,7 +161,7 @@ d3.csv("resources/holes.csv").then(function (holeData, err) {
             
                 d.curveLength = quadraticBezierLength(d.strokeStart, d.strokeApex, d.strokeEnd);
 
-                console.log(d);
+                // console.log(d);
             
             })
         })

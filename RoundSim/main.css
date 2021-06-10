@@ -1,6 +1,29 @@
+body {
+    overflow: hidden;
+}
+.content-wrapper {
+    max-width: 600px;
+    margin: auto;
+    border: black 1px solid;
+}
 
 #header {
     text-align: center;
+}
+
+.hole-container {
+    grid-row-start: 1;
+    grid-column-start: 1;
+}
+
+.svg-container {
+  display: grid;
+  grid-template-rows: 1fr;
+}
+
+.svg-container .hole-container:not(:first-child) {
+    transform: translateX(1000px);
+    opacity: 0;
 }
 
 .svg-container, .hole-info {
