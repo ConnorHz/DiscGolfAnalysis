@@ -1,0 +1,52 @@
+
+#header {
+    text-align: center;
+}
+
+.svg-container, .hole-info {
+    width: 90%;
+    margin: auto;
+}
+
+.hole-info {
+    font-family: 'Staatliches', cursive;
+}
+
+.hole-svg {
+    background-image: linear-gradient(#71c0d2, white);
+    border: black 1px solid;
+}
+
+.ground-line {
+    stroke:rgb(32, 122, 7);
+    stroke-width:5;
+}
+
+.circle-boundaries {
+    stroke:black;
+    stroke-width:3;
+}
+
+#strokes path {
+    stroke: orange;
+    fill: none;
+    stroke-width:4;
+}
+
+#scoreName {
+    opacity: 0;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 3px;
+}
+
+.align-left {
+	float: left;
+}
+.align-right {
+	float: right;
+}
+
+p {
+    margin: 0;
+}

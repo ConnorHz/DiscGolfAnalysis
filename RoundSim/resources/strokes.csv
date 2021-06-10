@@ -1,0 +1,7 @@
+hole,stroke,type,style,position,ob,throwInDistance
+1,1,air,RHFH,C2
+1,2,air,RHBH,C1
+1,3,air,RHBH,In,5
+2,1,roller,RHBH,Fairway
+2,2,air,RHBH,C1
+2,3,air,RHBH,In,27
