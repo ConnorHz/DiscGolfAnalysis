@@ -65,7 +65,9 @@ var hole = {
 }
 
 var groundLength = 750;
-var groundHeight = 250
+var groundHeight = 250;
+
+var transitionLength = 1000;
 
 var scale = groundLength / hole["distance"];
 
@@ -87,142 +89,150 @@ circleBoundaries.lineTo(circleTwoBoundary, groundHeight - 10);
 
 d3.select("#circleBoundaries").attr("d", circleBoundaries);
 
-d3.csv("resources/holes.csv").then(function(holeData, err) {
+d3.csv("resources/holes.csv").then(function (holeData, err) {
 
     if (err) throw err;
 
-    var container = d3.select(".svg-container");
+    d3.csv("resources/strokes.csv").then(function (strokeData, err) {
+        if (err) throw err;
 
-    var holeContainers = container.selectAll("div").data(holeData).enter().append("div")
-        .attr("class", "hole-container")
-        .attr("id", d => `hole${d.hole}`)
+        holeData.forEach((h, index, array) => {
+            h.strokes = strokeData.filter(s => (s.hole == h.hole));
 
-    var holeInfoContainers = holeContainers.append("div")
-        .attr("class", "hole-info");
+            h.fairwayStrokes = h.strokes.filter(s => (s.position != "C1" && s.position != "C2" && s.position != "In")).length;
+            h.fairwayLength = circleTwoBoundary - 10;
+            h.fairwayIncrements = h.fairwayLength / (h.fairwayStrokes + 1);
 
-    holeInfoContainers.append("p")
-        .text(d => `Hole: ${d.hole}`)
-        .attr("class", "align-left");
+            h.strokes.forEach((d, index, array) => {
 
-    holeInfoContainers.append("p")
-        .text(d => `Par: ${d.par}`)
-        .attr("class", "align-right");
+                d.stroke = +d.stroke;
+                d.throwInDistance = +d.throwInDistance;
 
-    holeInfoContainers.append("div")
-        .attr("style", "clear: both;");
-
-    var holeSVGs = holeContainers.append("svg")
-        .attr("class", "hole-svg")
-        .attr("viewBox", "0 0 750 250");
-    
-    holeSVGs.append("line")
-        .attr("class", "ground-line")
-        .attr("x1", "0")
-        .attr("y1", "250")
-        .attr("x2", "750")
-        .attr("y2", "250")
-
-    holeSVGs.append("path")
-        .attr("class", "circle-boundaries");
-
-    holeSVGs.append("g")
-        .attr("id", "strokes");
-
-    holeSVGs.append("g")
-        .attr("id", "pin");
-    
-
-
-});
-
-d3.csv("resources/strokes.csv").then(function(strokeData, err) {
-
-    if (err) throw err;
-
-    strokeData = strokeData.filter(d => (d.hole == hole.hole));
-
-    var fairwayStrokes = strokeData.filter(s => (s.position != "C1" && s.position != "C2" && s.position != "In")).length;
-    var fairwayLength = circleTwoBoundary - 10;
-    var fairwayIncrements = fairwayLength/(fairwayStrokes+1);
-
-    // console.log(`Fairway Shots: ${fairwayStrokes}`);
-    // console.log(`Fairway Increments: ${fairwayIncrements}`);
-
-    strokeData.forEach((d, index, array) => {
+                if (typeof array[index-1] === 'undefined') {
+                    d.positionChange = `Tee->${d.position}`;
+                } else {
+                    d.positionChange= `${array[index-1].position}->${d.position}`;
+                }
         
-        d.stroke = +d.stroke;
-        d.throwInDistance = +d.throwInDistance;
+                d.strokeStart = new Point(0,250);
+                d.strokeApex = new Point(0,100);
+                d.strokeEnd = new Point(0,250);
+            
+                if (index == 0) {
+                    d.strokeStart.x = 10;
+                } else {
+                    d.strokeStart.x = array[index-1].strokeEnd.x;
+                    d.strokeStart.y = array[index-1].strokeEnd.y;
+                }
 
-        d.strokeStart = new Point(0,250);
-        d.strokeApex = new Point(0,100);
-        d.strokeEnd = new Point(0,250);
-    
-        if (index == 0) {
-            d.strokeStart.x = 10;
-        } else {
-            d.strokeStart.x = array[index-1].strokeEnd.x;
-            d.strokeStart.y = array[index-1].strokeEnd.y;
-        }
-    
-        switch (d.position) {
-            case "Fairway":
-                d.strokeEnd.x = d.strokeStart.x + fairwayIncrements;
-                break;
-            case "C2":
-                d.strokeEnd.x = 670;
-                break;
+                switch (d.type) {
+                    case "roller":
+                        d.strokeApex.y = 240;
+                        break;
+                    case "overhand":
+                        d.strokeApex.y = -150;
+                    default:
+                        break;
+                }
+            
+                switch (d.position) {
+                    case "Fairway":
+                        d.strokeEnd.x = d.strokeStart.x + h.fairwayIncrements;
+                        break;
+                    case "C2":
+                        d.strokeEnd.x = 670;
+                        break;
+        
+                    case "C1":
+                        d.strokeEnd.x = 720;
+                        break;
+        
+                    case "In":
+                        d.strokeEnd.x = pinPositionX;
+                        d.strokeEnd.y -= 20;
+                        break;
+        
+                    default:
+                        d.strokeEnd.x = 200;
+                        break;
+                }
 
-            case "C1":
-                d.strokeEnd.x = 720;
-                d.strokeApex.y = 235;
-                break;
+                d.strokeApex.x = (d.strokeStart.x + d.strokeEnd.x) / 2;
+            
+                d.curveLength = quadraticBezierLength(d.strokeStart, d.strokeApex, d.strokeEnd);
 
-            case "In":
-                d.strokeEnd.x = pinPositionX;
-                d.strokeEnd.y -= 20;
-                d.strokeApex.y = 230
-                break;
+                console.log(d);
+            
+            })
+        })
 
-            default:
-                d.strokeEnd.x = 200;
-                break;
-        }
+        var container = d3.select(".svg-container");
 
-        switch (d.type) {
-            case "roller":
-                d.strokeApex.y = 240;
-                break;
-            case "overhand":
-                d.strokeApex.y = -150;
-            default:
-                break;
-        }        
-    
-        d.strokeApex.x = (d.strokeStart.x + d.strokeEnd.x) / 2;
-    
-        d.curveLength = quadraticBezierLength(d.strokeStart, d.strokeApex, d.strokeEnd);
+        var holeContainers = container.selectAll("div").data(holeData).enter().append("div")
+            .attr("class", "hole-container")
+            .attr("id", d => `hole${d.hole}`)
+
+        var holeInfoContainers = holeContainers.append("div")
+            .attr("class", "hole-info");
+
+        holeInfoContainers.append("p")
+            .text(d => `Hole: ${d.hole}`)
+            .attr("class", "align-left");
+
+        holeInfoContainers.append("p")
+            .text(d => `Par: ${d.par}`)
+            .attr("class", "align-right");
+
+        holeInfoContainers.append("div")
+            .attr("style", "clear: both;");
+
+        var holeSVGs = holeContainers.append("svg")
+            .attr("class", "hole-svg")
+            .attr("viewBox", "0 0 750 250");
+
+        holeSVGs.append("line")
+            .attr("class", "ground-line")
+            .attr("x1", "0")
+            .attr("y1", "250")
+            .attr("x2", "750")
+            .attr("y2", "250")
+
+        var circleBoundaryGroups = holeSVGs.append("path")
+            .attr("class", "circle-boundaries");
+
+        var strokeGroups = holeSVGs.append("g")
+            .attr("id", "strokes");
+
+        holeSVGs.append("g")
+            .attr("id", "pin")
+            .append("path")
+            .attr("class", 'pin')
+            .attr("d", `M ${pinPositionX} 250 L ${pinPositionX} 200 L ${pinPositionX - 15} 210 L ${pinPositionX} 215`);     
+
+        var strokes = strokeGroups.selectAll(null)
+            .data(d => d.strokes)
+            .enter()
+            .append("path")
+            .style("stroke-dasharray", d => d.curveLength)
+            .style("stroke-dashoffset", d => d.curveLength)
+            .attr("d", d => `M${d.strokeStart.printCoordinates()}Q${d.strokeApex.printCoordinates()},${d.strokeEnd.printCoordinates()}`)
+            .transition()
+            .duration(transitionLength)
+            .delay(d => (transitionLength * (d.stroke-1)))
+            .style("stroke-dashoffset", "0");
+
+        d3.selectAll("#scoreName")
+            .text(getScoreName(hole.par, strokeData.length))
+            .style("animation-delay", `${strokeData.length}s`);
+
+        // console.log(strokes);
     });
 
-    var strokeGroup = svgLive.select("#strokes");
-
-    // Make sure strokes are in the correct order
-    strokeData.sort((a, b) => (a.stroke > b.stroke) ? 1 : -1)
-
-    strokeGroup.selectAll("path").data(strokeData).enter().append("path")
-        .style("stroke-dasharray", d => d.curveLength)
-        .style("stroke-dashoffset", d => d.curveLength)
-        .attr("d", function(d) {return `M${d.strokeStart.printCoordinates()}Q${d.strokeApex.printCoordinates()},${d.strokeEnd.printCoordinates()}`}).transition()
-        .duration(1000)
-        .delay(d => (1000 * (d.stroke-1)))
-        .style("stroke-dashoffset", "0");
-
-    d3.selectAll("#scoreName")
-        .text(getScoreName(hole.par, strokeData.length))
-        .style("animation-delay", `${strokeData.length}s`);
-
-    // svgLive.attr("class", "slide-out-left").style("animation-delay", `${strokeData.length+1}s`);
-    // svgStage.attr("class", "slide-in-right").style("animation-delay", `${strokeData.length+1}s`);
 });
+
+
+// svgLive.attr("class", "slide-out-left").style("animation-delay", `${strokeData.length+1}s`);
+// svgStage.attr("class", "slide-in-right").style("animation-delay", `${strokeData.length+1}s`);
 
 // console.log(foo);
 // renderStrokes(hole, strokesToPoints(listStrokes));
