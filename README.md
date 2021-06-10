@@ -2,10 +2,8 @@
 
 This repo is a running project for transforming and analyzing disc golf data.
 
-## Technologies
+## Python Scripts
 
-## Proposed Projects
-  * Use Beautiful Soup to scrape disc data weekly
-
-## Current Projects
- * Modify flight data csv using python to seperate flight statistics and assign categories
+ ### scrape.py
+ 
+ This script uses the BeautifulSoup and Requests libraries to scrape disc category, brand and flight data and exports it to a CSV. The data comes from the home page and specific brand pages of InfiniteDiscs.com
