@@ -16,6 +16,7 @@ function renderStrokes(hole, strokes) {
 
 function getScoreName(par, strokes) {
     var scoreName = "";
+    var scoreColor = "white"
     var score = strokes - par;
 
     if (strokes == 1) {
@@ -28,30 +29,72 @@ function getScoreName(par, strokes) {
             break;
         case -1:
             scoreName = "BIRDIE";
+            scoreColor = "#77acd9";
             break;
         case -2:
             scoreName = "EAGLE";
+            scoreColor = "#4f93ce";
             break;
         case -3:
             scoreName = "ALBATROSS";
             break;
         case 1:
             scoreName = "BOGEY";
+            scoreColor = "#ffd79d"
             break;
         case 2:
             scoreName = "DOUBLE BOGEY";
+            scoreColor = "#ffad37"
             break;
         case 3:
             scoreName = "TRIPLE BOGEY";
+            scoreColor = "#ffad37"
             break;
         case 4:
             scoreName = "QUADRUPLE BOGEY";
+            scoreColor = "#ffad37"
             break;
         default:
             break;
     }
 
-    return scoreName;
+    return {"name": scoreName, "color": scoreColor};
+}
+
+function drawHole(hole) {
+
+    console.log(hole);
+    var holeContainter = d3.select(`#hole${hole}`);
+
+    var strokeCount = 0
+
+    holeContainter.select("#strokes")
+        .selectAll("path")
+        .each(d => strokeCount++)
+        .transition()
+        .duration(transitionLength)
+        .delay(d => transitionLength * (d.stroke-1))
+        .style("stroke-dashoffset", "0");
+
+    holeContainter.select(".score-name").transition()
+        .delay(transitionLength * strokeCount)
+        .attr("class", "text-pop-up-top score-name")
+        .on("end", function() {
+            nextHole(hole);
+        });
+}
+
+function nextHole(activeHole) {
+
+    d3.select(".svg-container").transition()
+        .duration(transitionLength*2)
+        .delay(transitionLength)
+        .ease(d3.easeCubic)
+        .style("transform", `translateX(-${1000*activeHole++}px)`)
+        .on("end", function() {
+            drawHole(activeHole++);
+        });;
+    
 }
 
 var svgLive = d3.select("svg#live");
@@ -63,6 +106,8 @@ var hole = {
     par: 3,
     distance: 540
 }
+
+var activeHole = 1
 
 var groundLength = 750;
 var groundHeight = 250;
@@ -88,6 +133,7 @@ circleBoundaries.moveTo(circleTwoBoundary, groundHeight);
 circleBoundaries.lineTo(circleTwoBoundary, groundHeight - 10);
 
 d3.select("#circleBoundaries").attr("d", circleBoundaries);
+
 
 d3.csv("resources/holes.csv").then(function (holeData, err) {
 
@@ -171,7 +217,13 @@ d3.csv("resources/holes.csv").then(function (holeData, err) {
         var holeContainers = container.selectAll("div").data(holeData).enter().append("div")
             .attr("class", "hole-container")
             .attr("id", d => `hole${d.hole}`)
+            .style("transform", (d, i) => `translateX(${1000*i}px)`);
 
+        var scoreNames = holeContainers.append("h1")
+            .attr("class", "score-name")
+            .style("color", d => getScoreName(d.par, d.strokes.length).color)
+            .text(d => getScoreName(d.par, d.strokes.length).name);
+ 
         var holeInfoContainers = holeContainers.append("div")
             .attr("class", "hole-info");
 
@@ -215,24 +267,12 @@ d3.csv("resources/holes.csv").then(function (holeData, err) {
             .append("path")
             .style("stroke-dasharray", d => d.curveLength)
             .style("stroke-dashoffset", d => d.curveLength)
-            .attr("d", d => `M${d.strokeStart.printCoordinates()}Q${d.strokeApex.printCoordinates()},${d.strokeEnd.printCoordinates()}`)
-            .transition()
-            .duration(transitionLength)
-            .delay(d => (transitionLength * (d.stroke-1)))
-            .style("stroke-dashoffset", "0");
-
-        d3.selectAll("#scoreName")
-            .text(getScoreName(hole.par, strokeData.length))
-            .style("animation-delay", `${strokeData.length}s`);
-
-        // console.log(strokes);
+            .attr("d", d => `M${d.strokeStart.printCoordinates()}Q${d.strokeApex.printCoordinates()},${d.strokeEnd.printCoordinates()}`);
+            
+            drawHole(1)
     });
 
 });
 
 
-// svgLive.attr("class", "slide-out-left").style("animation-delay", `${strokeData.length+1}s`);
-// svgStage.attr("class", "slide-in-right").style("animation-delay", `${strokeData.length+1}s`);
 
-// console.log(foo);
-// renderStrokes(hole, strokesToPoints(listStrokes));
